@@ -1,0 +1,1001 @@
+order_id,restaurant_id,date_key,distance_km,delivery_time_min,prep_time_min,courier_experience_yrs,weather,traffic_level,vehicle_type,time_of_day,city,cuisine,liked,is_distance_outlier,is_delivery_time_outlier
+522,655,20260820,7.93,43,12,1.0,Windy,Low,Scooter,Afternoon,New Delhi,Pizza,1,False,False
+738,115,20260821,16.42,84,20,2.0,Clear,Medium,Bike,Evening,Noida,North Indian,1,False,False
+741,26,20260822,9.52,59,28,1.0,Foggy,Low,Scooter,Night,New Delhi,Bakery,0,False,False
+661,760,20260823,7.44,37,5,1.0,Rainy,Medium,Scooter,Afternoon,New Delhi,Bakery,1,False,False
+412,282,20260824,19.03,68,16,5.0,Clear,Low,Bike,Morning,New Delhi,North Indian,0,False,False
+679,251,20260825,19.4,57,8,9.0,Clear,Low,Scooter,Evening,Kolkata,Cafe,0,False,False
+627,229,20260826,9.52,49,12,1.0,Clear,Low,Bike,,New Delhi,Desserts,0,False,False
+514,143,20260827,17.39,46,5,6.0,Clear,Medium,Scooter,Evening,New Delhi,Fast Food,0,False,False
+860,755,20260828,1.78,35,20,6.0,Snowy,Low,Car,Evening,New Delhi,North Indian,0,False,False
+137,105,20260829,10.62,73,29,1.0,Foggy,Low,Scooter,Evening,New Delhi,North Indian,1,False,False
+812,693,20260830,16.86,88,13,4.0,Snowy,Medium,Car,Afternoon,New Delhi,Mithai,0,False,False
+77,759,20260831,15.54,76,29,1.0,Clear,Low,Bike,Night,New Delhi,South Indian,1,False,False
+637,914,20260901,10.89,53,12,5.0,Clear,High,Bike,Night,New Delhi,Chinese,1,False,False
+974,559,20260902,4.69,36,12,7.0,Rainy,Medium,Scooter,Evening,Noida,Italian,1,False,False
+939,90,20260903,2.8,33,10,,Clear,High,Scooter,Morning,Vizag,Burger,0,False,False
+900,605,20260904,2.17,35,15,3.0,Snowy,Low,Car,Evening,Noida,Italian,0,False,False
+281,433,20260905,17.86,50,5,1.0,Rainy,Low,Bike,Afternoon,Ludhiana,North Indian,1,False,False
+884,33,20260906,2.53,24,6,8.0,Snowy,Low,Bike,Morning,New Delhi,European,1,False,False
+762,31,20260907,6.58,27,6,7.0,Foggy,Low,Car,Evening,New Delhi,Chinese,1,False,False
+320,96,20260908,5.38,47,26,1.0,Clear,Medium,Scooter,Evening,New Delhi,French,0,False,False
+550,224,20260909,15.56,72,28,0.0,Rainy,Low,Scooter,Afternoon,Noida,Mithai,1,False,False
+175,239,20260820,13.08,58,16,4.0,Rainy,Low,Car,Morning,Gurgaon,North Indian,0,False,False
+372,518,20260821,0.86,37,26,5.0,Clear,High,Bike,Afternoon,Noida,North Indian,0,False,False
+528,617,20260822,5.83,56,27,9.0,Clear,High,Car,Evening,Noida,North Indian,1,False,False
+211,28,20260823,11.2,73,23,,Clear,Medium,Bike,Morning,Gurgaon,Mithai,0,False,False
+236,575,20260824,14.59,64,15,6.0,Clear,Medium,Bike,Morning,New Delhi,North Indian,0,False,False
+102,204,20260825,12.91,56,11,6.0,Windy,Medium,Bike,Evening,Colombo,Seafood,0,False,False
+987,734,20260826,13.92,70,18,4.0,Snowy,Low,Scooter,Morning,Noida,Fast Food,1,False,False
+903,666,20260827,4.04,70,11,9.0,Snowy,Low,Bike,Night,New Delhi,Cafe,1,False,False
+948,719,20260828,18.05,123,10,7.0,Clear,Medium,Scooter,Evening,New Delhi,North Indian,1,False,True
+347,559,20260829,12.88,52,8,5.0,Clear,Medium,Scooter,Morning,Noida,Italian,1,False,False
+140,430,20260830,19.45,108,20,6.0,Rainy,High,Scooter,Morning,New Delhi,Chinese,0,False,False
+622,226,20260831,4.58,45,22,9.0,Clear,High,Scooter,Morning,Gurgaon,North Indian,1,False,False
+500,460,20260901,19.73,111,27,4.0,Foggy,Medium,Bike,Evening,Faridabad,North Indian,1,False,False
+371,604,20260902,2.47,44,27,2.0,Windy,Medium,Bike,Morning,New Delhi,North Indian,1,False,False
+199,285,20260903,17.8,73,16,9.0,Snowy,Medium,Bike,Morning,New Delhi,North Indian,0,False,False
+688,829,20260904,5.96,45,22,7.0,Clear,Medium,Bike,Afternoon,New Delhi,Bakery,0,False,False
+585,891,20260905,12.85,61,18,7.0,Windy,Medium,Scooter,Afternoon,New Delhi,North Indian,0,False,False
+902,7,20260906,1.02,34,25,4.0,Clear,Medium,Bike,Afternoon,New Delhi,Bakery,1,False,False
+60,778,20260907,6.84,47,14,8.0,Rainy,Medium,Car,Night,New Delhi,Kerala,0,False,False
+329,826,20260908,8.68,52,8,5.0,Rainy,Medium,Bike,Morning,Noida,North Indian,0,False,False
+97,164,20260909,10.69,67,25,9.0,Clear,Medium,Bike,Night,Nagpur,Chinese,1,False,False
+313,715,20260820,0.99,32,15,,Unknown,Medium,Bike,Evening,New Delhi,Chinese,1,False,False
+975,433,20260821,1.11,8,5,6.0,Clear,Low,Bike,Morning,Ludhiana,North Indian,0,False,False
+300,349,20260822,2.16,36,15,0.0,Snowy,Low,Scooter,Evening,New Delhi,North Indian,0,False,False
+278,285,20260823,13.17,67,16,4.0,Windy,Medium,Bike,Afternoon,New Delhi,North Indian,0,False,False
+925,160,20260824,8.79,43,14,6.0,Snowy,Low,Bike,Night,New Delhi,Desserts,1,False,False
+602,221,20260825,5.93,36,19,3.0,Clear,Low,Scooter,Afternoon,New Delhi,North Indian,1,False,False
+440,981,20260826,2.09,36,23,2.0,Rainy,Low,Bike,Night,New Delhi,North Indian,0,False,False
+838,782,20260827,7.57,56,21,0.0,Clear,Low,Bike,Morning,New Delhi,Chinese,1,False,False
+571,345,20260828,10.52,56,8,4.0,Rainy,Medium,Scooter,Afternoon,Noida,Fast Food,0,False,False
+880,105,20260829,4.83,47,25,9.0,Rainy,Low,Car,Morning,New Delhi,North Indian,1,False,False
+262,95,20260830,19.81,104,20,5.0,Snowy,Medium,Car,Afternoon,Bhubaneshwar,North Indian,1,False,False
+579,390,20260831,10.1,50,8,4.0,Rainy,Low,Car,Evening,Mysore,Finger Food,1,False,False
+24,100,20260901,7.64,31,10,8.0,Windy,Low,Car,Afternoon,New Delhi,North Indian,1,False,False
+31,368,20260902,12.35,35,10,6.0,Clear,Low,Scooter,Morning,Rio de Janeiro,Brazilian,0,False,False
+618,868,20260903,5.9,44,26,9.0,Rainy,Low,Car,Evening,Sandton,Contemporary,1,False,False
+11,353,20260904,0.9,23,20,8.0,Clear,Low,Bike,Afternoon,Cedar Rapids/Iowa City,American,0,False,False
+222,619,20260905,11.58,61,16,2.0,Clear,Medium,Scooter,Morning,Noida,North Indian,0,False,False
+821,271,20260906,16.16,82,11,1.0,Clear,High,Bike,Afternoon,New Delhi,Hyderabadi,1,False,False
+297,827,20260907,15.51,69,17,9.0,Clear,Low,Bike,Evening,Gurgaon,Burmese,1,False,False
+55,45,20260908,12.16,69,11,0.0,Windy,High,Scooter,Evening,Noida,Juices,1,False,False
+543,748,20260909,4.96,60,21,0.0,Rainy,High,Bike,Morning,New Delhi,Fast Food,0,False,False
+210,471,20260820,3.64,40,17,6.0,Windy,High,Bike,Evening,New Delhi,Fast Food,0,False,False
+605,550,20260821,2.85,38,26,0.0,Clear,Low,Scooter,Morning,New Delhi,Bakery,0,False,False
+693,128,20260822,10.4,52,16,4.0,Clear,Low,Bike,Evening,New Delhi,North Indian,0,False,False
+663,997,20260823,12.31,68,29,4.0,Windy,Low,Bike,Morning,Noida,North Indian,1,False,False
+867,945,20260824,3.53,31,13,7.0,Clear,Medium,Bike,Afternoon,New Delhi,Beverages,1,False,False
+71,388,20260825,15.56,54,14,3.0,Clear,Medium,Bike,Evening,New Delhi,Fast Food,1,False,False
+544,81,20260826,13.6,87,27,0.0,Clear,Medium,Bike,Afternoon,New Delhi,Mughlai,1,False,False
+108,566,20260827,15.23,62,5,0.0,Snowy,High,Bike,Morning,New Delhi,Goan,1,False,False
+494,301,20260828,4.17,22,5,1.0,Unknown,Low,Scooter,Evening,New Delhi,Chinese,0,False,False
+591,850,20260829,3.21,42,16,0.0,Rainy,High,Scooter,Night,Lucknow,Cafe,0,False,False
+742,644,20260830,6.38,111,16,1.0,Snowy,Low,Bike,Evening,New Delhi,North Indian,0,False,False
+293,634,20260831,16.54,51,6,7.0,Rainy,Low,Scooter,Afternoon,New Delhi,Cafe,0,False,False
+290,907,20260901,12.02,41,9,7.0,Clear,Low,Car,Morning,New Delhi,Italian,1,False,False
+653,883,20260902,11.94,69,20,3.0,Clear,Low,Bike,Evening,Gurgaon,Healthy Food,1,False,False
+40,371,20260903,9.08,49,14,5.0,Clear,Low,Scooter,Afternoon,New Delhi,Bakery,0,False,False
+590,592,20260904,3.46,48,23,3.0,Snowy,Medium,Scooter,Morning,New Delhi,North Indian,1,False,False
+308,197,20260905,6.8,46,13,7.0,Foggy,Medium,Scooter,Morning,New Delhi,North Indian,1,False,False
+680,722,20260906,17.38,92,11,2.0,Rainy,Medium,Scooter,Afternoon,Ludhiana,Mediterranean,0,False,False
+67,72,20260907,3.25,32,23,7.0,Clear,Low,Bike,Morning,Noida,North Indian,1,False,False
+276,47,20260908,10.28,71,29,3.0,Clear,Medium,Scooter,Evening,New Delhi,Chinese,0,False,False
+68,678,20260909,16.14,65,6,9.0,Clear,Low,Car,Night,Hyderabad,North Indian,1,False,False
+319,234,20260820,3.55,43,23,0.0,Clear,Medium,Bike,Evening,Noida,North Indian,1,False,False
+549,792,20260821,10.65,58,23,8.0,Clear,Unknown,Scooter,Afternoon,Pretoria,Contemporary,1,False,False
+999,297,20260822,19.03,68,26,5.0,Clear,Low,Car,Afternoon,New Delhi,Chinese,0,False,False
+715,82,20260823,7.3,28,14,7.0,Clear,Low,Scooter,Night,Gurgaon,Pizza,1,False,False
+754,876,20260824,7.03,44,21,1.0,Clear,Low,Scooter,Evening,Jaipur,North Indian,1,False,False
+328,239,20260825,12.43,70,12,0.0,Snowy,Low,Car,Afternoon,Gurgaon,North Indian,0,False,False
+383,888,20260826,12.76,74,27,,Windy,High,Scooter,Morning,New Delhi,Chinese,0,False,False
+452,104,20260827,11.39,72,14,1.0,Rainy,High,Scooter,Evening,New Delhi,Finger Food,0,False,False
+523,390,20260828,19.41,48,7,3.0,Clear,Low,Car,Morning,Mysore,Finger Food,0,False,False
+219,285,20260829,13.17,69,17,8.0,Rainy,High,Scooter,Evening,New Delhi,North Indian,1,False,False
+788,465,20260830,8.32,49,12,2.0,Rainy,Low,Car,Afternoon,New Delhi,Mughlai,0,False,False
+437,651,20260831,1.92,14,8,7.0,Clear,Low,Bike,,Beechworth,Pizza,0,False,False
+765,855,20260901,1.15,30,26,4.0,Clear,Low,Scooter,Afternoon,Faridabad,North Indian,1,False,False
+89,374,20260902,17.8,73,12,9.0,Windy,High,Car,Afternoon,Orlando,American,1,False,False
+64,167,20260903,7.46,42,8,5.0,Clear,Medium,Bike,Evening,New Delhi,North Indian,0,False,False
+827,380,20260904,7.25,45,18,4.0,Clear,Medium,Scooter,Afternoon,New Delhi,Pizza,1,False,False
+717,364,20260905,16.7,76,28,1.0,Clear,Medium,Scooter,Afternoon,Bangalore,Finger Food,1,False,False
+352,215,20260906,17.2,94,14,2.0,Rainy,High,Scooter,Afternoon,Wellington City,French,1,False,False
+937,687,20260907,0.86,28,21,7.0,Clear,Medium,Car,Afternoon,Pensacola,Breakfast,0,False,False
+257,274,20260908,18.76,80,15,2.0,Clear,Medium,Car,Evening,New Delhi,Mithai,1,False,False
+636,719,20260909,9.22,57,18,9.0,Clear,Medium,Car,Afternoon,New Delhi,North Indian,1,False,False
+645,960,20260820,2.84,35,24,2.0,Clear,Low,Scooter,Evening,New Delhi,American,1,False,False
+555,700,20260821,17.59,69,24,6.0,Clear,Low,Bike,Morning,Noida,Italian,0,False,False
+960,664,20260822,14.89,87,17,6.0,Snowy,High,Scooter,Morning,New Delhi,North Indian,1,False,False
+169,74,20260823,1.3,31,22,4.0,Clear,Medium,Bike,Evening,New Delhi,Chinese,0,False,False
+918,624,20260824,18.99,70,10,6.0,Rainy,High,Bike,Afternoon,New Delhi,Mughlai,0,False,False
+529,651,20260825,1.6,37,24,,Foggy,Low,Scooter,Night,Beechworth,Pizza,0,False,False
+824,176,20260826,8.26,57,15,1.0,Snowy,Low,Bike,Afternoon,New Delhi,North Indian,1,False,False
+986,547,20260827,10.16,52,12,5.0,Clear,High,Bike,Night,New Delhi,North Indian,0,False,False
+817,747,20260828,12.03,65,20,5.0,Clear,Medium,Car,,Noida,North Indian,0,False,False
+87,251,20260829,14.73,74,24,6.0,Rainy,Low,Bike,Afternoon,Kolkata,Cafe,0,False,False
+433,168,20260830,12.56,69,17,5.0,Clear,High,Bike,Evening,Noida,Bakery,0,False,False
+185,474,20260831,5.53,44,19,1.0,Clear,Medium,Bike,Afternoon,Guwahati,Continental,1,False,False
+979,389,20260901,10.18,73,25,3.0,Foggy,Medium,Bike,Morning,New Delhi,North Indian,0,False,False
+535,277,20260902,15.5,91,28,9.0,Clear,Medium,Scooter,Morning,Gurgaon,American,1,False,False
+295,948,20260903,2.98,27,11,2.0,Foggy,Unknown,Bike,Night,New Delhi,North Indian,1,False,False
+893,656,20260904,16.69,65,8,2.0,Foggy,Medium,Scooter,Evening,New Delhi,Chinese,0,False,False
+426,705,20260905,11.22,79,25,5.0,Windy,High,Bike,Evening,Gurgaon,Fast Food,1,False,False
+714,571,20260906,8.53,41,8,2.0,Clear,Low,Scooter,Evening,New Delhi,Bakery,0,False,False
+261,225,20260907,12.49,77,25,4.0,Clear,Medium,Bike,Morning,New Delhi,North Indian,1,False,False
+238,702,20260908,0.97,26,24,8.0,Clear,Low,Scooter,Night,Faridabad,North Indian,0,False,False
+560,333,20260909,12.6,58,8,6.0,Windy,Medium,Car,Afternoon,New Delhi,Bakery,1,False,False
+584,864,20260820,6.91,56,28,9.0,Clear,Medium,Scooter,Evening,New Delhi,North Indian,0,False,False
+446,787,20260821,18.97,141,25,4.0,Clear,Low,Car,Evening,Bhopal,Cafe,1,False,True
+868,795,20260822,4.05,44,20,,Clear,Medium,Bike,Evening,New Delhi,North Indian,0,False,False
+801,58,20260823,14.29,78,14,7.0,Windy,Medium,Bike,Morning,Faridabad,Chinese,0,False,False
+600,235,20260824,1.3,29,19,5.0,Foggy,Low,Bike,Evening,Varanasi,South Indian,1,False,False
+850,842,20260825,12.11,59,9,5.0,Rainy,Low,Bike,Morning,New Delhi,North Indian,0,False,False
+266,33,20260826,14.94,62,11,0.0,Clear,Medium,Bike,Morning,New Delhi,European,1,False,False
+996,825,20260827,2.29,80,8,8.0,Rainy,High,Car,Afternoon,Aurangabad,North Indian,0,False,False
+530,324,20260828,17.36,105,24,1.0,Rainy,High,Bike,Afternoon,New Delhi,Mughlai,0,False,False
+56,411,20260829,18.48,82,8,0.0,Clear,Medium,Bike,Night,New Delhi,Street Food,1,False,False
+121,275,20260830,16.25,91,10,5.0,Foggy,High,Bike,Morning,Gurgaon,Bakery,1,False,False
+216,68,20260831,5.13,30,15,4.0,Clear,Low,Car,Morning,Gurgaon,Bakery,1,False,False
+26,217,20260901,15.81,92,25,1.0,Clear,Low,Car,,Brasí_lia,Japanese,0,False,False
+73,936,20260902,0.61,16,10,0.0,Clear,Low,Scooter,Afternoon,New Delhi,Bakery,1,False,False
+45,966,20260903,5.55,116,18,1.0,Foggy,High,Bike,Evening,Gurgaon,Bakery,0,False,False
+248,581,20260904,19.35,75,12,7.0,Clear,High,Bike,,New Delhi,North Indian,0,False,False
+722,898,20260905,4.03,25,9,5.0,Clear,Medium,Bike,Evening,New Delhi,Fast Food,0,False,False
+282,736,20260906,7.09,37,13,8.0,Snowy,Low,Scooter,Morning,New Delhi,Street Food,0,False,False
+894,323,20260907,8.25,28,7,9.0,Clear,Medium,Bike,Afternoon,New Delhi,Finger Food,0,False,False
+915,218,20260908,11.26,49,5,6.0,Clear,Low,Bike,Night,New Delhi,Chinese,1,False,False
+811,672,20260909,19.7,60,10,2.0,Rainy,Low,Bike,Evening,Pensacola,Seafood,1,False,False
+245,512,20260820,0.8,36,14,9.0,Snowy,High,Bike,Evening,New Delhi,North Indian,0,False,False
+823,406,20260821,7.0,49,17,9.0,Rainy,Medium,Bike,Evening,Gurgaon,Chinese,1,False,False
+322,906,20260822,14.43,113,14,4.0,Clear,Medium,Car,Morning,New Delhi,Fast Food,1,False,False
+644,937,20260823,6.89,43,11,6.0,Rainy,Medium,Bike,Afternoon,New Delhi,Fast Food,1,False,False
+159,659,20260824,5.13,60,25,1.0,Foggy,Medium,Car,Evening,New Delhi,North Indian,0,False,False
+978,470,20260825,1.5,17,10,1.0,Clear,Low,Bike,Afternoon,New Delhi,Cafe,0,False,False
+430,147,20260826,2.78,41,9,0.0,Unknown,High,Scooter,Afternoon,Makati City,French,0,False,False
+942,272,20260827,11.31,54,7,0.0,Clear,Medium,Bike,Evening,New Delhi,Mithai,1,False,False
+463,143,20260828,15.05,66,12,2.0,Clear,Medium,Car,Evening,New Delhi,Fast Food,0,False,False
+310,253,20260829,5.78,33,9,9.0,Foggy,Low,Scooter,Afternoon,New Delhi,North Indian,1,False,False
+698,763,20260830,11.83,32,9,7.0,Clear,Low,Scooter,Evening,Gurgaon,Biryani,1,False,False
+61,575,20260831,8.08,61,25,2.0,Foggy,Low,Bike,Morning,New Delhi,North Indian,0,False,False
+885,552,20260901,16.1,64,25,0.0,Clear,Low,Bike,Evening,New Delhi,North Indian,0,False,False
+596,270,20260902,9.74,37,7,8.0,Rainy,Medium,Scooter,Evening,Gurgaon,North Indian,0,False,False
+768,765,20260903,17.6,69,27,3.0,Clear,Low,Bike,Afternoon,Mysore,Continental,1,False,False
+650,599,20260904,10.22,68,18,1.0,Snowy,Medium,Bike,Night,Macon,Steak,0,False,False
+651,439,20260905,2.19,32,26,3.0,Clear,Low,Bike,Evening,Noida,Fast Food,1,False,False
+866,920,20260906,11.41,68,17,4.0,Windy,Medium,Scooter,Afternoon,New Delhi,North Indian,0,False,False
+669,598,20260907,4.14,30,14,2.0,Clear,Medium,Scooter,Morning,Noida,North Indian,1,False,False
+299,409,20260908,12.65,60,18,8.0,Rainy,Low,Bike,Afternoon,Dehradun,Cafe,0,False,False
+690,371,20260909,4.15,46,17,8.0,Unknown,Medium,Car,Morning,New Delhi,Bakery,0,False,False
+315,225,20260820,16.8,85,19,4.0,Unknown,High,Car,Morning,New Delhi,North Indian,0,False,False
+311,142,20260821,9.06,47,23,4.0,Clear,Medium,Bike,Evening,New Delhi,Street Food,1,False,False
+362,522,20260822,13.04,65,20,6.0,Clear,Medium,Scooter,Morning,New Delhi,Fast Food,0,False,False
+480,506,20260823,10.7,44,8,5.0,Clear,Medium,Scooter,Afternoon,New Delhi,Bakery,0,False,False
+111,94,20260824,6.15,48,26,5.0,Foggy,Low,Scooter,Evening,New Delhi,Biryani,1,False,False
+990,774,20260825,16.47,75,20,9.0,Snowy,High,Scooter,Evening,New Delhi,North Indian,0,False,False
+487,49,20260826,1.39,24,15,4.0,Clear,Medium,Bike,Afternoon,New Delhi,Fast Food,0,False,False
+364,882,20260827,11.14,47,7,3.0,Rainy,Medium,Scooter,Morning,Noida,Pizza,1,False,False
+255,113,20260828,3.81,31,5,6.0,Rainy,High,Bike,Afternoon,New Delhi,Cafe,0,False,False
+260,157,20260829,2.39,43,27,7.0,Rainy,Medium,Bike,Evening,New Delhi,North Indian,1,False,False
+803,643,20260830,11.74,54,6,3.0,Clear,High,Car,Evening,New Delhi,Cafe,0,False,False
+678,164,20260831,8.26,80,21,4.0,Clear,Low,Car,,Nagpur,Chinese,0,False,False
+495,812,20260901,9.54,47,11,5.0,Rainy,Medium,Scooter,Evening,Gurgaon,Rajasthani,0,False,False
+671,697,20260902,3.88,35,16,2.0,Clear,Medium,Bike,Morning,Gurgaon,Fast Food,0,False,False
+378,433,20260903,0.95,44,27,0.0,Rainy,Medium,Car,Morning,Ludhiana,North Indian,1,False,False
+527,611,20260904,8.59,36,17,8.0,Clear,Low,Scooter,Night,Gurgaon,Biryani,1,False,False
+846,66,20260905,8.59,43,22,2.0,Clear,Low,Bike,Evening,New Delhi,Cafe,1,False,False
+138,395,20260906,14.21,58,24,,Clear,Medium,Bike,Evening,Edinburgh,Pizza,0,False,False
+356,391,20260907,13.03,50,9,1.0,Foggy,Low,Scooter,Morning,Noida,Chinese,0,False,False
+366,611,20260908,8.03,42,14,8.0,Clear,Low,Scooter,Evening,Gurgaon,Biryani,1,False,False
+943,480,20260909,13.2,62,14,3.0,Snowy,Low,Car,Morning,Sioux City,Pizza,0,False,False
+750,542,20260820,12.67,65,10,3.0,Clear,Medium,Car,Evening,Gurgaon,Ice Cream,1,False,False
+949,258,20260821,17.54,54,16,8.0,Clear,Unknown,Car,Morning,New Delhi,Pizza,1,False,False
+830,995,20260822,9.32,30,6,5.0,Clear,Low,Scooter,Morning,New Delhi,Mithai,0,False,False
+657,567,20260823,6.03,46,8,6.0,Rainy,High,Car,Afternoon,Noida,North Indian,1,False,False
+200,882,20260824,15.71,69,28,5.0,Clear,Low,Scooter,Afternoon,Noida,Pizza,0,False,False
+214,966,20260825,4.87,54,16,7.0,Snowy,High,Bike,Evening,Gurgaon,Bakery,1,False,False
+409,12,20260826,18.15,108,22,7.0,Rainy,High,Bike,Morning,New Delhi,North Indian,1,False,False
+333,697,20260827,0.78,17,6,1.0,Clear,Medium,Bike,Morning,Gurgaon,Fast Food,1,False,False
+209,739,20260828,0.6,30,26,3.0,Clear,Low,Bike,Afternoon,New Delhi,Italian,1,False,False
+614,118,20260829,2.09,16,5,5.0,Clear,Medium,Bike,Evening,Gurgaon,Mediterranean,0,False,False
+79,699,20260830,7.49,45,13,9.0,Clear,Unknown,Scooter,Morning,New Delhi,Bakery,1,False,False
+30,907,20260831,1.41,72,15,0.0,Foggy,Medium,Bike,Evening,New Delhi,Italian,0,False,False
+536,550,20260901,18.92,100,27,4.0,Clear,High,Scooter,Morning,New Delhi,Bakery,0,False,False
+696,769,20260902,12.41,51,10,1.0,Clear,Medium,Car,Morning,New Delhi,Chinese,0,False,False
+558,274,20260903,1.06,21,19,6.0,Unknown,Low,Scooter,Afternoon,New Delhi,Mithai,0,False,False
+837,788,20260904,18.34,92,9,4.0,Clear,High,Bike,Night,Noida,North Indian,1,False,False
+597,657,20260905,13.52,82,27,1.0,Clear,Low,Scooter,Morning,New Delhi,Mughlai,1,False,False
+166,349,20260906,16.79,85,24,6.0,Foggy,High,Bike,Afternoon,New Delhi,North Indian,0,False,False
+919,115,20260907,15.39,89,24,5.0,Clear,Medium,Scooter,Evening,Noida,North Indian,1,False,False
+496,301,20260908,7.39,60,25,6.0,Rainy,Medium,Scooter,Morning,New Delhi,Chinese,1,False,False
+825,446,20260909,10.98,55,10,6.0,Rainy,Low,Scooter,Morning,Singapore,American,0,False,False
+66,162,20260820,11.08,57,9,0.0,Snowy,Medium,Bike,Morning,New Delhi,American,1,False,False
+142,465,20260821,5.41,36,14,5.0,Clear,Medium,Bike,Night,New Delhi,Mughlai,1,False,False
+926,4,20260822,0.94,21,9,6.0,Clear,High,Bike,Morning,New Delhi,Fast Food,1,False,False
+828,977,20260823,7.27,35,10,5.0,Windy,Low,Bike,Afternoon,Bangalore,Modern Indian,1,False,False
+656,740,20260824,2.99,41,27,5.0,Windy,Medium,Bike,Morning,New Delhi,North Indian,1,False,False
+332,897,20260825,15.28,72,16,5.0,Snowy,Low,Bike,Evening,Noida,Chinese,0,False,False
+665,737,20260826,2.48,27,14,6.0,Windy,Medium,Car,Afternoon,New Delhi,North Indian,0,False,False
+250,270,20260827,17.13,71,19,1.0,Rainy,Low,Car,Evening,Gurgaon,North Indian,0,False,False
+908,996,20260828,7.17,32,15,7.0,Clear,Low,Bike,Afternoon,Ranchi,Cafe,0,False,False
+709,513,20260829,5.47,38,21,6.0,Rainy,Low,Car,Morning,New Delhi,North Indian,1,False,False
+306,781,20260830,19.53,87,11,6.0,Foggy,Low,Bike,Afternoon,New Delhi,North Indian,1,False,False
+735,183,20260831,7.5,66,29,1.0,Clear,High,Bike,Morning,New Delhi,Beverages,0,False,False
+976,520,20260901,5.61,48,25,9.0,Windy,Low,Bike,Night,New Delhi,Ice Cream,1,False,False
+50,935,20260902,4.1,37,21,3.0,Clear,Low,Bike,Morning,New Delhi,North Indian,1,False,False
+897,109,20260903,6.22,49,15,0.0,Rainy,Medium,Bike,Morning,Noida,Chinese,0,False,False
+3,892,20260904,14.77,67,11,6.0,Unknown,High,Scooter,Morning,New Delhi,Cafe,0,False,False
+545,641,20260905,12.55,51,13,8.0,Windy,Low,Bike,Evening,Noida,Biryani,1,False,False
+351,306,20260906,10.31,62,19,5.0,Foggy,Medium,Scooter,Morning,New Delhi,Bakery,1,False,False
+905,862,20260907,8.72,64,18,7.0,Snowy,Medium,Car,Evening,New Delhi,North Indian,0,False,False
+537,655,20260908,17.07,73,20,6.0,Clear,Medium,Bike,Morning,New Delhi,Pizza,1,False,False
+345,520,20260909,8.27,58,13,5.0,Unknown,High,Scooter,Afternoon,New Delhi,Ice Cream,0,False,False
+995,624,20260820,7.54,55,20,,Snowy,Low,Bike,Afternoon,New Delhi,Mughlai,1,False,False
+482,204,20260821,14.07,67,5,8.0,Clear,High,Bike,Afternoon,Colombo,Seafood,0,False,False
+576,157,20260822,19.02,87,29,9.0,Clear,Medium,Bike,Afternoon,New Delhi,North Indian,0,False,False
+34,383,20260823,19.0,96,28,3.0,Clear,High,Car,Morning,Noida,North Indian,0,False,False
+32,781,20260824,3.83,30,12,9.0,Rainy,Medium,Bike,Afternoon,New Delhi,North Indian,0,False,False
+232,166,20260825,10.3,48,19,8.0,Clear,Low,Scooter,Evening,Gurgaon,North Indian,1,False,False
+964,553,20260826,8.09,51,15,4.0,Clear,High,Scooter,Afternoon,New Delhi,Fast Food,1,False,False
+193,977,20260827,18.06,52,9,8.0,Clear,Medium,Bike,Night,Bangalore,Modern Indian,1,False,False
+334,798,20260828,2.76,22,8,5.0,Windy,Medium,Scooter,Morning,New Delhi,Finger Food,1,False,False
+4,945,20260829,12.17,68,20,8.0,Snowy,Low,Bike,Evening,New Delhi,Beverages,0,False,False
+205,544,20260830,12.33,75,22,9.0,Clear,Medium,Bike,Evening,Albany,Chinese,0,False,False
+515,941,20260831,1.38,13,5,8.0,Clear,Medium,Scooter,Evening,Gurgaon,Fast Food,1,False,False
+800,1,20260901,18.49,71,14,6.0,Clear,Low,Scooter,Afternoon,New Delhi,North Indian,0,False,False
+307,614,20260902,10.57,59,28,9.0,Snowy,Low,Bike,Afternoon,Tampa Bay,British,1,False,False
+110,332,20260903,2.0,30,10,2.0,Clear,High,Scooter,Evening,New Delhi,North Indian,0,False,False
+431,501,20260904,3.29,32,17,4.0,Clear,Medium,Scooter,Afternoon,Gurgaon,Burger,1,False,False
+78,20,20260905,1.94,35,16,0.0,Rainy,Medium,Bike,Morning,Faridabad,Chinese,1,False,False
+85,115,20260906,6.56,47,14,1.0,Windy,Medium,Bike,,Noida,North Indian,1,False,False
+287,952,20260907,9.58,60,26,8.0,Clear,High,Car,Afternoon,Gurgaon,Burger,0,False,False
+83,372,20260908,6.95,58,25,2.0,Clear,Medium,Scooter,Morning,New Delhi,Fast Food,0,False,False
+992,900,20260909,14.05,72,19,0.0,Clear,High,Scooter,Morning,Noida,Mithai,1,False,False
+790,852,20260820,18.97,108,20,8.0,Rainy,High,Bike,Night,Aurangabad,North Indian,0,False,False
+895,827,20260821,13.53,78,28,8.0,Rainy,Low,Bike,Evening,Gurgaon,Burmese,0,False,False
+399,315,20260822,15.14,66,8,6.0,Rainy,Medium,Bike,Morning,New Delhi,North Indian,0,False,False
+324,246,20260823,5.96,48,26,6.0,Clear,Low,Bike,Afternoon,Gurgaon,Lebanese,0,False,False
+520,60,20260824,3.43,23,7,6.0,Windy,Medium,Bike,Morning,New Delhi,North Indian,0,False,False
+917,247,20260825,6.24,52,15,3.0,Unknown,Medium,Bike,Evening,New Delhi,North Indian,0,False,False
+923,900,20260826,17.94,85,22,6.0,Rainy,High,Scooter,Evening,Noida,Mithai,0,False,False
+6,581,20260827,3.54,32,10,5.0,Rainy,Medium,Bike,Evening,New Delhi,North Indian,1,False,False
+732,970,20260828,16.38,90,7,,Rainy,Medium,Bike,Night,Noida,Healthy Food,1,False,False
+466,81,20260829,7.81,42,11,4.0,Clear,Low,Bike,Evening,New Delhi,Mughlai,1,False,False
+98,88,20260830,8.84,57,26,0.0,Clear,Unknown,Bike,Morning,New Delhi,North Indian,0,False,False
+267,750,20260831,14.09,55,12,3.0,Clear,Medium,Scooter,Afternoon,New Delhi,Pizza,0,False,False
+358,498,20260901,11.92,46,14,4.0,Clear,Low,Scooter,Afternoon,Faridabad,Fast Food,0,False,False
+869,836,20260902,17.3,67,9,0.0,Clear,Low,Scooter,Evening,Athens,American,1,False,False
+799,71,20260903,14.08,66,28,6.0,Clear,High,Bike,Morning,Noida,Fast Food,0,False,False
+381,779,20260904,2.8,50,28,1.0,Clear,High,Bike,Afternoon,New Delhi,North Indian,1,False,False
+632,546,20260905,17.96,76,22,2.0,Clear,Medium,Bike,,New Delhi,North Indian,1,False,False
+382,785,20260906,14.09,67,12,6.0,Clear,High,Bike,Afternoon,New Delhi,Bakery,0,False,False
+491,129,20260907,9.39,37,14,2.0,Clear,Low,Bike,Morning,New Delhi,Mughlai,0,False,False
+119,132,20260908,17.9,85,23,,Clear,Low,Bike,Morning,Mangalore,South Indian,0,False,False
+901,676,20260909,4.55,21,5,6.0,Rainy,Low,Bike,Afternoon,Athens,Breakfast,1,False,False
+251,487,20260820,6.24,51,20,4.0,Snowy,Low,Bike,Afternoon,New Delhi,North Indian,1,False,False
+524,970,20260821,16.92,70,29,0.0,Clear,Low,Scooter,Morning,Noida,Healthy Food,1,False,False
+10,563,20260822,14.31,47,9,8.0,Clear,Medium,Bike,Morning,New Delhi,North Indian,1,False,False
+197,170,20260823,14.66,77,20,2.0,Windy,Medium,Bike,,New Delhi,North Indian,0,False,False
+604,272,20260824,2.23,14,7,6.0,Clear,Low,Bike,Morning,New Delhi,Mithai,1,False,False
+82,541,20260825,12.65,66,15,4.0,Clear,Low,Bike,Evening,New Delhi,North Indian,0,False,False
+784,894,20260826,7.24,65,28,6.0,Rainy,Medium,Bike,Evening,Noida,North Indian,1,False,False
+588,622,20260827,3.01,26,14,4.0,Clear,Medium,Bike,Evening,Davenport,American,1,False,False
+798,434,20260828,11.52,58,25,2.0,Unknown,Medium,Scooter,Morning,New Delhi,Chinese,0,False,False
+240,988,20260829,3.95,25,13,5.0,Clear,Low,Bike,Afternoon,New Delhi,North Indian,0,False,False
+291,217,20260830,1.09,17,6,2.0,Clear,Medium,Scooter,Morning,Brasí_lia,Japanese,0,False,False
+212,952,20260831,13.99,96,7,3.0,Clear,High,Scooter,Evening,Gurgaon,Burger,0,False,False
+718,553,20260901,19.32,112,21,7.0,Rainy,High,Car,Morning,New Delhi,Fast Food,1,False,False
+360,774,20260902,11.72,42,11,9.0,Rainy,Low,Bike,Evening,New Delhi,North Indian,1,False,False
+450,748,20260903,2.13,22,9,2.0,Rainy,Low,Scooter,Morning,New Delhi,Fast Food,0,False,False
+228,707,20260904,8.17,44,20,9.0,Clear,Medium,Scooter,Afternoon,Gurgaon,North Indian,1,False,False
+951,206,20260905,12.21,57,9,4.0,Clear,High,Bike,Morning,New Delhi,North Indian,1,False,False
+947,731,20260906,3.17,33,17,6.0,Clear,Medium,Scooter,Evening,New Delhi,North Indian,1,False,False
+797,320,20260907,18.68,62,11,8.0,Snowy,Low,Bike,Afternoon,New Delhi,North Indian,0,False,False
+502,409,20260908,10.95,55,24,4.0,Clear,Medium,Scooter,Evening,Dehradun,Cafe,1,False,False
+465,688,20260909,19.26,67,21,6.0,Windy,Medium,Scooter,Morning,New Delhi,Fast Food,0,False,False
+363,666,20260820,9.44,63,28,8.0,Rainy,Unknown,Scooter,Evening,New Delhi,Cafe,0,False,False
+469,383,20260821,4.86,52,25,4.0,Foggy,Medium,Car,Evening,Noida,North Indian,0,False,False
+936,449,20260822,5.81,51,25,8.0,Foggy,Low,Bike,Afternoon,Noida,Pizza,1,False,False
+429,922,20260823,7.34,47,22,8.0,Rainy,Low,Bike,Evening,Gurgaon,North Indian,0,False,False
+8,530,20260824,17.39,100,25,4.0,Foggy,Medium,Bike,Morning,New Delhi,North Indian,1,False,False
+156,463,20260825,5.22,40,11,9.0,Snowy,Low,Bike,Evening,New Delhi,Bakery,1,False,False
+542,124,20260826,12.32,71,17,4.0,Clear,Medium,Scooter,Evening,Patna,North Indian,1,False,False
+441,254,20260827,2.15,30,17,6.0,Windy,Medium,Car,Afternoon,New Delhi,North Indian,0,False,False
+483,231,20260828,9.36,65,17,2.0,Rainy,High,Scooter,Morning,Brasí_lia,Peruvian,0,False,False
+423,66,20260829,2.28,39,27,9.0,Clear,Medium,Scooter,Evening,New Delhi,Cafe,1,False,False
+779,347,20260830,14.54,73,29,2.0,Clear,Medium,Bike,Evening,New Delhi,North Indian,1,False,False
+950,22,20260831,12.15,63,12,6.0,Clear,High,Car,Morning,Noida,Chinese,1,False,False
+335,603,20260901,1.4,17,9,9.0,Windy,Low,Bike,Evening,Macon,Greek,0,False,False
+577,568,20260902,3.37,28,9,,Clear,High,Bike,Morning,New Delhi,North Indian,0,False,False
+935,236,20260903,3.85,46,26,3.0,Rainy,Medium,Bike,Afternoon,Miller,,0,False,False
+568,603,20260904,9.03,43,11,5.0,Clear,Low,Bike,,Macon,Greek,0,False,False
+595,226,20260905,17.99,63,15,3.0,Snowy,Low,Bike,Afternoon,Gurgaon,North Indian,0,False,False
+531,8,20260906,16.35,66,16,0.0,Clear,Medium,Bike,Morning,Gurgaon,Street Food,0,False,False
+582,73,20260907,19.61,72,8,6.0,Clear,High,Bike,Evening,New Delhi,Tibetan,1,False,False
+708,725,20260908,16.29,72,20,1.0,Clear,Low,Bike,Morning,New Delhi,Italian,0,False,False
+449,647,20260909,7.84,28,6,4.0,Windy,Low,Bike,Afternoon,New Delhi,Asian,1,False,False
+454,61,20260820,18.17,71,13,0.0,Rainy,Low,Car,Afternoon,New Delhi,North Indian,1,False,False
+229,235,20260821,17.89,101,27,1.0,Windy,Low,Bike,,Varanasi,South Indian,0,False,False
+353,70,20260822,13.34,53,20,6.0,Clear,Medium,Bike,Night,New Delhi,Chinese,0,False,False
+729,928,20260823,4.43,63,10,1.0,Foggy,Low,Scooter,Morning,New Delhi,Japanese,1,False,False
+213,33,20260824,13.21,63,12,4.0,Clear,Unknown,Scooter,Morning,New Delhi,European,0,False,False
+80,881,20260825,2.76,27,6,2.0,Windy,Medium,Bike,Night,New Delhi,Raw Meats,0,False,False
+149,339,20260826,1.5,32,15,4.0,Foggy,Medium,Scooter,Evening,Chandigarh,Mexican,0,False,False
+303,73,20260827,11.04,54,8,2.0,Clear,Medium,Scooter,Afternoon,New Delhi,Tibetan,1,False,False
+629,527,20260828,1.22,14,6,,Clear,Medium,Scooter,Evening,New Delhi,North Indian,0,False,False
+778,244,20260829,14.58,57,13,,Clear,Low,Bike,Afternoon,New Delhi,Beverages,1,False,False
+507,286,20260830,18.26,93,28,7.0,Rainy,High,Scooter,Night,Noida,Biryani,0,False,False
+343,686,20260831,3.88,42,27,9.0,Foggy,Low,Car,Evening,Gurgaon,Italian,0,False,False
+486,498,20260901,18.07,67,5,2.0,Clear,High,Scooter,Afternoon,Faridabad,Fast Food,0,False,False
+712,220,20260902,12.11,75,28,0.0,Clear,Medium,Bike,Evening,Savannah,Breakfast,0,False,False
+134,553,20260903,7.08,27,5,8.0,Clear,Medium,Scooter,Afternoon,New Delhi,Fast Food,0,False,False
+704,136,20260904,3.12,28,14,5.0,Rainy,Low,Scooter,Evening,New Delhi,North Indian,0,False,False
+312,741,20260905,2.03,36,14,4.0,Foggy,High,Car,Evening,New Delhi,North Indian,1,False,False
+723,958,20260906,1.8,28,14,1.0,Clear,Unknown,Bike,Night,Singapore,Finger Food,1,False,False
+630,904,20260907,5.42,26,11,9.0,Clear,Low,Scooter,Evening,New Delhi,Finger Food,1,False,False
+1,585,20260908,7.8,52,23,5.0,Clear,Low,Scooter,Evening,Pretoria,Cafe,1,False,False
+317,591,20260909,8.47,48,19,0.0,Rainy,Low,Scooter,Afternoon,New Delhi,Fast Food,1,False,False
+707,485,20260820,6.79,39,16,1.0,Rainy,Low,Scooter,Evening,New Delhi,Mithai,0,False,False
+548,249,20260821,13.6,83,23,6.0,Rainy,Medium,Scooter,Afternoon,New Delhi,North Indian,1,False,False
+873,804,20260822,13.06,59,17,8.0,Rainy,High,Bike,Morning,New Delhi,Bakery,0,False,False
+533,485,20260823,19.93,59,6,6.0,Snowy,Low,Bike,Afternoon,New Delhi,Mithai,0,False,False
+478,827,20260824,11.3,70,15,8.0,Snowy,Medium,Bike,Afternoon,Gurgaon,Burmese,0,False,False
+405,417,20260825,6.74,47,21,9.0,Rainy,Medium,Car,Evening,New Delhi,Mediterranean,0,False,False
+173,195,20260826,10.49,66,28,9.0,Rainy,Low,Bike,Morning,New Delhi,North Indian,1,False,False
+126,97,20260827,8.83,109,12,3.0,Unknown,Medium,Scooter,Evening,New Delhi,Raw Meats,0,False,False
+395,100,20260828,7.15,60,29,7.0,Clear,High,Car,Night,New Delhi,North Indian,0,False,False
+421,675,20260829,15.94,77,24,2.0,Clear,Low,Bike,Evening,New Delhi,North Indian,1,False,False
+553,442,20260830,11.26,70,14,2.0,Foggy,High,Bike,Afternoon,New Delhi,North Indian,1,False,False
+904,363,20260831,11.87,43,10,6.0,Clear,Medium,Bike,Morning,Davenport,Mexican,0,False,False
+91,434,20260901,2.83,28,14,6.0,Windy,Medium,Scooter,Afternoon,New Delhi,Chinese,0,False,False
+940,421,20260902,11.74,52,20,1.0,Clear,Low,Car,Afternoon,New Delhi,North Indian,1,False,False
+182,479,20260903,2.71,20,6,1.0,Clear,Low,Scooter,Morning,New Delhi,North Indian,0,False,False
+275,885,20260904,10.47,55,14,7.0,Clear,High,Scooter,Evening,New Delhi,North Indian,0,False,False
+896,747,20260905,4.5,66,24,0.0,Snowy,High,Bike,Evening,Noida,North Indian,0,False,False
+70,56,20260906,19.74,71,21,7.0,Unknown,Low,Car,,Gurgaon,North Indian,1,False,False
+292,690,20260907,1.23,21,18,6.0,Clear,Low,Bike,Evening,New Delhi,Mughlai,1,False,False
+132,670,20260908,4.83,29,11,1.0,Clear,Low,Bike,Evening,New Delhi,Street Food,0,False,False
+301,662,20260909,1.51,32,14,2.0,Clear,High,Bike,Afternoon,New Delhi,American,1,False,False
+425,101,20260820,1.62,16,9,8.0,Windy,Low,Bike,Evening,New Delhi,North Indian,0,False,False
+327,63,20260821,11.31,67,20,0.0,Clear,High,Bike,Evening,Faridabad,Fast Food,0,False,False
+145,413,20260822,6.05,48,24,0.0,Clear,Medium,Car,Morning,Gurgaon,North Indian,0,False,False
+424,746,20260823,10.14,59,20,1.0,Clear,Medium,Scooter,Morning,New Delhi,Italian,1,False,False
+581,348,20260824,9.45,49,13,0.0,Clear,Low,Car,Afternoon,New Delhi,Chinese,0,False,False
+136,820,20260825,6.8,55,28,5.0,Clear,High,Bike,Evening,New Delhi,Chinese,1,False,False
+451,883,20260826,15.65,76,27,0.0,Clear,Low,Bike,Afternoon,Gurgaon,Healthy Food,1,False,False
+165,112,20260827,2.26,19,6,3.0,Clear,Medium,Scooter,Morning,New Delhi,North Indian,0,False,False
+29,255,20260828,12.05,61,29,4.0,Clear,Low,Scooter,Evening,New Delhi,North Indian,0,False,False
+774,197,20260829,8.25,62,24,4.0,Windy,Medium,Car,Evening,New Delhi,North Indian,0,False,False
+194,195,20260830,12.85,80,23,0.0,Rainy,Medium,Scooter,Afternoon,New Delhi,North Indian,0,False,False
+389,550,20260831,15.14,71,15,4.0,Windy,Medium,Bike,Morning,New Delhi,Bakery,1,False,False
+853,460,20260901,4.59,36,19,8.0,Foggy,Low,Scooter,Evening,Faridabad,North Indian,0,False,False
+170,144,20260902,12.02,63,26,0.0,Clear,Low,Bike,Afternoon,New Delhi,Bakery,1,False,False
+706,433,20260903,19.8,88,7,3.0,Clear,High,Bike,Evening,Ludhiana,North Indian,0,False,False
+141,188,20260904,19.27,92,14,6.0,Foggy,High,Bike,Afternoon,San Juan City,Korean,0,False,False
+174,286,20260905,4.92,41,12,0.0,Clear,High,Scooter,Morning,Noida,Biryani,0,False,False
+7,474,20260906,1.63,38,24,5.0,Rainy,Medium,Bike,Night,Guwahati,Continental,0,False,False
+746,256,20260907,18.04,71,8,5.0,Clear,Medium,Bike,Morning,Gurgaon,Beverages,1,False,False
+479,896,20260908,19.4,92,23,9.0,Snowy,Unknown,Scooter,Afternoon,New Delhi,North Indian,1,False,False
+74,946,20260909,16.4,70,12,2.0,Clear,High,Scooter,Morning,Flaxton,Tea,1,False,False
+911,78,20260820,12.01,42,5,7.0,Clear,Low,Car,Morning,Nagpur,North Indian,1,False,False
+814,454,20260821,18.46,153,29,1.0,Clear,Unknown,Scooter,,New Delhi,Bakery,0,False,True
+239,828,20260822,13.09,69,17,1.0,Windy,Low,Scooter,,Tampa Bay,European,1,False,False
+146,883,20260823,1.22,38,14,2.0,Foggy,High,Scooter,Afternoon,Gurgaon,Healthy Food,0,False,False
+793,877,20260824,10.36,39,7,8.0,Rainy,Medium,Bike,Afternoon,New Delhi,Fast Food,1,False,False
+235,564,20260825,4.31,35,9,2.0,Rainy,Medium,Bike,Afternoon,Gurgaon,Ice Cream,0,False,False
+221,101,20260826,13.32,71,26,0.0,Windy,Medium,Bike,Afternoon,New Delhi,North Indian,1,False,False
+924,52,20260827,16.1,61,16,6.0,Clear,Low,Car,Morning,New Delhi,Continental,0,False,False
+501,668,20260828,14.11,93,24,3.0,Rainy,High,Scooter,Morning,New Delhi,North Indian,0,False,False
+133,554,20260829,2.84,44,28,1.0,Clear,Medium,Scooter,Night,Gurgaon,North Indian,0,False,False
+991,857,20260830,16.09,69,13,6.0,Snowy,Low,Car,Morning,New Delhi,North Indian,1,False,False
+775,16,20260831,16.05,89,11,2.0,Snowy,Medium,Bike,Evening,Gurgaon,North Indian,0,False,False
+186,993,20260901,13.37,63,17,8.0,Windy,High,Scooter,Afternoon,New Delhi,North Indian,0,False,False
+42,96,20260902,10.16,67,10,1.0,Snowy,Medium,Bike,Night,New Delhi,French,1,False,False
+697,949,20260903,6.13,48,22,0.0,Clear,Medium,Scooter,Night,New Delhi,Street Food,1,False,False
+109,772,20260904,4.96,28,10,7.0,Rainy,Low,Car,Afternoon,New Delhi,Mughlai,0,False,False
+589,870,20260905,3.0,43,29,1.0,Clear,Low,Scooter,Morning,Noida,Fast Food,1,False,False
+57,243,20260906,2.23,41,14,0.0,Snowy,Medium,Car,Evening,New Delhi,South Indian,1,False,False
+406,171,20260907,17.96,74,26,0.0,Clear,Unknown,Scooter,Evening,New Delhi,Hyderabadi,1,False,False
+443,417,20260908,7.8,49,11,7.0,Rainy,Medium,Bike,Morning,New Delhi,Mediterranean,0,False,False
+758,498,20260909,10.9,47,6,8.0,Clear,High,Scooter,Afternoon,Faridabad,Fast Food,0,False,False
+998,493,20260820,3.17,28,17,1.0,Clear,Low,Bike,Afternoon,New Delhi,North Indian,0,False,False
+25,219,20260821,9.39,50,21,9.0,Windy,Medium,Scooter,Morning,New Delhi,Fast Food,0,False,False
+468,886,20260822,17.44,89,25,9.0,Clear,Low,Bike,Evening,Gurgaon,Finger Food,0,False,False
+540,411,20260823,3.02,46,23,1.0,Rainy,Medium,Bike,Morning,New Delhi,Street Food,0,False,False
+532,925,20260824,19.99,112,17,1.0,Rainy,High,Bike,Evening,New Delhi,Raw Meats,0,False,False
+619,61,20260825,16.22,102,22,0.0,Rainy,High,Bike,Evening,New Delhi,North Indian,1,False,False
+695,169,20260826,2.74,37,18,9.0,Clear,High,Bike,Afternoon,Orlando,American,0,False,False
+927,389,20260827,5.74,46,13,9.0,Rainy,High,Bike,Evening,New Delhi,North Indian,1,False,False
+339,3,20260828,9.75,50,22,7.0,Clear,Low,Bike,Afternoon,Noida,North Indian,1,False,False
+52,400,20260829,15.62,78,23,7.0,Rainy,Medium,Scooter,Afternoon,New Delhi,North Indian,1,False,False
+508,272,20260830,16.54,77,25,7.0,Rainy,Medium,Bike,Afternoon,New Delhi,Mithai,0,False,False
+517,949,20260831,7.84,36,7,8.0,Rainy,Low,Scooter,Morning,New Delhi,Street Food,1,False,False
+921,803,20260901,17.44,85,23,0.0,Unknown,Low,Car,Night,Gurgaon,North Indian,0,False,False
+782,804,20260902,11.08,70,16,6.0,Windy,High,Bike,Afternoon,New Delhi,Bakery,0,False,False
+265,466,20260903,17.61,79,21,9.0,Clear,Medium,Scooter,Evening,New Delhi,Fast Food,0,False,False
+818,293,20260904,8.28,58,29,7.0,Snowy,Low,Car,Evening,New Delhi,North Indian,0,False,False
+711,434,20260905,15.32,80,17,6.0,Clear,Medium,Bike,Morning,New Delhi,Chinese,0,False,False
+683,714,20260906,3.83,49,27,3.0,Rainy,Low,Car,Evening,New Delhi,Raw Meats,1,False,False
+833,981,20260907,3.25,51,29,0.0,Rainy,Unknown,Scooter,Evening,New Delhi,North Indian,0,False,False
+519,749,20260908,19.75,103,25,1.0,Clear,Medium,Bike,Morning,New Delhi,Chinese,0,False,False
+448,803,20260909,15.19,53,6,4.0,Foggy,Low,Scooter,Evening,Gurgaon,North Indian,1,False,False
+19,570,20260820,8.92,62,25,4.0,Windy,Unknown,Bike,Morning,New Delhi,Cafe,1,False,False
+716,678,20260821,18.63,85,11,5.0,Windy,Low,Bike,Afternoon,Hyderabad,North Indian,1,False,False
+484,736,20260822,12.74,67,18,0.0,Clear,Low,Scooter,Night,New Delhi,Street Food,1,False,False
+569,499,20260823,18.13,88,21,2.0,Rainy,High,Bike,Evening,Mumbai,Cafe,1,False,False
+434,159,20260824,2.47,34,22,6.0,Rainy,Low,Car,Afternoon,Noida,Biryani,0,False,False
+368,195,20260825,18.15,89,11,2.0,Windy,Medium,Bike,Morning,New Delhi,North Indian,0,False,False
+84,304,20260826,1.74,28,8,9.0,Foggy,High,Scooter,Afternoon,New Delhi,Chinese,1,False,False
+62,223,20260827,5.79,49,26,6.0,Windy,Medium,Bike,Morning,Faridabad,Mithai,1,False,False
+639,992,20260828,5.75,37,7,4.0,Windy,High,Scooter,Morning,Brasí_lia,Cafe,1,False,False
+273,60,20260829,17.41,80,20,4.0,Snowy,Medium,Bike,Evening,New Delhi,North Indian,0,False,False
+286,594,20260830,1.2,33,24,7.0,Rainy,Low,Scooter,Morning,New Delhi,North Indian,1,False,False
+361,754,20260831,8.07,48,21,4.0,Windy,Low,Bike,Evening,New Delhi,Fast Food,0,False,False
+355,556,20260901,1.88,35,24,7.0,Clear,Medium,Scooter,Morning,New Delhi,Street Food,0,False,False
+457,63,20260902,0.72,23,9,2.0,Rainy,Medium,Scooter,Afternoon,Faridabad,Fast Food,1,False,False
+279,766,20260903,14.19,57,9,1.0,Clear,Medium,Bike,Afternoon,Chandigarh,American,1,False,False
+13,322,20260904,16.73,71,9,7.0,Windy,High,Scooter,Afternoon,New Delhi,Mithai,1,False,False
+183,59,20260905,18.53,57,8,8.0,Rainy,Low,Scooter,Afternoon,New Delhi,North Indian,1,False,False
+369,52,20260906,4.32,34,21,9.0,Clear,Low,Bike,Morning,New Delhi,Continental,1,False,False
+882,599,20260907,13.6,61,9,7.0,Foggy,High,Bike,Evening,Macon,Steak,1,False,False
+616,489,20260908,18.46,94,19,9.0,Rainy,Low,Bike,Morning,Gurgaon,North Indian,1,False,False
+224,515,20260909,7.67,31,9,2.0,Windy,Low,Car,Morning,New Delhi,North Indian,1,False,False
+573,942,20260820,8.23,56,17,3.0,Snowy,Low,Bike,Evening,New Delhi,Cafe,0,False,False
+971,874,20260821,13.44,63,29,0.0,Clear,Low,Bike,Night,New Delhi,North Indian,1,False,False
+654,544,20260822,15.04,60,24,5.0,Clear,Low,Car,Morning,Albany,Chinese,1,False,False
+546,162,20260823,7.48,52,21,4.0,Clear,Medium,Car,Morning,New Delhi,American,0,False,False
+583,59,20260824,10.11,63,23,2.0,Rainy,Unknown,Scooter,Afternoon,New Delhi,North Indian,1,False,False
+634,984,20260825,10.88,52,13,3.0,Snowy,Low,Car,Afternoon,Pensacola,Burger,1,False,False
+177,521,20260826,13.97,52,14,8.0,Snowy,Low,Scooter,Evening,New Delhi,Japanese,1,False,False
+666,83,20260827,3.48,31,9,1.0,Foggy,Low,Scooter,Afternoon,Noida,North Indian,1,False,False
+674,872,20260828,10.73,35,6,6.0,Foggy,Low,Bike,Morning,New Delhi,Bakery,0,False,False
+586,191,20260829,5.18,30,9,2.0,Clear,Medium,Car,Afternoon,New Delhi,Fast Food,1,False,False
+874,71,20260830,8.47,68,24,0.0,Foggy,Medium,Bike,Evening,Noida,Fast Food,0,False,False
+394,610,20260831,15.64,141,20,4.0,Rainy,Low,Bike,,New Delhi,Fast Food,0,False,True
+164,70,20260901,10.95,65,9,1.0,Snowy,Unknown,Bike,Afternoon,New Delhi,Chinese,1,False,False
+249,692,20260902,19.29,84,7,8.0,Windy,Medium,Scooter,Evening,New Delhi,European,0,False,False
+635,883,20260903,2.59,28,13,5.0,Windy,Medium,Bike,,Gurgaon,Healthy Food,1,False,False
+886,241,20260904,3.98,41,19,3.0,Clear,High,Car,Night,Rest of Hawaii,Seafood,0,False,False
+670,414,20260905,6.06,41,10,8.0,Foggy,Low,Scooter,Afternoon,Gurgaon,North Indian,0,False,False
+376,123,20260906,6.72,31,8,5.0,Foggy,Low,Bike,Evening,New Delhi,Chinese,0,False,False
+413,965,20260907,19.04,85,27,2.0,Clear,Medium,Scooter,Morning,Ahmedabad,North Indian,1,False,False
+75,912,20260908,14.28,77,23,5.0,Windy,High,Scooter,Afternoon,Faridabad,Mithai,1,False,False
+114,584,20260909,16.26,70,16,6.0,Rainy,High,Bike,Morning,New Delhi,Chinese,0,False,False
+599,253,20260820,4.25,22,5,4.0,Clear,Low,Bike,Afternoon,New Delhi,North Indian,1,False,False
+962,593,20260821,12.26,66,20,2.0,Clear,Low,Bike,Afternoon,Gurgaon,North Indian,0,False,False
+391,609,20260822,19.81,74,27,1.0,Clear,Low,Bike,Afternoon,New Delhi,Street Food,1,False,False
+105,41,20260823,18.2,108,27,1.0,Windy,Medium,Bike,Morning,Noida,Ice Cream,0,False,False
+115,635,20260824,12.85,73,14,8.0,Rainy,Medium,Scooter,Morning,Noida,North Indian,0,False,False
+418,84,20260825,6.91,91,27,8.0,Clear,Low,Bike,Evening,Mandaluyong City,Japanese,1,False,False
+526,430,20260826,9.64,46,10,5.0,Clear,Low,Bike,Morning,New Delhi,Chinese,0,False,False
+458,674,20260827,9.64,52,14,6.0,Rainy,Medium,Bike,Evening,New Delhi,Raw Meats,1,False,False
+410,598,20260828,2.28,44,27,6.0,Foggy,Medium,Scooter,Morning,Noida,North Indian,0,False,False
+93,579,20260829,15.34,54,18,6.0,Rainy,Low,Bike,Afternoon,Athens,Breakfast,0,False,False
+931,536,20260830,3.22,34,14,8.0,Rainy,Medium,Bike,Night,Noida,Chinese,1,False,False
+90,324,20260831,9.71,49,8,1.0,Clear,Low,Bike,Morning,New Delhi,Mughlai,1,False,False
+337,958,20260901,17.18,62,13,1.0,Clear,Medium,Scooter,Night,Singapore,Finger Food,0,False,False
+989,268,20260902,5.3,47,29,3.0,Clear,Medium,Scooter,Afternoon,New Delhi,Italian,1,False,False
+922,210,20260903,10.0,47,6,9.0,Clear,Medium,Scooter,Afternoon,Augusta,Desserts,0,False,False
+934,686,20260904,10.75,60,8,6.0,Rainy,Medium,Bike,Morning,Gurgaon,Italian,0,False,False
+606,734,20260905,9.49,53,23,6.0,Rainy,Medium,Car,Morning,Noida,Fast Food,0,False,False
+594,322,20260906,7.24,57,28,7.0,Clear,Medium,Bike,Afternoon,New Delhi,Mithai,0,False,False
+612,245,20260907,16.09,66,21,8.0,Rainy,Low,Bike,Morning,New Delhi,Street Food,1,False,False
+95,272,20260908,15.53,83,26,6.0,Clear,Low,Bike,Morning,New Delhi,Mithai,0,False,False
+12,406,20260909,19.41,62,11,8.0,Windy,Low,Bike,Morning,Gurgaon,Chinese,0,False,False
+397,135,20260820,17.24,69,17,5.0,Clear,Low,Bike,Evening,New Delhi,North Indian,1,False,False
+534,688,20260821,11.33,60,25,3.0,Unknown,Low,Bike,Morning,New Delhi,Fast Food,1,False,False
+44,661,20260822,18.23,86,27,9.0,Rainy,Low,Scooter,Afternoon,New Delhi,North Indian,0,False,False
+43,308,20260823,1.17,25,16,9.0,Clear,Medium,Bike,Morning,New Delhi,North Indian,1,False,False
+330,469,20260824,5.33,51,29,1.0,Clear,Low,Car,Evening,Noida,Bakery,0,False,False
+168,324,20260825,4.14,41,23,2.0,Rainy,Low,Bike,Morning,New Delhi,Mughlai,1,False,False
+498,952,20260826,2.02,44,28,5.0,Clear,High,Bike,Evening,Gurgaon,Burger,1,False,False
+877,770,20260827,14.46,68,11,9.0,Rainy,Medium,Scooter,Morning,New Delhi,Continental,0,False,False
+598,959,20260828,3.86,34,21,8.0,Clear,Medium,Bike,Afternoon,Kanpur,Chinese,0,False,False
+757,75,20260829,12.59,62,13,9.0,Windy,Medium,Bike,Morning,New Delhi,North Indian,0,False,False
+101,10,20260830,1.11,35,22,8.0,Clear,High,Scooter,Morning,Gurgaon,Asian,1,False,False
+427,470,20260831,9.11,42,19,6.0,Clear,Low,Bike,Afternoon,New Delhi,Cafe,0,False,False
+179,637,20260901,18.77,115,24,0.0,Snowy,Medium,Bike,Evening,New Delhi,Cafe,1,False,False
+445,577,20260902,16.35,67,16,6.0,Foggy,Medium,Bike,Night,Noida,Chinese,0,False,False
+417,103,20260903,6.22,29,16,9.0,Clear,Low,Bike,Afternoon,Gurgaon,Bihari,0,False,False
+871,76,20260904,7.78,74,25,3.0,Foggy,High,Bike,Afternoon,Noida,Lebanese,1,False,False
+883,551,20260905,0.88,37,27,2.0,Rainy,Low,Car,Night,Gurgaon,Mughlai,1,False,False
+681,219,20260906,16.43,56,13,5.0,Clear,Low,Bike,Evening,New Delhi,Fast Food,1,False,False
+178,519,20260907,8.04,65,27,0.0,Clear,Medium,Car,Evening,Gurgaon,North Indian,0,False,False
+396,272,20260908,18.65,68,19,2.0,Foggy,Low,Car,Night,New Delhi,Mithai,1,False,False
+912,136,20260909,5.73,30,7,2.0,Foggy,Low,Scooter,Morning,New Delhi,North Indian,0,False,False
+794,956,20260820,12.42,79,28,9.0,Rainy,Low,Bike,Evening,New Delhi,North Indian,1,False,False
+961,358,20260821,2.11,34,28,5.0,Clear,Low,Scooter,Afternoon,Bhopal,Fast Food,0,False,False
+685,903,20260822,18.62,75,27,6.0,Clear,Low,Scooter,Evening,New Delhi,North Indian,1,False,False
+384,71,20260823,17.61,80,19,3.0,Clear,Medium,Scooter,Morning,Noida,Fast Food,1,False,False
+957,901,20260824,10.62,48,7,2.0,Rainy,Medium,Bike,Night,Gurgaon,Pizza,0,False,False
+752,251,20260825,18.83,68,8,0.0,Unknown,Medium,Bike,Night,Kolkata,Cafe,1,False,False
+258,379,20260826,14.07,73,16,9.0,Clear,Medium,Bike,Morning,New Delhi,North Indian,1,False,False
+539,292,20260827,9.29,40,10,9.0,Clear,Medium,Bike,Evening,New Delhi,Continental,0,False,False
+336,162,20260828,1.29,15,7,7.0,Rainy,Low,Bike,Evening,New Delhi,American,0,False,False
+16,449,20260829,4.08,33,7,0.0,Windy,Medium,Bike,Afternoon,Noida,Pizza,0,False,False
+325,854,20260830,19.12,92,8,0.0,Windy,High,Car,Evening,New Delhi,Chinese,0,False,False
+759,557,20260831,17.93,85,29,4.0,Clear,Medium,Bike,Afternoon,New Delhi,Chinese,0,False,False
+223,721,20260901,2.33,17,6,1.0,Unknown,Low,Car,Morning,New Delhi,Chinese,1,False,False
+180,310,20260902,3.18,42,21,3.0,Rainy,Medium,Bike,Evening,Varanasi,Chinese,0,False,False
+984,627,20260903,1.97,43,28,7.0,Clear,High,Car,Morning,New Delhi,Cafe,0,False,False
+23,827,20260904,6.2,42,7,3.0,Windy,High,Scooter,Evening,Gurgaon,Burmese,0,False,False
+357,670,20260905,1.02,21,6,8.0,Windy,High,Bike,Evening,New Delhi,Street Food,1,False,False
+667,542,20260906,5.3,32,16,5.0,Clear,Low,Bike,Evening,Gurgaon,Ice Cream,1,False,False
+862,9,20260907,9.34,40,10,0.0,Rainy,Low,Car,Evening,Noida,North Indian,0,False,False
+341,684,20260908,10.09,49,7,0.0,Clear,Medium,Bike,Evening,New Delhi,Bakery,0,False,False
+432,837,20260909,15.35,80,23,9.0,Rainy,High,Scooter,Night,New Delhi,North Indian,1,False,False
+552,568,20260820,17.12,86,26,3.0,Rainy,Low,Bike,Morning,New Delhi,North Indian,1,False,False
+834,307,20260821,3.94,43,19,3.0,Snowy,Low,Bike,Afternoon,Gurgaon,Bakery,1,False,False
+204,955,20260822,18.02,77,12,3.0,Clear,Unknown,Car,Evening,Gainesville,Sandwich,1,False,False
+631,680,20260823,14.41,75,8,8.0,Snowy,Medium,Bike,Evening,New Delhi,North Indian,0,False,False
+94,107,20260824,11.44,57,20,2.0,Rainy,Medium,Car,Evening,New Delhi,North Indian,1,False,False
+559,962,20260825,15.23,52,6,0.0,Foggy,Low,Car,Morning,New Delhi,South Indian,1,False,False
+69,900,20260826,1.95,23,16,2.0,Clear,Low,Scooter,Morning,Noida,Mithai,1,False,False
+623,138,20260827,7.72,36,11,,Rainy,Medium,Bike,Morning,New Delhi,Ice Cream,1,False,False
+285,271,20260828,11.78,71,26,3.0,Clear,Low,Scooter,Afternoon,New Delhi,Hyderabadi,1,False,False
+845,119,20260829,3.4,30,11,6.0,Windy,Medium,Bike,Morning,Gurgaon,Asian,0,False,False
+435,912,20260830,2.14,34,18,3.0,Clear,High,Bike,Evening,Faridabad,Mithai,0,False,False
+154,110,20260831,10.04,59,12,9.0,Rainy,High,Bike,Afternoon,Gurgaon,Juices,0,False,False
+76,761,20260901,14.72,80,15,8.0,Clear,Unknown,Scooter,Evening,New Delhi,North Indian,0,False,False
+731,567,20260902,3.7,45,28,7.0,Clear,Medium,Bike,Morning,Noida,North Indian,1,False,False
+447,160,20260903,19.73,64,8,8.0,Rainy,Low,Bike,Evening,New Delhi,Desserts,0,False,False
+189,279,20260904,10.83,51,8,9.0,Clear,Medium,Scooter,Evening,New Delhi,Chinese,1,False,False
+272,289,20260905,16.3,100,12,1.0,Foggy,Low,Car,Morning,Noida,Chinese,1,False,False
+237,620,20260906,5.98,44,14,6.0,Foggy,High,Bike,Morning,New Delhi,Mughlai,0,False,False
+488,216,20260907,5.98,60,21,2.0,Rainy,High,Bike,Morning,New Delhi,North Indian,1,False,False
+118,735,20260908,4.14,46,21,0.0,Foggy,Medium,Bike,Morning,New Delhi,Street Food,0,False,False
+944,352,20260909,16.68,63,9,9.0,Unknown,Medium,Bike,Afternoon,Noida,Bakery,1,False,False
+513,209,20260820,18.69,74,23,9.0,Windy,Medium,Bike,Night,Cape Town,Burger,1,False,False
+826,704,20260821,18.44,80,27,7.0,Rainy,High,Bike,Morning,New Delhi,North Indian,1,False,False
+592,650,20260822,13.0,65,22,8.0,Windy,High,Bike,Morning,New Delhi,North Indian,1,False,False
+127,874,20260823,16.45,87,25,3.0,Unknown,Medium,Scooter,Evening,New Delhi,North Indian,1,False,False
+117,271,20260824,16.17,116,10,2.0,Clear,Medium,Car,Evening,New Delhi,Hyderabadi,0,False,False
+474,518,20260825,17.88,98,29,3.0,Clear,Medium,Bike,Evening,Noida,North Indian,0,False,False
+694,501,20260826,5.23,37,19,4.0,Clear,Medium,Scooter,Morning,Gurgaon,Burger,0,False,False
+58,258,20260827,4.32,36,17,4.0,Unknown,Medium,Bike,Morning,New Delhi,Pizza,1,False,False
+864,928,20260828,9.09,43,6,7.0,Rainy,Medium,Bike,Morning,New Delhi,Japanese,0,False,False
+913,930,20260829,12.67,43,7,3.0,Windy,Medium,Scooter,Morning,New Delhi,Bakery,0,False,False
+370,867,20260830,1.85,24,10,1.0,Clear,Medium,Bike,Evening,New Delhi,Italian,1,False,False
+269,53,20260831,7.51,50,27,6.0,Rainy,Low,Car,Evening,New Delhi,North Indian,1,False,False
+47,95,20260901,6.58,34,13,1.0,Clear,Low,Bike,Afternoon,Bhubaneshwar,North Indian,1,False,False
+350,650,20260902,12.7,57,22,2.0,Clear,Low,Scooter,Morning,New Delhi,North Indian,1,False,False
+196,434,20260903,7.31,65,26,2.0,Foggy,Medium,Bike,Afternoon,New Delhi,Chinese,0,False,False
+1000,850,20260904,9.2,48,9,9.0,Clear,High,Scooter,Morning,Lucknow,Cafe,0,False,False
+835,284,20260905,10.22,61,21,0.0,Foggy,Low,Scooter,Afternoon,New Delhi,Cafe,0,False,False
+737,46,20260906,8.15,43,12,9.0,Clear,High,Scooter,Evening,Gurgaon,Bakery,0,False,False
+264,4,20260907,10.61,59,17,0.0,Clear,Medium,Bike,Morning,New Delhi,Fast Food,1,False,False
+444,342,20260908,7.73,58,29,5.0,Clear,High,Bike,Night,New Delhi,North Indian,1,False,False
+676,790,20260909,19.66,70,19,6.0,Clear,Low,Car,Morning,Noida,Raw Meats,0,False,False
+305,134,20260820,14.66,71,5,6.0,Snowy,High,Car,Morning,New Delhi,Chinese,0,False,False
+342,653,20260821,9.73,60,29,6.0,Clear,Low,Bike,Afternoon,Taguig City,Cafe,0,False,False
+967,269,20260822,14.52,86,26,5.0,Clear,Medium,Car,Afternoon,Gurgaon,Mughlai,1,False,False
+150,166,20260823,5.93,106,27,1.0,Foggy,High,Scooter,,Gurgaon,North Indian,0,False,False
+125,760,20260824,4.94,63,28,4.0,Rainy,High,Scooter,Evening,New Delhi,Bakery,1,False,False
+787,453,20260825,11.88,78,29,9.0,Rainy,High,Car,Afternoon,Gurgaon,North Indian,0,False,False
+51,565,20260826,19.41,66,7,6.0,Foggy,Medium,Car,Morning,Noida,North Indian,1,False,False
+354,723,20260827,3.68,47,16,6.0,Unknown,High,Car,Afternoon,Colombo,American,1,False,False
+928,438,20260828,11.06,53,6,9.0,Clear,High,Bike,Evening,New Delhi,North Indian,0,False,False
+143,575,20260829,10.2,56,18,9.0,Rainy,Medium,Bike,Afternoon,New Delhi,North Indian,1,False,False
+471,10,20260830,0.74,21,13,4.0,Rainy,Low,Car,Morning,Gurgaon,Asian,1,False,False
+400,115,20260831,15.21,90,20,9.0,Snowy,Medium,Bike,Afternoon,Noida,North Indian,1,False,False
+626,78,20260901,7.69,58,16,3.0,Rainy,High,Scooter,Morning,Nagpur,North Indian,0,False,False
+321,968,20260902,11.21,76,23,1.0,Clear,High,Scooter,Afternoon,Goa,Goan,0,False,False
+20,905,20260903,6.18,35,9,9.0,Clear,Medium,Bike,Evening,New Delhi,Chinese,0,False,False
+810,708,20260904,2.71,19,6,5.0,Clear,Medium,Car,Morning,Faridabad,Mithai,0,False,False
+791,926,20260905,3.49,38,17,2.0,Clear,Medium,Bike,Morning,Nagpur,Fast Food,0,False,False
+809,153,20260906,9.29,49,17,2.0,Clear,Medium,Bike,Morning,New Delhi,North Indian,1,False,False
+408,559,20260907,0.71,41,29,1.0,Foggy,Low,Bike,Night,Noida,Italian,0,False,False
+538,37,20260908,5.32,48,27,2.0,Rainy,Low,Scooter,Afternoon,Des Moines,BBQ,1,False,False
+621,855,20260909,4.1,38,18,3.0,Clear,Medium,Car,Evening,Faridabad,North Indian,1,False,False
+39,379,20260820,13.84,64,18,,Clear,Low,Scooter,Morning,New Delhi,North Indian,0,False,False
+176,597,20260821,3.9,54,25,9.0,Rainy,High,Car,Morning,Cape Town,Desserts,0,False,False
+246,566,20260822,18.6,77,28,9.0,Rainy,Medium,Car,Morning,New Delhi,Goan,0,False,False
+829,152,20260823,14.88,64,10,0.0,Snowy,Medium,Bike,Evening,Gurgaon,Continental,0,False,False
+668,441,20260824,3.63,39,22,9.0,Windy,Medium,Car,Morning,Athens,Bar Food,0,False,False
+755,131,20260825,3.22,27,7,7.0,Windy,High,Car,Morning,New Delhi,North Indian,1,False,False
+859,43,20260826,11.51,57,5,7.0,Foggy,Low,Car,Afternoon,Gurgaon,Mithai,0,False,False
+155,316,20260827,19.72,109,27,6.0,Rainy,Low,Bike,Afternoon,Gurgaon,Desserts,0,False,False
+288,374,20260828,11.08,58,28,2.0,Clear,Low,Scooter,Evening,Orlando,American,1,False,False
+603,921,20260829,3.95,47,28,5.0,Clear,Medium,Car,Morning,New Delhi,North Indian,0,False,False
+570,956,20260830,7.29,48,11,7.0,Clear,High,Car,Evening,New Delhi,North Indian,1,False,False
+744,816,20260831,10.3,41,12,7.0,Clear,Low,Car,Morning,Gurgaon,Cafe,1,False,False
+18,996,20260901,10.73,83,27,6.0,Rainy,High,Car,Afternoon,Ranchi,Cafe,0,False,False
+128,882,20260902,17.28,72,28,3.0,Clear,Low,Car,Morning,Noida,Pizza,0,False,False
+323,41,20260903,13.37,71,16,9.0,Foggy,Medium,Scooter,Evening,Noida,Ice Cream,0,False,False
+256,921,20260904,11.36,52,8,2.0,Clear,Medium,Scooter,Morning,New Delhi,North Indian,0,False,False
+658,367,20260905,7.58,57,19,9.0,Clear,High,Scooter,Afternoon,New Delhi,Pizza,0,False,False
+965,216,20260906,6.13,59,25,6.0,Rainy,High,Bike,,New Delhi,North Indian,0,False,False
+191,699,20260907,2.32,32,23,1.0,Clear,Low,Scooter,Afternoon,New Delhi,Bakery,0,False,False
+116,256,20260908,17.49,97,27,9.0,Rainy,Low,Bike,Evening,Gurgaon,Beverages,1,False,False
+617,683,20260909,1.69,20,11,7.0,Windy,Unknown,Car,Afternoon,London,Italian,1,False,False
+607,106,20260820,4.52,71,17,0.0,Unknown,Low,Car,Evening,New Delhi,Fast Food,0,False,False
+181,363,20260821,7.15,42,15,3.0,Windy,Low,Bike,Morning,Davenport,Mexican,0,False,False
+302,799,20260822,10.86,60,10,4.0,Windy,Medium,Car,,New Delhi,South Indian,1,False,False
+760,574,20260823,15.88,68,17,1.0,Rainy,Low,Car,Evening,New Delhi,Chinese,1,False,False
+713,906,20260824,9.7,45,6,,Snowy,Low,Bike,Evening,New Delhi,Fast Food,0,False,False
+724,896,20260825,14.95,49,13,7.0,Clear,Medium,Bike,Morning,New Delhi,North Indian,0,False,False
+686,417,20260826,11.36,47,6,4.0,Foggy,Low,Bike,Afternoon,New Delhi,Mediterranean,1,False,False
+980,998,20260827,12.14,65,12,0.0,Foggy,High,Bike,Afternoon,New Delhi,North Indian,0,False,False
+518,636,20260828,16.31,71,14,7.0,Foggy,Medium,Car,Afternoon,Noida,Cafe,1,False,False
+985,768,20260829,14.7,75,24,5.0,Clear,Medium,Scooter,Evening,Gurgaon,North Indian,1,False,False
+46,159,20260830,13.42,105,6,6.0,Rainy,Medium,Bike,Evening,Noida,Biryani,1,False,False
+910,948,20260831,7.9,48,22,,Clear,Low,Scooter,Afternoon,New Delhi,North Indian,1,False,False
+158,953,20260901,15.35,56,5,3.0,Foggy,Low,Car,Morning,New Delhi,Burger,0,False,False
+852,243,20260902,15.12,58,14,1.0,Foggy,Low,Bike,Morning,New Delhi,South Indian,1,False,False
+172,886,20260903,0.82,23,18,9.0,Windy,Low,Car,Morning,Gurgaon,Finger Food,1,False,False
+17,167,20260904,6.43,26,9,7.0,Clear,Low,Car,Evening,New Delhi,North Indian,1,False,False
+512,1000,20260905,8.66,77,29,3.0,Snowy,High,Bike,Morning,New Delhi,European,0,False,False
+49,820,20260906,11.16,77,21,4.0,Foggy,Medium,Car,Afternoon,New Delhi,Chinese,0,False,False
+972,831,20260907,18.77,71,15,,Foggy,Low,Car,Afternoon,New Delhi,Chinese,0,False,False
+941,182,20260908,5.84,35,21,7.0,Clear,Unknown,Bike,Evening,Kolkata,Continental,0,False,False
+516,903,20260909,1.01,29,17,7.0,Clear,High,Bike,Night,New Delhi,North Indian,1,False,False
+953,423,20260820,3.92,41,20,9.0,Rainy,Medium,Bike,Night,New Delhi,Chinese,1,False,False
+481,26,20260821,12.77,71,22,8.0,Foggy,Low,Bike,Morning,New Delhi,Bakery,1,False,False
+284,184,20260822,2.33,18,9,2.0,Clear,Low,Bike,Evening,New Delhi,Chinese,0,False,False
+719,755,20260823,2.92,48,24,4.0,Windy,High,Bike,Afternoon,New Delhi,North Indian,0,False,False
+878,947,20260824,13.35,91,14,4.0,Rainy,Low,Scooter,Evening,Ranchi,North Indian,0,False,False
+226,341,20260825,5.26,51,28,8.0,Rainy,Medium,Scooter,Evening,New Delhi,North Indian,1,False,False
+27,802,20260826,4.39,38,12,8.0,Foggy,Medium,Bike,Night,Gurgaon,Cafe,1,False,False
+955,954,20260827,8.67,55,20,4.0,Windy,High,Bike,Morning,Orlando,Irish,1,False,False
+438,422,20260828,16.53,99,24,9.0,Snowy,Low,Scooter,Afternoon,New Delhi,Bakery,0,False,False
+952,822,20260829,13.47,59,19,4.0,Clear,Medium,Bike,Evening,New Delhi,South Indian,1,False,False
+365,686,20260830,18.86,89,18,1.0,Snowy,Medium,Bike,Night,Gurgaon,Italian,0,False,False
+230,885,20260831,12.81,51,12,2.0,Clear,Low,Bike,Morning,New Delhi,North Indian,1,False,False
+38,753,20260901,2.4,42,27,5.0,Snowy,Low,Scooter,Night,Noida,North Indian,1,False,False
+966,831,20260902,7.44,39,6,1.0,Rainy,Medium,Bike,Evening,New Delhi,Chinese,0,False,False
+375,255,20260903,1.89,22,13,7.0,Clear,Medium,Scooter,Evening,New Delhi,North Indian,1,False,False
+470,274,20260904,19.28,101,21,3.0,Snowy,Medium,Car,Morning,New Delhi,Mithai,0,False,False
+968,164,20260905,6.29,27,10,7.0,Unknown,Medium,Scooter,Morning,Nagpur,Chinese,1,False,False
+851,807,20260906,1.81,34,23,3.0,Clear,Medium,Car,Afternoon,New Delhi,Street Food,1,False,False
+705,719,20260907,1.74,34,23,2.0,Clear,Medium,Bike,Night,New Delhi,North Indian,0,False,False
+842,111,20260908,13.44,79,22,1.0,Clear,Medium,Car,Morning,New Delhi,Fast Food,0,False,False
+195,392,20260909,7.11,48,27,,Clear,Low,Scooter,Afternoon,Agra,North Indian,1,False,False
+855,894,20260820,4.5,32,20,6.0,Windy,Low,Scooter,Evening,Noida,North Indian,1,False,False
+865,40,20260821,8.31,44,6,5.0,Windy,Medium,Bike,Morning,Doha,Steak,1,False,False
+504,880,20260822,16.37,97,26,7.0,Clear,High,Bike,Morning,New Delhi,North Indian,0,False,False
+970,482,20260823,9.78,58,18,3.0,Clear,Medium,Bike,Afternoon,Noida,North Indian,0,False,False
+831,228,20260824,4.88,48,26,7.0,Windy,Medium,Scooter,Afternoon,Gurgaon,European,1,False,False
+580,205,20260825,5.54,51,28,9.0,Rainy,Medium,Scooter,,New Delhi,Street Food,1,False,False
+969,837,20260826,11.54,56,10,0.0,Clear,High,Car,Afternoon,New Delhi,North Indian,0,False,False
+163,941,20260827,12.85,54,5,,Clear,Low,Scooter,Afternoon,Gurgaon,Fast Food,0,False,False
+909,472,20260828,5.56,31,19,5.0,Clear,Low,Scooter,Afternoon,New Delhi,Beverages,1,False,False
+153,359,20260829,3.33,44,24,2.0,Unknown,Medium,Scooter,Evening,Hepburn Springs,Italian,0,False,False
+802,313,20260830,3.47,53,24,9.0,Snowy,High,Bike,Night,New Delhi,North Indian,0,False,False
+994,841,20260831,12.01,57,26,6.0,Clear,Low,Scooter,Morning,New Delhi,Juices,1,False,False
+756,815,20260901,15.98,90,21,6.0,Foggy,Low,Car,Morning,Faridabad,Cafe,1,False,False
+112,893,20260902,3.64,26,16,3.0,Clear,Low,Scooter,Morning,Gurgaon,Continental,1,False,False
+227,234,20260903,19.47,83,16,8.0,Clear,Low,Bike,Morning,Noida,North Indian,0,False,False
+689,229,20260904,15.51,81,10,8.0,Rainy,Medium,Scooter,Morning,New Delhi,Desserts,0,False,False
+104,25,20260905,10.42,72,28,3.0,Windy,Medium,Bike,Afternoon,Kochi,Kerala,1,False,False
+422,676,20260906,15.9,78,19,5.0,Rainy,Low,Car,Evening,Athens,Breakfast,0,False,False
+420,198,20260907,15.17,77,25,4.0,Windy,Low,Bike,Morning,New Delhi,Italian,1,False,False
+751,409,20260908,2.78,37,21,4.0,Rainy,Low,Bike,,Dehradun,Cafe,1,False,False
+587,337,20260909,1.98,39,22,0.0,Rainy,Low,Bike,Afternoon,Goa,Seafood,0,False,False
+781,286,20260820,14.03,65,17,2.0,Clear,Low,Bike,Afternoon,Noida,Biryani,0,False,False
+673,886,20260821,2.06,40,22,4.0,Foggy,Medium,Scooter,Evening,Gurgaon,Finger Food,1,False,False
+120,72,20260822,11.02,70,22,2.0,Clear,High,Scooter,Morning,Noida,North Indian,1,False,False
+54,991,20260823,17.95,96,16,,Snowy,High,Scooter,Morning,New Delhi,Cafe,0,False,False
+152,792,20260824,5.17,56,29,0.0,Foggy,Low,Bike,Morning,Pretoria,Contemporary,0,False,False
+404,286,20260825,16.62,94,26,8.0,Snowy,Low,Bike,Afternoon,Noida,Biryani,0,False,False
+946,360,20260826,0.71,31,25,8.0,Rainy,Low,Car,Morning,Gurgaon,South Indian,0,False,False
+208,657,20260827,13.44,55,9,5.0,Clear,Unknown,Scooter,Evening,New Delhi,Mughlai,1,False,False
+659,522,20260828,13.1,72,28,2.0,Clear,Low,Bike,Evening,New Delhi,Fast Food,1,False,False
+844,410,20260829,19.24,75,9,7.0,Rainy,High,Bike,Afternoon,Lakes Entrance,Breakfast,1,False,False
+763,696,20260830,5.35,43,24,6.0,Clear,Medium,Scooter,Afternoon,Noida,North Indian,1,False,False
+9,864,20260831,12.22,56,15,0.0,Clear,Low,Scooter,Evening,New Delhi,North Indian,0,False,False
+808,550,20260901,18.55,69,11,9.0,Clear,Low,Car,Afternoon,New Delhi,Bakery,1,False,False
+37,340,20260902,6.44,43,18,2.0,Clear,Low,Car,Afternoon,New Delhi,North Indian,0,False,False
+453,962,20260903,8.77,49,14,7.0,Foggy,Medium,Car,Evening,New Delhi,South Indian,0,False,False
+652,29,20260904,10.97,51,27,3.0,Clear,Low,Scooter,Afternoon,New Delhi,Mughlai,1,False,False
+254,119,20260905,6.68,44,10,5.0,Clear,High,Scooter,Morning,Gurgaon,Asian,0,False,False
+304,899,20260906,12.93,61,25,0.0,Rainy,Low,Scooter,Afternoon,New Delhi,North Indian,1,False,False
+747,994,20260907,7.99,42,18,4.0,Clear,Medium,Bike,Evening,New Delhi,Fast Food,0,False,False
+572,268,20260908,15.78,68,12,1.0,Clear,High,Scooter,Afternoon,New Delhi,Italian,0,False,False
+624,183,20260909,9.95,72,21,5.0,Windy,High,Scooter,Evening,New Delhi,Beverages,1,False,False
+733,595,20260820,13.47,46,7,6.0,Rainy,Low,Scooter,Afternoon,Brasí_lia,Bar Food,1,False,False
+892,986,20260821,17.19,76,11,8.0,Clear,Medium,Bike,Afternoon,Noida,North Indian,1,False,False
+263,272,20260822,3.23,33,17,9.0,Clear,High,Bike,Afternoon,New Delhi,Mithai,0,False,False
+611,40,20260823,1.27,46,25,9.0,Foggy,High,Bike,Afternoon,Doha,Steak,1,False,False
+298,112,20260824,4.71,31,20,6.0,Clear,Low,Bike,Morning,New Delhi,North Indian,1,False,False
+415,611,20260825,12.82,72,28,9.0,Rainy,Medium,Bike,Evening,Gurgaon,Biryani,1,False,False
+151,445,20260826,18.21,74,6,3.0,Unknown,Low,Bike,Evening,Vizag,North Indian,1,False,False
+789,354,20260827,9.51,63,26,9.0,Clear,High,Bike,Morning,Des Moines,Latin American,1,False,False
+641,747,20260828,0.89,20,9,0.0,Rainy,Low,Car,Morning,Noida,North Indian,1,False,False
+890,806,20260829,5.24,51,26,8.0,Windy,High,Scooter,Afternoon,Bhopal,South Indian,0,False,False
+551,322,20260830,10.64,36,11,9.0,Windy,Low,Car,Evening,New Delhi,Mithai,1,False,False
+887,447,20260831,13.23,70,20,8.0,Clear,Medium,Bike,Night,New Delhi,South Indian,1,False,False
+489,621,20260901,19.03,65,8,8.0,Clear,Medium,Scooter,Morning,Gurgaon,Juices,1,False,False
+148,524,20260902,10.3,73,29,0.0,Rainy,Low,Bike,Evening,New Delhi,Chinese,0,False,False
+147,119,20260903,12.39,56,14,8.0,Snowy,Medium,Bike,Evening,Gurgaon,Asian,0,False,False
+721,395,20260904,18.8,95,23,7.0,Clear,High,Bike,Afternoon,Edinburgh,Pizza,1,False,False
+932,922,20260905,16.78,70,22,1.0,Rainy,Medium,Bike,Morning,Gurgaon,North Indian,1,False,False
+740,591,20260906,7.85,34,7,9.0,Clear,Low,Scooter,Afternoon,New Delhi,Fast Food,0,False,False
+660,195,20260907,11.63,57,29,7.0,Clear,Medium,Scooter,Night,New Delhi,North Indian,0,False,False
+349,261,20260908,7.8,44,17,6.0,Windy,Medium,Car,Afternoon,New Delhi,North Indian,0,False,False
+464,46,20260909,11.88,63,5,1.0,Rainy,Medium,Bike,Afternoon,Gurgaon,Bakery,1,False,False
+326,726,20260820,14.89,88,22,9.0,Clear,High,Car,Evening,New Delhi,North Indian,1,False,False
+187,447,20260821,16.44,86,12,,Rainy,High,Bike,Afternoon,New Delhi,South Indian,0,False,False
+124,2,20260822,2.65,35,14,4.0,Unknown,Medium,Car,Afternoon,Gurgaon,Mughlai,0,False,False
+854,533,20260823,18.01,71,14,2.0,Foggy,High,Bike,Night,Goa,Goan,0,False,False
+609,948,20260824,10.32,49,24,5.0,Clear,Medium,Car,Night,New Delhi,North Indian,0,False,False
+144,826,20260825,6.37,56,29,4.0,Rainy,Low,Car,Afternoon,Noida,North Indian,0,False,False
+959,552,20260826,3.74,36,19,6.0,Rainy,Low,Bike,Morning,New Delhi,North Indian,1,False,False
+198,704,20260827,17.99,73,5,1.0,Windy,High,Bike,Evening,New Delhi,North Indian,0,False,False
+610,737,20260828,13.96,42,5,1.0,Rainy,Low,Bike,Night,New Delhi,North Indian,1,False,False
+280,963,20260829,16.02,61,20,7.0,Clear,Low,Bike,Evening,New Delhi,Tibetan,1,False,False
+294,760,20260830,7.52,44,17,9.0,Unknown,Medium,Car,Afternoon,New Delhi,Bakery,1,False,False
+401,755,20260831,2.51,28,16,2.0,Clear,Low,Bike,Morning,New Delhi,North Indian,1,False,False
+123,687,20260901,6.7,59,23,3.0,Foggy,High,Scooter,Morning,Pensacola,Breakfast,0,False,False
+184,202,20260902,17.61,61,5,8.0,Windy,Low,Bike,Morning,New Delhi,Continental,1,False,False
+203,373,20260903,3.65,46,29,9.0,Clear,Medium,Bike,Morning,Gurgaon,North Indian,0,False,False
+439,442,20260904,14.27,77,24,3.0,Clear,Medium,Car,Night,New Delhi,North Indian,0,False,False
+247,72,20260905,8.85,45,11,9.0,Clear,Low,Bike,Afternoon,Noida,North Indian,1,False,False
+416,972,20260906,9.24,49,8,2.0,Windy,Unknown,Bike,Afternoon,Chandigarh,North Indian,1,False,False
+933,681,20260907,19.7,66,16,6.0,Rainy,Low,Car,Evening,Wellington City,Cafe,0,False,False
+766,943,20260908,11.61,67,19,1.0,Clear,High,Car,Morning,Gurgaon,Bengali,0,False,False
+907,339,20260909,16.44,80,8,0.0,Windy,High,Car,Afternoon,Chandigarh,Mexican,1,False,False
+836,639,20260820,8.67,104,12,7.0,Rainy,High,Bike,Afternoon,New Delhi,Chinese,0,False,False
+888,322,20260821,5.14,43,23,7.0,Clear,Medium,Scooter,Evening,New Delhi,Mithai,1,False,False
+130,680,20260822,10.46,68,25,3.0,Clear,Unknown,Bike,Evening,New Delhi,North Indian,1,False,False
+638,869,20260823,5.23,47,23,2.0,Clear,Medium,Scooter,Morning,London,Indian,0,False,False
+403,128,20260824,10.35,48,7,9.0,Clear,Medium,Bike,Night,New Delhi,North Indian,1,False,False
+785,738,20260825,4.04,39,14,6.0,Rainy,High,Bike,Evening,Faridabad,North Indian,1,False,False
+771,922,20260826,2.66,21,16,8.0,Clear,Low,Bike,Afternoon,Gurgaon,North Indian,1,False,False
+736,308,20260827,17.61,74,9,5.0,Foggy,Medium,Bike,Afternoon,New Delhi,North Indian,0,False,False
+914,520,20260828,8.48,39,11,5.0,Clear,High,Bike,Night,New Delhi,Ice Cream,1,False,False
+220,317,20260829,17.06,66,9,9.0,Clear,Low,Bike,Evening,Indore,Cafe,1,False,False
+642,683,20260830,6.78,42,18,6.0,Foggy,Low,Bike,Night,London,Italian,0,False,False
+916,419,20260831,9.0,78,29,3.0,Snowy,Medium,Car,Afternoon,New Delhi,North Indian,1,False,False
+753,335,20260901,12.74,63,12,0.0,Clear,Low,Scooter,Afternoon,Gurgaon,North Indian,1,False,False
+807,413,20260902,18.72,89,17,0.0,Rainy,Medium,Bike,Afternoon,Gurgaon,North Indian,1,False,False
+920,714,20260903,3.23,14,7,7.0,Clear,Low,Bike,,New Delhi,Raw Meats,0,False,False
+625,303,20260904,12.56,49,22,8.0,Clear,Low,Car,Morning,Gurgaon,Cafe,0,False,False
+875,568,20260905,1.0,51,28,0.0,Snowy,Medium,Bike,Morning,New Delhi,North Indian,1,False,False
+761,131,20260906,3.46,37,24,6.0,Clear,Low,Bike,Morning,New Delhi,North Indian,0,False,False
+387,197,20260907,6.0,53,20,8.0,Snowy,Low,Car,Morning,New Delhi,North Indian,0,False,False
+973,431,20260908,14.79,64,12,9.0,Clear,Medium,Scooter,Morning,New Delhi,Italian,1,False,False
+510,681,20260909,14.65,95,19,3.0,Snowy,High,Car,Morning,Wellington City,Cafe,0,False,False
+268,963,20260820,14.2,73,17,1.0,Clear,Medium,Bike,Afternoon,New Delhi,Tibetan,0,False,False
+820,389,20260821,7.04,38,11,8.0,Clear,Low,Bike,Afternoon,New Delhi,North Indian,1,False,False
+442,694,20260822,19.74,98,16,1.0,Clear,Unknown,Car,Afternoon,New Delhi,South Indian,0,False,False
+497,767,20260823,11.88,69,20,8.0,Rainy,Medium,Bike,Evening,New Delhi,Street Food,1,False,False
+113,925,20260824,18.63,75,26,8.0,Clear,Low,Bike,Evening,New Delhi,Raw Meats,0,False,False
+692,179,20260825,8.8,38,6,2.0,Rainy,Medium,Bike,Afternoon,Noida,North Indian,1,False,False
+233,631,20260826,11.75,55,9,2.0,Clear,High,Bike,Morning,New Delhi,Fast Food,1,False,False
+870,583,20260827,18.95,92,27,0.0,Snowy,Low,Car,Morning,Gurgaon,Drinks Only,1,False,False
+608,309,20260828,7.6,48,16,4.0,Foggy,Low,Bike,Morning,New Delhi,Continental,1,False,False
+672,416,20260829,17.99,84,11,2.0,Foggy,Low,Car,Morning,Noida,North Indian,0,False,False
+374,562,20260830,13.82,72,21,9.0,Clear,Medium,Bike,Evening,Faridabad,Mughlai,0,False,False
+982,854,20260831,15.53,68,26,7.0,Foggy,Low,Bike,Evening,New Delhi,Chinese,0,False,False
+843,1,20260901,3.97,40,19,8.0,Clear,High,Bike,Afternoon,New Delhi,North Indian,0,False,False
+234,312,20260902,10.1,55,17,6.0,Clear,High,Car,Morning,Faridabad,North Indian,1,False,False
+786,294,20260903,18.21,70,5,1.0,Foggy,Low,Bike,Morning,Faridabad,North Indian,0,False,False
+677,216,20260904,2.68,25,16,8.0,Clear,Low,Bike,Morning,New Delhi,North Indian,1,False,False
+318,441,20260905,3.88,33,9,6.0,Snowy,Low,Bike,Morning,Athens,Bar Food,0,False,False
+649,805,20260906,15.89,91,15,9.0,Snowy,Medium,Car,Afternoon,Gurgaon,North Indian,1,False,False
+411,594,20260907,6.73,54,21,1.0,Clear,Medium,Bike,Afternoon,New Delhi,North Indian,0,False,False
+899,622,20260908,0.75,16,10,5.0,Clear,Medium,Bike,Afternoon,Davenport,American,0,False,False
+710,671,20260909,13.79,69,11,0.0,Rainy,Low,Scooter,Night,Bhopal,Italian,1,False,False
+359,330,20260820,18.83,69,5,8.0,Clear,Medium,Scooter,Evening,New Delhi,North Indian,0,False,False
+259,477,20260821,11.62,33,9,8.0,Clear,Low,Bike,Afternoon,New Delhi,North Indian,1,False,False
+745,453,20260822,5.03,38,17,,Clear,Medium,Bike,Morning,Gurgaon,North Indian,0,False,False
+628,453,20260823,15.08,94,26,1.0,Rainy,Medium,Scooter,Evening,Gurgaon,North Indian,0,False,False
+633,692,20260824,10.48,45,10,7.0,Rainy,Low,Car,Afternoon,New Delhi,European,0,False,False
+283,219,20260825,7.82,45,16,8.0,Rainy,Medium,Bike,Evening,New Delhi,Fast Food,0,False,False
+377,524,20260826,16.98,78,11,6.0,Clear,Low,Bike,,New Delhi,Chinese,0,False,False
+385,485,20260827,14.83,126,19,4.0,Rainy,Low,Car,Morning,New Delhi,Mithai,1,False,True
+225,813,20260828,5.67,27,11,9.0,Clear,Low,Scooter,Morning,New Delhi,Bakery,0,False,False
+954,923,20260829,18.33,67,5,5.0,Snowy,Medium,Scooter,Morning,Noida,North Indian,0,False,False
+815,983,20260830,17.46,62,6,,Clear,Medium,Scooter,Morning,New Delhi,Chinese,1,False,False
+473,816,20260831,1.34,30,9,5.0,Foggy,High,Bike,Evening,Gurgaon,Cafe,1,False,False
+348,754,20260901,1.38,17,13,9.0,Clear,Low,Scooter,Morning,New Delhi,Fast Food,1,False,False
+506,174,20260902,3.67,26,9,0.0,Clear,Low,Bike,,New Delhi,North Indian,1,False,False
+640,675,20260903,7.86,55,22,2.0,Windy,Medium,Car,Morning,New Delhi,North Indian,0,False,False
+988,87,20260904,8.98,105,22,8.0,Clear,Medium,Scooter,Afternoon,New Delhi,Ice Cream,0,False,False
+929,291,20260905,12.85,61,6,7.0,Rainy,Medium,Scooter,Evening,Noida,Chinese,1,False,False
+906,528,20260906,17.91,68,6,7.0,Clear,Low,Bike,Afternoon,Bangalore,Pizza,0,False,False
+620,680,20260907,15.09,68,20,7.0,Snowy,Low,Car,Morning,New Delhi,North Indian,1,False,False
+856,649,20260908,4.22,35,16,7.0,Clear,Medium,Bike,Morning,Noida,Fast Food,0,False,False
+804,635,20260909,12.33,101,7,2.0,Clear,High,Bike,Night,Noida,North Indian,0,False,False
+646,344,20260820,17.87,87,29,4.0,Snowy,Low,Scooter,Morning,New Delhi,Fast Food,1,False,False
+847,96,20260821,2.16,23,10,1.0,Clear,Medium,Car,Night,New Delhi,French,0,False,False
+557,839,20260822,3.11,43,21,1.0,Rainy,Medium,Scooter,Morning,Noida,Fast Food,0,False,False
+958,975,20260823,1.42,40,24,2.0,Clear,High,Scooter,Afternoon,New Delhi,North Indian,1,False,False
+578,770,20260824,18.57,89,16,7.0,Rainy,Medium,Bike,Afternoon,New Delhi,Continental,1,False,False
+796,241,20260825,17.51,60,15,3.0,Clear,Medium,Bike,Evening,Rest of Hawaii,Seafood,1,False,False
+86,689,20260826,6.84,51,25,1.0,Clear,Medium,Bike,Evening,Noida,North Indian,0,False,False
+243,318,20260827,18.34,91,22,,Snowy,Medium,Scooter,Afternoon,Noida,North Indian,0,False,False
+699,231,20260828,3.51,44,22,2.0,Windy,Medium,Bike,Night,Brasí_lia,Peruvian,1,False,False
+160,826,20260829,14.7,58,6,2.0,Clear,Medium,Scooter,Morning,Noida,North Indian,1,False,False
+525,204,20260830,16.85,71,17,4.0,Clear,High,Car,Morning,Colombo,Seafood,1,False,False
+36,151,20260831,16.26,66,27,5.0,Rainy,Low,Car,Morning,New Delhi,North Indian,1,False,False
+541,26,20260901,19.1,90,25,6.0,Snowy,Medium,Bike,Morning,New Delhi,Bakery,0,False,False
+171,48,20260902,13.71,64,22,9.0,Rainy,Medium,Bike,Evening,New Delhi,Lucknowi,0,False,False
+655,251,20260903,8.92,51,10,1.0,Clear,Medium,Bike,,Kolkata,Cafe,1,False,False
+891,487,20260904,14.58,70,23,0.0,Clear,Low,Bike,Evening,New Delhi,North Indian,1,False,False
+858,626,20260905,9.71,61,27,5.0,Clear,Low,Car,Afternoon,New Delhi,North Indian,0,False,False
+848,871,20260906,19.94,83,26,6.0,Clear,Low,Bike,Afternoon,New Delhi,Chinese,1,False,False
+945,787,20260907,4.53,49,18,4.0,Snowy,Medium,Scooter,Morning,Bhopal,Cafe,1,False,False
+734,75,20260908,10.7,57,8,4.0,Clear,High,Car,Afternoon,New Delhi,North Indian,1,False,False
+96,467,20260909,10.13,65,22,0.0,Clear,Medium,Bike,Evening,Goa,North Indian,0,False,False
+564,425,20260820,0.78,18,11,0.0,Clear,Low,Bike,Afternoon,Agra,Cafe,1,False,False
+241,908,20260821,18.84,88,25,8.0,Foggy,Medium,Scooter,Afternoon,Amritsar,North Indian,0,False,False
+743,645,20260822,15.08,84,29,7.0,Snowy,Low,Bike,Evening,New Delhi,Desserts,1,False,False
+575,590,20260823,17.32,77,10,3.0,Clear,Low,Scooter,Evening,New Delhi,Cafe,1,False,False
+691,200,20260824,6.81,47,23,2.0,Clear,Medium,Bike,Evening,New Delhi,South Indian,1,False,False
+461,736,20260825,2.79,38,23,7.0,Clear,High,Bike,Morning,New Delhi,Street Food,1,False,False
+554,714,20260826,11.44,74,14,4.0,Foggy,High,Car,Afternoon,New Delhi,Raw Meats,1,False,False
+889,394,20260827,2.44,39,13,9.0,Snowy,High,Bike,Evening,New Delhi,North Indian,1,False,False
+207,507,20260828,2.48,30,20,8.0,Rainy,Low,Scooter,Evening,Dubuque,Italian,1,False,False
+393,410,20260829,7.75,55,21,1.0,Unknown,Medium,Scooter,Evening,Lakes Entrance,Breakfast,1,False,False
+795,250,20260830,0.85,17,9,8.0,Clear,Medium,Bike,Morning,New Delhi,Desserts,0,False,False
+398,152,20260831,8.87,55,19,3.0,Clear,Low,Bike,Evening,Gurgaon,Continental,1,False,False
+767,672,20260901,15.37,66,15,5.0,Snowy,Medium,Car,Afternoon,Pensacola,Seafood,1,False,False
+849,705,20260902,10.29,67,25,4.0,Foggy,Medium,Scooter,Evening,Gurgaon,Fast Food,0,False,False
+218,6,20260903,15.06,65,22,4.0,Rainy,Low,Bike,Morning,New Delhi,Beverages,1,False,False
+5,915,20260904,3.54,37,23,7.0,Foggy,Low,Bike,,Davenport,Mexican,1,False,False
+769,769,20260905,7.17,29,7,9.0,Clear,Medium,Scooter,Morning,New Delhi,Chinese,1,False,False
+643,882,20260906,4.62,33,8,3.0,Rainy,Medium,Car,Afternoon,Noida,Pizza,1,False,False
+930,789,20260907,5.53,27,10,8.0,Clear,Low,Car,Morning,New Delhi,Chinese,0,False,False
+613,907,20260908,12.74,63,17,9.0,Rainy,Low,Bike,Afternoon,New Delhi,Italian,1,False,False
+739,110,20260909,9.06,61,26,3.0,Clear,High,Bike,Evening,Gurgaon,Juices,1,False,False
+547,798,20260820,2.71,28,6,0.0,Foggy,Low,Bike,Morning,New Delhi,Finger Food,0,False,False
+726,436,20260821,16.92,78,23,5.0,Clear,Low,Bike,Night,Noida,North Indian,1,False,False
+684,225,20260822,13.54,54,11,1.0,Foggy,Low,Bike,Morning,New Delhi,North Indian,1,False,False
+99,181,20260823,1.0,44,25,4.0,Snowy,Medium,Bike,Morning,Noida,Cafe,1,False,False
+805,824,20260824,8.77,42,12,2.0,Clear,Medium,Car,Morning,New Delhi,North Indian,1,False,False
+728,981,20260825,16.01,84,28,0.0,Windy,Low,Car,Morning,New Delhi,North Indian,0,False,False
+574,713,20260826,12.63,49,8,8.0,Foggy,Medium,Scooter,Night,New Delhi,Bakery,1,False,False
+407,531,20260827,8.09,56,22,2.0,Foggy,Low,Car,Evening,New Delhi,Street Food,0,False,False
+503,476,20260828,6.54,39,10,7.0,Clear,Medium,Bike,Night,New Delhi,Mithai,0,False,False
+48,52,20260829,10.64,45,14,5.0,Clear,Medium,Scooter,Afternoon,New Delhi,Continental,1,False,False
+33,571,20260830,1.77,22,14,9.0,Clear,Medium,Bike,Evening,New Delhi,Bakery,1,False,False
+780,256,20260831,13.0,77,25,7.0,Foggy,Low,Bike,Evening,Gurgaon,Beverages,1,False,False
+840,940,20260901,12.83,50,5,8.0,Clear,Low,Bike,Evening,New Delhi,North Indian,1,False,False
+201,869,20260902,13.02,65,6,9.0,Snowy,High,Car,Afternoon,London,Indian,1,False,False
+135,125,20260903,18.89,74,22,1.0,Rainy,Medium,Scooter,Morning,Gurgaon,North Indian,0,False,False
+28,468,20260904,10.53,72,25,8.0,Foggy,High,Bike,Evening,Faridabad,Cafe,1,False,False
+881,137,20260905,5.01,31,10,5.0,Rainy,Low,Bike,Afternoon,Noida,North Indian,1,False,False
+231,821,20260906,16.0,65,13,3.0,Foggy,Medium,Scooter,Afternoon,Tangerang,Sunda,1,False,False
+490,476,20260907,17.86,83,16,8.0,Clear,Low,Scooter,Afternoon,New Delhi,Mithai,0,False,False
+773,684,20260908,2.99,90,9,5.0,Foggy,High,Bike,Afternoon,New Delhi,Bakery,1,False,False
+379,544,20260909,16.38,51,6,2.0,Clear,Medium,Bike,Morning,Albany,Chinese,1,False,False
+289,573,20260820,6.09,27,7,4.0,Clear,Medium,Bike,Night,Gurgaon,Italian,0,False,False
+419,610,20260821,13.61,66,26,0.0,Clear,Low,Bike,Morning,New Delhi,Fast Food,1,False,False
+675,325,20260822,8.5,56,14,7.0,Snowy,High,Bike,Evening,New Delhi,Fast Food,1,False,False
+392,973,20260823,8.55,46,28,8.0,Clear,Low,Scooter,Evening,Ranchi,North Indian,0,False,False
+593,774,20260824,4.05,39,21,5.0,Clear,Medium,Scooter,Afternoon,New Delhi,North Indian,0,False,False
+499,913,20260825,19.5,73,18,2.0,Clear,High,Bike,Morning,New Delhi,Continental,0,False,False
+139,454,20260826,7.59,37,16,3.0,Clear,Unknown,Scooter,Afternoon,New Delhi,Bakery,1,False,False
+63,628,20260827,16.66,95,29,7.0,Snowy,High,Scooter,Afternoon,Johannesburg,American,1,False,False
+472,835,20260828,19.41,100,21,3.0,Snowy,High,Car,Evening,Gurgaon,North Indian,1,False,False
+648,737,20260829,13.74,56,6,1.0,Foggy,Medium,Bike,Afternoon,New Delhi,North Indian,1,False,False
+129,914,20260830,0.64,24,10,3.0,Clear,High,Bike,Night,New Delhi,Chinese,1,False,False
+977,517,20260831,12.1,53,11,0.0,Clear,High,Bike,Afternoon,Sí£o Paulo,Italian,1,False,False
+521,437,20260901,12.09,60,13,1.0,Clear,Medium,Car,Morning,New Delhi,North Indian,0,False,False
+839,851,20260902,11.82,77,24,7.0,Windy,Medium,Bike,Night,Manchester,Indian,0,False,False
+963,929,20260903,5.28,53,27,6.0,Foggy,Low,Bike,Morning,Noida,North Indian,1,False,False
+65,562,20260904,5.98,35,22,9.0,Clear,Low,Car,Evening,Faridabad,Mughlai,0,False,False
+813,457,20260905,2.93,94,24,8.0,Clear,Medium,Bike,Morning,New Delhi,Ice Cream,0,False,False
+15,919,20260906,4.05,50,19,2.0,Snowy,Medium,Scooter,Evening,Noida,North Indian,1,False,False
+157,163,20260907,13.61,43,12,2.0,Clear,Low,Scooter,,Gurgaon,Mexican,1,False,False
+41,762,20260908,2.88,41,16,4.0,Rainy,Unknown,Car,Morning,Gurgaon,Fast Food,0,False,False
+493,883,20260909,5.91,57,29,4.0,Clear,Medium,Scooter,Evening,Gurgaon,Healthy Food,0,False,False
+380,487,20260820,6.0,47,21,2.0,Rainy,Medium,Scooter,Evening,New Delhi,North Indian,1,False,False
+188,461,20260821,11.33,77,29,7.0,Clear,Medium,Scooter,Afternoon,Gurgaon,North Indian,0,False,False
+764,266,20260822,15.01,64,15,6.0,Clear,Medium,Bike,Morning,Gurgaon,Continental,0,False,False
+217,770,20260823,6.85,48,16,5.0,Clear,High,Bike,Morning,New Delhi,Continental,0,False,False
+792,254,20260824,11.93,75,7,1.0,Snowy,High,Car,Morning,New Delhi,North Indian,1,False,False
+53,861,20260825,18.82,77,5,3.0,Windy,Low,Car,Morning,Gurgaon,Japanese,1,False,False
+879,653,20260826,1.03,29,19,4.0,Clear,Medium,Bike,Afternoon,Taguig City,Cafe,1,False,False
+338,284,20260827,14.22,84,25,8.0,Rainy,Unknown,Car,Evening,New Delhi,Cafe,0,False,False
+749,785,20260828,18.18,85,17,3.0,Snowy,High,Bike,,New Delhi,Bakery,1,False,False
+720,797,20260829,14.75,62,10,7.0,Clear,Low,Car,Morning,New Delhi,North Indian,0,False,False
+725,534,20260830,11.7,60,17,5.0,Rainy,Low,Bike,Afternoon,New Delhi,Chinese,0,False,False
+296,497,20260831,10.68,42,14,1.0,Clear,Low,Bike,Morning,New Delhi,North Indian,1,False,False
+702,642,20260901,1.51,44,26,1.0,Clear,High,Bike,Evening,New Delhi,Mithai,1,False,False
+252,245,20260902,8.01,48,8,6.0,Clear,High,Bike,Morning,New Delhi,Street Food,1,False,False
+727,282,20260903,3.23,42,25,7.0,Rainy,Low,Car,Morning,New Delhi,North Indian,0,False,False
+462,451,20260904,13.16,68,25,8.0,Rainy,High,Scooter,Morning,New Delhi,Bakery,0,False,False
+456,80,20260905,10.11,44,11,4.0,Windy,Low,Bike,Morning,Birmingham,British,1,False,False
+997,731,20260906,18.39,74,24,6.0,Windy,Low,Bike,Afternoon,New Delhi,North Indian,1,False,False
+816,293,20260907,10.62,54,22,5.0,Windy,Medium,Car,Afternoon,New Delhi,North Indian,1,False,False
+863,241,20260908,10.73,57,7,5.0,Clear,Unknown,Bike,Afternoon,Rest of Hawaii,Seafood,1,False,False
+270,279,20260909,6.23,51,20,1.0,Clear,Medium,Car,Evening,New Delhi,Chinese,0,False,False
+202,344,20260820,2.14,36,25,1.0,Clear,Low,Bike,Afternoon,New Delhi,Fast Food,0,False,False
+162,328,20260821,12.83,76,19,2.0,Clear,Medium,Bike,Morning,Gurgaon,Mughlai,1,False,False
+556,915,20260822,8.37,42,13,7.0,Clear,High,Scooter,Evening,Davenport,Mexican,0,False,False
+730,554,20260823,3.69,27,8,8.0,Rainy,Medium,Bike,Afternoon,Gurgaon,North Indian,1,False,False
+402,83,20260824,18.1,77,8,5.0,Clear,Low,Scooter,Morning,Noida,North Indian,0,False,False
+703,142,20260825,7.06,51,26,5.0,Clear,Low,Scooter,Afternoon,New Delhi,Street Food,0,False,False
+477,155,20260826,1.94,25,10,1.0,Foggy,Low,Bike,Night,New Delhi,Cafe,0,False,False
+822,237,20260827,0.59,27,21,0.0,Clear,Low,Bike,Afternoon,New Delhi,Street Food,1,False,False
+772,393,20260828,17.01,97,28,6.0,Snowy,Low,Bike,Night,New Delhi,Italian,1,False,False
+106,711,20260829,5.36,30,11,4.0,Clear,Low,Scooter,Afternoon,Gurgaon,Healthy Food,0,False,False
+566,157,20260830,12.0,75,25,0.0,Clear,Low,Car,Evening,New Delhi,North Indian,1,False,False
+390,724,20260831,16.23,54,6,0.0,Clear,Medium,Bike,Evening,New Delhi,South Indian,0,False,False
+2,220,20260901,19.04,60,12,6.0,Rainy,Low,Car,Evening,Savannah,Breakfast,0,False,False
+938,66,20260902,18.33,98,19,0.0,Foggy,Medium,Scooter,Morning,New Delhi,Cafe,0,False,False
+983,425,20260903,2.58,37,25,7.0,Clear,Medium,Scooter,Morning,Agra,Cafe,0,False,False
+562,418,20260904,4.65,46,21,1.0,Clear,Medium,Bike,Evening,New Delhi,North Indian,1,False,False
+81,339,20260905,17.33,79,12,3.0,Snowy,Low,Scooter,Evening,Chandigarh,Mexican,1,False,False
+206,556,20260906,0.68,50,29,8.0,Snowy,High,Bike,Evening,New Delhi,Street Food,0,False,False
+35,478,20260907,19.33,73,7,8.0,Clear,Medium,Bike,Morning,Gurgaon,Cafe,1,False,False
+776,426,20260908,3.42,24,11,9.0,Clear,Medium,Car,Night,New Delhi,Gujarati,1,False,False
+509,64,20260909,19.02,106,22,1.0,Rainy,High,Scooter,Evening,New Delhi,Bakery,0,False,False
+428,212,20260820,17.81,122,21,4.0,Windy,High,Bike,Evening,New Delhi,Fast Food,0,False,True
+455,853,20260821,2.67,28,17,6.0,Clear,Medium,Car,Night,New Delhi,Fast Food,0,False,False
+367,431,20260822,19.24,114,26,1.0,Snowy,Low,Bike,,New Delhi,Italian,0,False,False
+92,399,20260823,14.41,85,16,6.0,Rainy,Unknown,Bike,Night,New Delhi,Fast Food,0,False,False
+340,927,20260824,2.41,25,15,9.0,Unknown,Medium,Bike,Evening,Pocatello,Asian,0,False,False
+898,789,20260825,17.98,45,5,8.0,Clear,Low,Bike,Evening,New Delhi,Chinese,0,False,False
+565,599,20260826,7.34,93,22,5.0,Foggy,Medium,Bike,Afternoon,Macon,Steak,0,False,False
+346,969,20260827,12.51,62,18,5.0,Clear,Medium,Bike,Evening,New Delhi,Fast Food,0,False,False
+777,713,20260828,4.97,34,17,9.0,Rainy,Low,Bike,Evening,New Delhi,Bakery,0,False,False
+242,21,20260829,19.1,101,18,1.0,Snowy,Low,Bike,Afternoon,Faridabad,Mithai,1,False,False
+14,878,20260830,4.64,24,15,9.0,Clear,Low,Bike,Afternoon,New Delhi,Chinese,0,False,False
+316,902,20260831,14.07,63,10,5.0,Rainy,Low,Bike,Evening,New Delhi,North Indian,1,False,False
+601,784,20260901,3.79,34,13,2.0,Clear,Medium,Bike,Morning,New Delhi,Chinese,1,False,False
+388,590,20260902,3.96,44,23,,Clear,Medium,Bike,Afternoon,New Delhi,Cafe,0,False,False
+274,390,20260903,18.31,79,25,3.0,Clear,Medium,Bike,Afternoon,Mysore,Finger Food,0,False,False
+167,489,20260904,6.76,42,7,6.0,Foggy,Medium,Bike,Night,Gurgaon,North Indian,1,False,False
+841,7,20260905,0.76,28,26,9.0,Clear,Low,Car,Afternoon,New Delhi,Bakery,0,False,False
+993,966,20260906,5.81,41,14,8.0,Rainy,Medium,Bike,Evening,Gurgaon,Bakery,0,False,False
+647,361,20260907,12.08,60,16,4.0,Clear,High,Scooter,Afternoon,Puducherry,Cafe,0,False,False
+819,306,20260908,1.57,30,16,1.0,Rainy,Low,Car,Evening,New Delhi,Bakery,1,False,False
+485,772,20260909,11.89,79,28,0.0,Clear,Medium,Bike,Afternoon,New Delhi,Mughlai,1,False,False
+981,400,20260820,7.02,53,23,2.0,Clear,Medium,Car,Evening,New Delhi,North Indian,0,False,False
+505,874,20260821,13.85,71,29,5.0,Clear,Low,Bike,Evening,New Delhi,North Indian,0,False,False
+832,914,20260822,9.32,71,24,2.0,Rainy,Medium,Scooter,Evening,New Delhi,Chinese,0,False,False
+244,977,20260823,7.72,64,19,4.0,Foggy,High,Bike,Evening,Bangalore,Modern Indian,0,False,False
+567,856,20260824,8.15,50,26,2.0,Rainy,Low,Bike,Afternoon,New Delhi,North Indian,1,False,False
+876,430,20260825,3.54,41,17,4.0,Rainy,Medium,Scooter,Afternoon,New Delhi,Chinese,1,False,False
+563,552,20260826,3.16,27,9,,Snowy,Low,Car,Morning,New Delhi,North Indian,0,False,False
+687,766,20260827,11.65,53,10,3.0,Windy,Low,Bike,Night,Chandigarh,American,1,False,False
+190,753,20260828,5.22,43,14,3.0,Snowy,Medium,Scooter,,Noida,North Indian,1,False,False
+783,560,20260829,5.41,38,17,6.0,Clear,High,Scooter,Morning,New Delhi,South Indian,1,False,False
+700,820,20260830,9.88,43,7,0.0,Rainy,Medium,Car,Morning,New Delhi,Chinese,0,False,False
+476,618,20260831,19.86,71,12,8.0,Rainy,High,Bike,Evening,Albany,American,1,False,False
+682,920,20260901,5.53,59,23,4.0,Windy,High,Bike,Morning,New Delhi,North Indian,1,False,False
+511,226,20260902,12.46,62,10,1.0,Foggy,Low,Bike,Afternoon,Gurgaon,North Indian,0,False,False
+59,500,20260903,1.38,17,6,3.0,Clear,Medium,Car,Morning,New Delhi,Mexican,0,False,False
+475,225,20260904,10.79,65,24,1.0,Clear,Medium,Scooter,Evening,New Delhi,North Indian,0,False,False
+561,280,20260905,14.23,70,23,7.0,Clear,Medium,Scooter,Afternoon,Noida,North Indian,1,False,False
+857,447,20260906,1.21,39,22,1.0,Snowy,Low,Bike,Afternoon,New Delhi,South Indian,1,False,False
+748,498,20260907,11.1,56,18,7.0,Clear,Low,Bike,Afternoon,Faridabad,Fast Food,1,False,False
+253,30,20260908,17.1,65,25,5.0,Clear,Medium,Bike,Evening,New Delhi,North Indian,0,False,False
+22,399,20260909,3.22,32,19,9.0,Clear,Medium,Bike,Afternoon,New Delhi,Fast Food,1,False,False
+314,345,20260820,19.27,85,29,9.0,Foggy,Medium,Car,Morning,Noida,Fast Food,1,False,False
+460,685,20260821,2.82,29,10,1.0,Rainy,Medium,Scooter,Evening,Manchester,French,0,False,False
+161,696,20260822,7.67,59,22,8.0,Foggy,Medium,Scooter,Afternoon,Noida,North Indian,0,False,False
+277,818,20260823,16.07,64,16,5.0,Clear,Medium,Bike,Evening,New Delhi,Chinese,1,False,False
+956,415,20260824,7.97,35,9,8.0,Windy,Medium,Scooter,Evening,Allahabad,North Indian,1,False,False
+192,742,20260825,18.0,98,22,,Rainy,High,Car,Night,New Delhi,North Indian,0,False,False
+386,170,20260826,16.17,78,12,2.0,Clear,Medium,Scooter,Evening,New Delhi,North Indian,0,False,False
+806,861,20260827,14.86,91,15,4.0,Unknown,High,Scooter,Night,Gurgaon,Japanese,0,False,False
+414,479,20260828,11.68,70,25,7.0,Clear,Unknown,Scooter,Afternoon,New Delhi,North Indian,0,False,False
+492,942,20260829,12.59,39,10,2.0,Clear,Low,Scooter,Evening,New Delhi,Cafe,1,False,False
+344,131,20260830,8.96,51,6,5.0,Snowy,Unknown,Car,Morning,New Delhi,North Indian,1,False,False
+770,638,20260831,16.51,79,7,1.0,Clear,Medium,Bike,Morning,New Delhi,North Indian,0,False,False
+309,547,20260901,16.01,72,12,4.0,Clear,Low,Car,Afternoon,New Delhi,North Indian,1,False,False
+662,28,20260902,19.74,81,11,7.0,Rainy,High,Scooter,Afternoon,Gurgaon,Mithai,0,False,False
+131,929,20260903,8.64,62,29,4.0,Snowy,Low,Bike,Evening,Noida,North Indian,0,False,False
+664,404,20260904,5.13,38,16,1.0,Clear,Medium,Car,Morning,New Delhi,North Indian,1,False,False
+872,607,20260905,5.78,38,11,5.0,Clear,High,Bike,Morning,Noida,Cafe,0,False,False
+100,578,20260906,2.6,29,16,1.0,Clear,Low,Bike,Afternoon,Gurgaon,Biryani,1,False,False
+373,679,20260907,2.34,28,8,2.0,Foggy,Medium,Bike,Morning,New Delhi,Kerala,0,False,False
+88,28,20260908,12.93,58,20,8.0,Clear,Medium,Scooter,Morning,Gurgaon,Mithai,0,False,False
+459,86,20260909,1.6,24,14,8.0,Clear,Medium,Bike,Evening,New Delhi,Pizza,1,False,False
+331,659,20260820,7.44,53,27,,Rainy,Low,Bike,Evening,New Delhi,North Indian,0,False,False
+215,439,20260821,14.39,50,6,,Rainy,Medium,Scooter,Morning,Noida,Fast Food,0,False,False
+467,139,20260822,6.07,35,18,4.0,Unknown,Low,Bike,Afternoon,New Delhi,North Indian,0,False,False
+122,888,20260823,17.97,92,28,7.0,Windy,Medium,Scooter,Morning,New Delhi,Chinese,1,False,False
+615,473,20260824,17.53,79,14,6.0,Clear,Low,Bike,Afternoon,New Delhi,Finger Food,0,False,False
+21,187,20260825,12.43,70,13,6.0,Rainy,High,Bike,Morning,Noida,North Indian,1,False,False
+701,52,20260826,10.89,58,7,0.0,Windy,Medium,Bike,Evening,New Delhi,Continental,1,False,False
+72,267,20260827,4.37,25,6,7.0,Clear,Medium,Scooter,Evening,New Delhi,North Indian,1,False,False
+107,389,20260828,8.5,54,13,3.0,Clear,High,Car,Evening,New Delhi,North Indian,1,False,False
+271,336,20260829,16.28,71,8,9.0,Rainy,Low,Scooter,Morning,Des Moines,American,1,False,False
+861,217,20260830,15.62,81,26,2.0,Snowy,High,Scooter,Evening,Brasí_lia,Japanese,1,False,False
+436,466,20260831,14.17,55,8,0.0,Clear,Low,Bike,Afternoon,New Delhi,Fast Food,0,False,False
+103,335,20260901,6.63,58,24,3.0,Foggy,Low,Scooter,Night,Gurgaon,North Indian,1,False,False

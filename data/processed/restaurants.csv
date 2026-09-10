@@ -1,0 +1,1001 @@
+restaurant_id,name,city,cuisine,cost_for_two,has_online_delivery,price_range,aggregate_rating,votes
+1,Wah Ji Wah,New Delhi,North Indian,350,No,1,2.1,54
+2,19 Flavours Biryani,Gurgaon,Mughlai,700,Yes,2,4.1,84
+3,Andaaz E Paranthas,Noida,North Indian,550,No,2,3.2,36
+4,Tony's,New Delhi,Fast Food,200,Yes,1,4.4,163
+5,Yummy Adda,New Delhi,North Indian,400,No,1,3.5,14
+6,Tea Point,New Delhi,Beverages,150,No,1,0.0,0
+7,Rainbows,New Delhi,Bakery,400,Yes,1,3.2,28
+8,Bansiwala Sweets,Gurgaon,Street Food,100,No,1,0.0,1
+9,Green Restaurant,Noida,North Indian,400,Yes,1,3.6,47
+10,Me Kong Bowl,Gurgaon,Asian,700,Yes,2,4.0,27
+11,Drifters Cafe,Gurgaon,Chinese,400,Yes,1,3.9,40
+12,Jiya Amritsari Naan,New Delhi,North Indian,200,No,1,0.0,0
+13,Tandoori KnockOuts,Gurgaon,Fast Food,500,Yes,2,4.2,112
+14,Chocolate Fountain,Noida,Desserts,150,No,1,0.0,1
+15,Kay's Chik-In,New Delhi,North Indian,650,No,2,2.6,7
+16,Chinar Junction,Gurgaon,North Indian,600,No,2,2.8,8
+17,Tea Villa Cafe,Mumbai,Cafe,1000,Yes,3,4.1,1295
+18,Veggie-Licious,New Delhi,North Indian,450,Yes,1,3.6,100
+19,The Grillz & Gravy,Faridabad,North Indian,400,No,1,0.0,0
+20,Chaudhary Chaap & Chinese,Faridabad,Chinese,300,No,1,0.0,0
+21,Anupama Sweets & Family Restaurant,Faridabad,Mithai,400,Yes,1,2.7,28
+22,Happy Hakka,Noida,Chinese,650,Yes,2,3.6,582
+23,The Biryani Co.,New Delhi,Hyderabadi,650,Yes,2,4.2,295
+24,LaBontí©,New Delhi,Bakery,500,No,2,3.4,17
+25,Paragon,Kochi,Kerala,900,No,2,4.3,722
+26,F 2 Pastry Shop,New Delhi,Bakery,150,No,1,3.3,26
+27,Chawla's,New Delhi,North Indian,800,No,2,3.3,50
+28,Aggarwal Sweets & Restaurant,Gurgaon,Mithai,100,No,1,0.0,0
+29,Nazeer Foods,New Delhi,Mughlai,600,Yes,2,3.5,27
+30,U Like,New Delhi,North Indian,600,No,2,3.0,16
+31,Urban Gala,New Delhi,Chinese,700,No,2,2.8,19
+32,Green Chick Chop,New Delhi,Raw Meats,350,No,1,2.9,12
+33,BED,New Delhi,European,2700,No,4,3.0,9
+34,Food Town,Noida,Chinese,250,No,1,0.0,0
+35,Shree Rathnam,New Delhi,South Indian,800,Yes,2,3.2,95
+36,Stillwater on Belmore,Lorn,Breakfast,20,No,2,3.6,18
+37,Flying Mango,Des Moines,BBQ,40,No,3,4.5,674
+38,Spices & Sauces,Gurgaon,North Indian,1500,No,3,3.0,8
+39,Sen's Sational Xpress Kitchen,Noida,North Indian,600,Yes,2,3.0,7
+40,Texas Roadhouse,Doha,Steak,250,No,4,4.0,41
+41,Adarsh Kulfi,Noida,Ice Cream,100,No,1,0.0,3
+42,Gupta Rasoi,New Delhi,North Indian,200,No,1,0.0,1
+43,Gopala,Gurgaon,Mithai,250,No,1,3.4,37
+44,Apni Rasoi,New Delhi,Mughlai,300,No,1,0.0,0
+45,Juice Lounge,Noida,Juices,300,No,1,0.0,1
+46,The Daily,Gurgaon,Bakery,300,No,1,0.0,0
+47,Hangchuaa's Chinese Food Corner,New Delhi,Chinese,600,No,2,3.1,20
+48,Moradabadi Biryani,New Delhi,Lucknowi,300,No,1,3.1,9
+49,Uncle's Kabab Point,New Delhi,Fast Food,350,Yes,1,3.4,59
+50,Chandu Chat Bhandar,Noida,Street Food,150,No,1,0.0,0
+51,India Restaurant,Kolkata,Biryani,800,Yes,2,4.6,1219
+52,Bromfy Public House,New Delhi,Continental,1600,No,3,2.8,27
+53,Cabana's Kabab & Curry's,New Delhi,North Indian,450,No,1,3.3,73
+54,ProFit Kitchen,Noida,Healthy Food,600,Yes,2,3.4,21
+55,Mogambo Kitchen,Gurgaon,North Indian,200,No,1,0.0,0
+56,Food Ka Adda,Gurgaon,North Indian,400,No,1,0.0,3
+57,Arigato Sushi,Yorkton,Asian,25,No,2,3.3,26
+58,Oh My!,Faridabad,Chinese,300,No,1,0.0,2
+59,Pt. Gaya Prasad Shiv Charan Paranthe Wale,New Delhi,North Indian,150,No,1,3.6,437
+60,The Junkyard Cafí©,New Delhi,North Indian,1400,No,3,3.8,305
+61,Khalsa,New Delhi,North Indian,550,Yes,2,2.7,55
+62,Jungli Moon Dance Restaurant,Ranchi,North Indian,500,No,2,3.1,26
+63,Sethi's Delicacy,Faridabad,Fast Food,150,No,1,3.8,75
+64,Lucky's Bakery and Patisserie,New Delhi,Bakery,400,Yes,1,3.9,89
+65,Bablu Kabab Shop,New Delhi,North Indian,500,No,2,3.1,10
+66,Tea Lounge - The Ashok,New Delhi,Cafe,1600,No,3,3.2,18
+67,Tpot,Noida,Cafe,400,Yes,1,3.6,20
+68,Tasha's Artisan Foods,Gurgaon,Bakery,200,No,1,3.2,10
+69,Aggarwal Sweet India,New Delhi,Mithai,300,No,1,0.0,1
+70,Aradhya Restaurant,New Delhi,Chinese,200,No,1,0.0,0
+71,Hungry Ullu,Noida,Fast Food,500,Yes,2,3.3,141
+72,Saheb's Restaurant,Noida,North Indian,550,No,2,2.7,26
+73,Flavours of Tibet,New Delhi,Tibetan,500,Yes,2,3.3,141
+74,China Pan,New Delhi,Chinese,200,No,1,0.0,0
+75,Annapurna Caters,New Delhi,North Indian,200,No,1,0.0,2
+76,Zizo,Noida,Lebanese,1600,Yes,3,3.8,67
+77,South Indian Food Plaza,New Delhi,South Indian,250,No,1,0.0,0
+78,Eat Street Express,Nagpur,North Indian,500,Yes,2,4.0,103
+79,Jugmug Thela,New Delhi,Beverages,200,No,1,3.8,25
+80,The Warehouse Cafe,Birmingham,British,20,No,2,3.8,38
+81,Mughal Chic Inn,New Delhi,Mughlai,600,No,2,3.3,23
+82,Domino's Pizza,Gurgaon,Pizza,700,No,2,2.4,112
+83,KD's Hunger Point,Noida,North Indian,200,No,1,3.7,49
+84,Ooma,Mandaluyong City,Japanese,1500,No,4,4.9,365
+85,CHA,Gurgaon,Beverages,200,No,1,3.2,7
+86,Domino's Pizza,New Delhi,Pizza,700,No,2,3.5,119
+87,Letz Roll,New Delhi,Ice Cream,250,No,1,3.6,14
+88,Hirdesh Eating Point,New Delhi,North Indian,200,No,1,0.0,1
+89,Kolkata Biryani House,New Delhi,North Indian,500,Yes,2,3.4,404
+90,Plot 17,Vizag,Burger,600,No,2,4.3,172
+91,Food Brigade,Noida,North Indian,300,No,1,3.2,15
+92,Chicken Point,New Delhi,Mughlai,600,No,2,0.0,0
+93,Pind Balluchi,Gurgaon,North Indian,800,Yes,2,2.7,80
+94,The Biryani Hut,New Delhi,Biryani,400,No,1,2.9,5
+95,JUGAAD JN.,Bhubaneshwar,North Indian,300,No,1,4.1,199
+96,Le Cirque - The Leela Palace,New Delhi,French,5000,No,4,3.8,199
+97,Green Chick Chop,New Delhi,Raw Meats,350,No,1,3.0,7
+98,Royal Cakes,New Delhi,Bakery,200,No,1,0.0,1
+99,Karakí_y Gí_llí_oÛôlu,ÛÁstanbul,Desserts,40,No,2,4.7,1305
+100,Midnight Adda,New Delhi,North Indian,600,No,2,3.0,6
+101,Chakhlo Food Court,New Delhi,North Indian,300,No,1,2.6,45
+102,Chhabra Sweets,New Delhi,Mithai,100,No,1,2.4,15
+103,Magadh and Awadh,Gurgaon,Bihari,1200,Yes,3,4.0,226
+104,BarShala,New Delhi,Finger Food,600,No,2,3.1,14
+105,Kukkuu Da Dhaba,New Delhi,North Indian,400,No,1,0.0,3
+106,Republic Of Food Lovers,New Delhi,Fast Food,400,No,1,3.6,27
+107,Tasty Bite,New Delhi,North Indian,650,Yes,2,2.8,12
+108,The Tea Lounge - Taj Palace Hotel,New Delhi,Cafe,1500,No,3,4.0,76
+109,Haaochi,Noida,Chinese,600,Yes,2,3.5,123
+110,Zoe,Gurgaon,Juices,700,Yes,2,4.3,217
+111,Rahul Eggs,New Delhi,Fast Food,400,No,1,4.2,762
+112,Gupta's Rasoi,New Delhi,North Indian,350,Yes,1,2.8,60
+113,Cafe Coffee Day - The Lounge,New Delhi,Cafe,750,No,2,3.3,81
+114,Domino's Pizza,New Delhi,Pizza,700,No,2,0.0,0
+115,Engineers Da Dhaba,Noida,North Indian,400,Yes,1,3.6,38
+116,Curlies,Goa,Continental,1500,No,4,3.5,1681
+117,Go Kylin,Gurgaon,Japanese,1500,Yes,3,3.5,81
+118,Volt - By Plan B,Gurgaon,Mediterranean,1000,No,3,3.5,19
+119,Burma Burma,Gurgaon,Asian,1500,No,3,4.6,563
+120,Mitra Da Dhaba,New Delhi,North Indian,350,Yes,1,2.8,55
+121,Shivas Cafe,New Delhi,Cafe,350,No,1,3.1,14
+122,Celeste,New Delhi,Cafe,500,No,2,3.5,14
+123,Crazy Cow,New Delhi,Chinese,600,Yes,2,2.2,126
+124,Sri Basant Vihar,Patna,North Indian,600,No,2,3.6,75
+125,OMG Tiffinz,Gurgaon,North Indian,250,No,1,0.0,0
+126,Kabooze,New Delhi,North Indian,1900,Yes,3,3.3,148
+127,Big Chill,New Delhi,Italian,1500,No,3,4.5,4986
+128,London Street Kitchen,New Delhi,North Indian,600,Yes,2,4.2,163
+129,Hyderabad Spl. Chicken Biryani Point,New Delhi,Mughlai,350,No,1,3.0,4
+130,Haldiram Bhujiawala,New Delhi,Street Food,400,No,1,3.4,35
+131,Laxmi Corner,New Delhi,North Indian,150,No,1,3.0,5
+132,Sagar Ratna,Mangalore,South Indian,500,No,2,3.7,175
+133,CG's - Lounge Cafe Bar,New Delhi,Continental,1700,No,3,3.9,88
+134,Asian Haus,New Delhi,Chinese,1500,Yes,3,4.1,686
+135,The Midnight Heroes,New Delhi,North Indian,950,Yes,2,3.6,203
+136,Aggarwal Sweet Centre,New Delhi,North Indian,150,No,1,0.0,2
+137,Shiva Shudh Shakahari Bhojnalaya,Noida,North Indian,200,No,1,0.0,0
+138,Baskin Robbins,New Delhi,Ice Cream,300,No,1,3.4,21
+139,Vatika,New Delhi,North Indian,550,Yes,2,2.7,52
+140,The Beer Cafe - BIGGIE,New Delhi,Finger Food,1250,No,3,3.8,645
+141,Samavar,New Delhi,Kashmiri,800,Yes,2,3.3,89
+142,Ram Ji Snacks & Food Corner,New Delhi,Street Food,100,No,1,0.0,1
+143,Chinese Food,New Delhi,Fast Food,250,No,1,2.9,8
+144,Chetana Bakes,New Delhi,Bakery,400,No,1,3.0,6
+145,Cravings,Faridabad,North Indian,500,No,2,3.0,4
+146,Mogli's Coffee,Gurgaon,Cafe,150,No,1,3.8,35
+147,Le Petit Souffle,Makati City,French,1100,No,3,4.8,314
+148,Whipped,New Delhi,Bakery,550,Yes,2,4.2,372
+149,Milwaukee Wiener House,Sioux City,American,10,No,1,3.8,195
+150,Shri Duli Chand Naresh Gupta,New Delhi,Desserts,100,No,1,3.4,18
+151,Pahariya Chicken,New Delhi,North Indian,450,No,1,2.7,15
+152,Dancing Turkeys,Gurgaon,Continental,800,No,2,3.3,17
+153,My Spice Kitchen,New Delhi,North Indian,650,Yes,2,3.5,443
+154,KT's Shik-Shack,New Delhi,Street Food,200,No,1,0.0,1
+155,Remember Me Cafí©,New Delhi,Cafe,1000,Yes,3,4.0,134
+156,Cafe Green Apple,Noida,North Indian,400,No,1,3.2,16
+157,Bikaner Restaurant,New Delhi,North Indian,100,No,1,0.0,0
+158,DudeFood,Noida,North Indian,350,No,1,0.0,2
+159,Bikkgane Biryani,Noida,Biryani,800,Yes,2,3.8,612
+160,Hí_agen-Dazs,New Delhi,Desserts,700,No,2,4.0,649
+161,Republic of Chicken,New Delhi,Raw Meats,400,No,1,2.8,33
+162,Subway,New Delhi,American,500,Yes,2,2.8,183
+163,Chef Sack Kitchen,Gurgaon,Mexican,500,No,2,3.1,7
+164,Ten Downing Street Restaurant & Bar,Nagpur,Chinese,1000,No,3,4.0,306
+165,Kobe Sizzlers,Mangalore,Continental,1000,No,3,3.7,104
+166,Lavi Foji Dhaba,Gurgaon,North Indian,200,No,1,0.0,0
+167,Babu Soup Wala,New Delhi,North Indian,300,No,1,0.0,0
+168,Royale Bakers,Noida,Bakery,250,Yes,1,2.8,18
+169,Ethos Vegan Kitchen,Orlando,American,25,No,2,4.4,797
+170,Let's Tango,New Delhi,North Indian,400,No,1,3.0,5
+171,Yakooz,New Delhi,Hyderabadi,550,No,2,3.1,20
+172,Citrus Cafe - Lemon Tree Premier,Gurgaon,North Indian,2000,No,4,3.2,137
+173,Flavours Of Delhi,New Delhi,North Indian,650,No,2,0.0,0
+174,A W Foods,New Delhi,North Indian,500,No,2,3.4,44
+175,Ada e Handi Restaurant,New Delhi,Mughlai,700,Yes,2,2.6,34
+176,Kamdhenu Family Corner,New Delhi,North Indian,300,No,1,2.8,4
+177,Anil Mishtan Wala,New Delhi,Mithai,100,No,1,3.1,10
+178,Baskin Robbins,New Delhi,Ice Cream,300,No,1,3.5,36
+179,Food Express,Noida,North Indian,500,No,2,0.0,2
+180,The Fusion Kitchen,Mumbai,North Indian,1000,Yes,3,4.7,2083
+181,Thirsty Scholar Cafe,Noida,Cafe,450,No,1,3.2,45
+182,Peter Cat,Kolkata,Continental,1000,Yes,3,4.3,7574
+183,Radha Swami Cool Hut,New Delhi,Beverages,200,No,1,3.1,7
+184,Prem Chinese Fast Food,New Delhi,Chinese,150,No,1,0.0,0
+185,Kumar Pav Bhaji Corner,New Delhi,Fast Food,200,No,1,3.2,12
+186,Ahmed's,Noida,Mughlai,200,No,1,0.0,0
+187,Al-Swad,Noida,North Indian,400,Yes,1,2.5,6
+188,Sodam Korean Restaurant,San Juan City,Korean,700,No,3,4.3,223
+189,Blue Tokai Coffee Roasters,New Delhi,Cafe,350,Yes,1,4.4,269
+190,Noore-e-Seva,Gurgaon,Mughlai,150,No,1,0.0,0
+191,Let's Meet Up,New Delhi,Fast Food,350,No,1,3.2,16
+192,Sanjay Pandit Bhojnalaya,Noida,North Indian,150,No,1,0.0,2
+193,Bobby Tikki Wala,New Delhi,Street Food,150,No,1,2.8,69
+194,Biryani Blues,New Delhi,Biryani,1000,No,3,3.6,22
+195,Shanu's Food Shop,New Delhi,North Indian,450,Yes,1,2.8,13
+196,Yummy Cake,Faridabad,Bakery,400,No,1,3.0,4
+197,Biryani Binge,New Delhi,North Indian,600,Yes,2,3.9,97
+198,Bonne Bouche,New Delhi,Italian,1750,Yes,3,4.1,711
+199,China Town,New Delhi,Chinese,400,No,1,2.9,7
+200,Food Point and Sweets Corner,New Delhi,South Indian,250,No,1,0.0,2
+201,Punjabi Dhaba,New Delhi,North Indian,300,No,1,0.0,3
+202,24/7 Restaurant - The Lalit New Delhi,New Delhi,Continental,5100,No,4,3.7,419
+203,Pizza Express,Faridabad,Pizza,400,No,1,0.0,1
+204,The Manhattan Fish Market,Colombo,Seafood,4500,No,4,4.0,196
+205,Radhe Shyam,New Delhi,Street Food,150,No,1,2.8,10
+206,Kinbuck 2,New Delhi,North Indian,1600,No,3,3.9,1286
+207,Alam Biryani,New Delhi,Biryani,100,No,1,0.0,0
+208,Wimpy,New Delhi,Fast Food,350,No,1,2.6,220
+209,Rocomamas,Cape Town,Burger,250,No,3,3.6,131
+210,Giuseppe's Pizza & Italian Specialities,Augusta,Desserts,25,No,2,4.1,430
+211,Deli 63,New Delhi,Fast Food,300,Yes,1,3.6,52
+212,Baked Buns,New Delhi,Fast Food,500,Yes,2,3.1,18
+213,Choo Choo Eastside,Athens,Japanese,10,No,1,3.9,439
+214,The Fisherman's Wharf,Hyderabad,Seafood,1500,No,3,3.8,144
+215,Hippopotamus - Museum Hotel,Wellington City,French,200,No,4,4.4,125
+216,Adish,New Delhi,North Indian,700,No,2,3.1,45
+217,New Koto,Brasí_lia,Japanese,200,No,4,3.7,5
+218,Rigo Noodles,New Delhi,Chinese,500,No,2,3.5,133
+219,Roll Club,New Delhi,Fast Food,250,No,1,2.7,27
+220,Huey's On The River,Savannah,Breakfast,40,No,3,4.1,802
+221,Gabbar Di Hatti,New Delhi,North Indian,300,No,1,3.4,19
+222,Rajeev Restaurant,New Delhi,North Indian,200,No,1,3.0,5
+223,Shiv Saras Vyanjan,Faridabad,Mithai,100,No,1,2.9,5
+224,Kanha Bhog,Noida,Mithai,150,No,1,2.6,26
+225,Chicken Khurana,New Delhi,North Indian,550,Yes,2,2.7,128
+226,Foodrath,Gurgaon,North Indian,400,No,1,3.0,4
+227,Veloso,Sí£o Paulo,Brazilian,70,No,3,4.6,58
+228,The Food Store - DoubleTree by Hilton,Gurgaon,European,3000,No,4,3.6,58
+229,Niti Shake & Ice Cream Hub,New Delhi,Desserts,200,No,1,3.8,23
+230,Domino's Pizza,New Delhi,Pizza,700,No,2,2.8,85
+231,Taypíç,Brasí_lia,Peruvian,100,No,4,3.6,5
+232,Rasoi Ghar,Dubai,Indian,90,Yes,2,4.3,1281
+233,Chin China,New Delhi,Chinese,150,No,1,3.1,9
+234,Haldiram's,Noida,North Indian,600,No,2,3.5,169
+235,Kerala Cafe,Varanasi,South Indian,300,No,2,3.6,125
+236,HI Lite Bar & Lounge,Miller,nan,0,No,1,3.4,11
+237,Bhogal Chole Bhature Wala,New Delhi,Street Food,150,No,1,3.8,47
+238,Costa Coffee,New Delhi,Cafe,600,No,2,3.5,103
+239,Sheetla Dhaba,Gurgaon,North Indian,400,No,1,0.0,0
+240,Club Tokyo - Best Western Skycity Hotel,Gurgaon,Japanese,1500,No,3,2.8,13
+241,Giovanni's Shrimp Truck,Rest of Hawaii,Seafood,25,No,2,4.5,691
+242,Nutri Lunch,New Delhi,North Indian,200,No,1,0.0,0
+243,New Laxmi Sweets,New Delhi,South Indian,200,No,1,2.8,11
+244,Keventers,New Delhi,Beverages,400,No,1,3.9,383
+245,Janta Sweets,New Delhi,Street Food,200,No,1,3.0,9
+246,Zizo,Gurgaon,Lebanese,1600,Yes,3,3.9,233
+247,Best Chicken Corner,New Delhi,North Indian,650,No,2,0.0,0
+248,Hot Fork,Gurgaon,Chinese,400,No,1,0.0,2
+249,Chulha Punjabi Da,New Delhi,North Indian,600,Yes,2,2.4,41
+250,Milk n More,New Delhi,Desserts,100,No,1,3.1,6
+251,What's Up,Kolkata,Cafe,1000,No,3,4.0,1126
+252,Cottage Cafí© by Smoothie factory,New Delhi,Cafe,650,Yes,2,3.7,223
+253,Juniper Bar - Andaz Delhi,New Delhi,North Indian,1500,No,3,3.0,4
+254,Meatwale.com,New Delhi,North Indian,300,No,1,0.0,0
+255,Prince Fried N Grilled Chicken,New Delhi,North Indian,450,No,1,2.7,18
+256,Crudo Juicery,Gurgaon,Beverages,400,Yes,1,4.3,33
+257,Uncle's Patty,Noida,Fast Food,500,No,2,3.5,28
+258,Pizza Yum,New Delhi,Pizza,650,No,2,2.7,8
+259,Food For Thought,New Delhi,North Indian,700,Yes,2,3.8,55
+260,The Ice Cafe,New Delhi,Cafe,400,No,1,3.2,28
+261,Man Vs Food The Kitchen,New Delhi,North Indian,600,Yes,2,3.1,9
+262,Cafe Einstein,New Delhi,North Indian,550,No,2,0.0,1
+263,Just Vada Pav,New Delhi,Street Food,150,No,1,3.6,94
+264,GoGourmet,Gurgaon,Healthy Food,600,No,2,3.2,8
+265,P.F. Chang's,Abu Dhabi,Chinese,250,No,4,4.2,435
+266,The Brewhouse,Gurgaon,Continental,2500,No,4,4.1,56
+267,Vaishno Amritsari Dhaba,New Delhi,North Indian,350,Yes,1,3.2,51
+268,The Krib,New Delhi,Italian,2500,No,4,3.2,14
+269,Patiala,Gurgaon,Mughlai,600,No,2,3.4,33
+270,Pind Bawarchi,Gurgaon,North Indian,600,Yes,2,3.1,8
+271,Muradabadi Biryani,New Delhi,Hyderabadi,300,No,1,2.6,18
+272,Annapurna Sweets Palace,New Delhi,Mithai,100,No,1,0.0,1
+273,The Cake Shop,Noida,Bakery,250,No,1,0.0,2
+274,Bhatia Sweets,New Delhi,Mithai,150,No,1,3.5,97
+275,The Rolling Pin Bakery,Gurgaon,Bakery,500,No,2,3.1,10
+276,Baskin Robbins,New Delhi,Ice Cream,300,Yes,1,3.3,38
+277,KFC,Gurgaon,American,500,Yes,2,2.7,17
+278,Gulshan Pastry Shop,New Delhi,Bakery,200,No,1,3.0,9
+279,Punjabi Zaika,New Delhi,Chinese,500,Yes,2,2.9,39
+280,Tiffin Man House,Noida,North Indian,200,No,1,0.0,0
+281,The Delhi Canteen,New Delhi,North Indian,1000,Yes,3,3.6,305
+282,Khatey Raho,New Delhi,North Indian,250,No,1,3.3,26
+283,Kumar Pastry Shop,New Delhi,Bakery,300,No,1,3.2,31
+284,Cafe Regent,New Delhi,Cafe,700,No,2,3.0,7
+285,Rama Desi Ghee Meat Wala,New Delhi,North Indian,650,No,2,0.0,0
+286,Biryani Blues,Noida,Biryani,1000,No,3,3.5,18
+287,South Indian Corner,New Delhi,South Indian,200,No,1,3.3,27
+288,Chaska,New Delhi,North Indian,500,Yes,2,3.2,161
+289,Berco's,Noida,Chinese,1100,Yes,3,3.7,1182
+290,Cafe Cruise,New Delhi,Continental,1300,Yes,3,2.8,153
+291,The Saffron Plant Restaurant,Noida,Chinese,700,No,2,0.0,0
+292,Cafe on 3 - Holiday Inn,New Delhi,Continental,2000,No,4,3.4,174
+293,Turban Tadka,New Delhi,North Indian,250,No,1,0.0,3
+294,Hungrill,Faridabad,North Indian,500,No,2,3.0,4
+295,Republic of Chicken,Gurgaon,Raw Meats,400,No,1,2.8,9
+296,McDonald's,New Delhi,Fast Food,500,No,2,3.8,388
+297,The Pure Kitchen,New Delhi,Chinese,250,No,1,0.0,0
+298,The Bubble Tea Cafe,New Delhi,Cafe,600,Yes,2,3.0,182
+299,Freshco - The Health Cafí©,Vadodara,Cafe,700,No,2,4.2,132
+300,Italiano,Gurgaon,Italian,1500,No,3,3.0,49
+301,Flirty Momo's,New Delhi,Chinese,350,Yes,1,3.1,37
+302,Food Cafe,New Delhi,South Indian,350,No,1,0.0,0
+303,Cafe Maple Street,Gurgaon,Cafe,500,Yes,2,3.5,84
+304,The Pork Shop,New Delhi,Chinese,400,Yes,1,0.0,3
+305,Cake Symphony,New Delhi,Bakery,600,No,2,3.1,15
+306,Puri Bakers,New Delhi,Bakery,300,Yes,1,3.6,108
+307,Theobroma,Gurgaon,Bakery,600,Yes,2,3.8,227
+308,Flamess Restaurant & Cafe Village,New Delhi,North Indian,700,Yes,2,3.5,349
+309,Fashion Tv Cafe,New Delhi,Continental,2200,No,4,3.6,27
+310,Singh's Delight Restaurant,Varanasi,Chinese,700,No,3,3.5,57
+311,Chawla's 2,Noida,North Indian,700,Yes,2,2.2,81
+312,Invitation Restaurant,Faridabad,North Indian,500,Yes,2,2.7,17
+313,Thela,New Delhi,North Indian,500,Yes,2,3.5,87
+314,Carpedium,Gurgaon,Bakery,200,No,1,3.1,7
+315,Titu Restaurant,New Delhi,North Indian,300,No,1,2.9,13
+316,PiccoLicko,Gurgaon,Desserts,200,Yes,1,3.3,12
+317,Mocha,Indore,Cafe,800,No,3,4.0,341
+318,Better Butter Chicken,Noida,North Indian,500,No,2,0.0,0
+319,Punjabi Angeethi,New Delhi,North Indian,600,Yes,2,3.2,28
+320,Stuti Restaurant,New Delhi,North Indian,250,No,1,3.0,26
+321,Let's Eat,New Delhi,Fast Food,200,No,1,0.0,1
+322,Manna Sweets & Restaurant,New Delhi,Mithai,200,No,1,0.0,1
+323,Qash Retro Bar,New Delhi,Finger Food,2000,No,4,2.7,81
+324,Lalu Kababe,New Delhi,Mughlai,200,No,1,3.2,13
+325,Stuffed Kathi Roll,New Delhi,Fast Food,250,No,1,0.0,1
+326,KFC,Patna,Fast Food,500,No,2,3.3,49
+327,New Sharma Chicken Corner,New Delhi,North Indian,150,No,1,0.0,2
+328,Mukhtalif Biryanis,Gurgaon,Mughlai,600,Yes,2,3.7,125
+329,Shahenshah,Noida,North Indian,500,No,2,3.0,4
+330,Shiv Shakti Dhaba,New Delhi,North Indian,100,No,1,0.0,0
+331,Sagar Ratna,Allahabad,South Indian,400,No,2,3.5,134
+332,Vijay Dhaba,New Delhi,North Indian,150,No,1,2.9,7
+333,Nathu's Pastry Shop,New Delhi,Bakery,300,No,1,3.8,120
+334,Crafted Blends,Sharjah,Cafe,110,No,4,4.2,43
+335,ChandChini,Gurgaon,North Indian,800,No,2,3.8,40
+336,Jethro's BBQ,Des Moines,American,25,No,2,4.3,699
+337,La Plage,Goa,Seafood,800,No,3,4.6,302
+338,Bengali Sweet House,New Delhi,North Indian,400,No,1,3.6,85
+339,Chili's,Chandigarh,Mexican,1400,Yes,3,4.3,970
+340,Masti Curry,New Delhi,North Indian,350,Yes,1,2.8,31
+341,The Junction,New Delhi,North Indian,1200,No,3,3.9,93
+342,Punjab Chicken & Bar-Be-Que,New Delhi,North Indian,600,No,2,2.9,5
+343,Liquid Lounge,Mangalore,Finger Food,800,No,3,3.8,290
+344,Huddle Cafe,New Delhi,Fast Food,250,No,1,3.4,23
+345,Owlcity,Noida,Fast Food,400,Yes,1,3.6,165
+346,Buffalo Wild Wings,Valdosta,Bar Food,25,No,2,3.4,98
+347,Dilli BC,New Delhi,North Indian,700,Yes,2,4.1,267
+348,The Dragon Hucks,New Delhi,Chinese,800,No,2,3.3,97
+349,Rudra The Dhaba,New Delhi,North Indian,200,No,1,0.0,0
+350,Burger King,New Delhi,Burger,500,Yes,2,3.8,2093
+351,Pizza Hut,Gurgaon,Italian,1000,Yes,3,2.8,80
+352,Choco Bee,Noida,Bakery,500,No,2,0.0,3
+353,Irish Democrat,Cedar Rapids/Iowa City,American,25,No,2,4.4,430
+354,Mi Patria,Des Moines,Latin American,25,No,2,4.0,157
+355,Pandit Ji Ki Apni Rasoi,New Delhi,North Indian,300,Yes,1,2.4,4
+356,Sofra Istanbul,Abu Dhabi,Turkish,70,No,2,4.3,224
+357,The Flashback,New Delhi,Cafe,700,Yes,2,3.7,617
+358,Bake N Shake,Bhopal,Fast Food,500,No,2,4.3,120
+359,La Trattoria of Lavandula,Hepburn Springs,Italian,7,No,1,3.8,93
+360,Sagar Ratna,Gurgaon,South Indian,600,No,2,2.7,235
+361,Cafe des Arts,Puducherry,Cafe,800,No,3,3.5,298
+362,Pind Balluchi,Noida,North Indian,900,No,2,2.9,7
+363,Los Agaves,Davenport,Mexican,25,No,2,4.1,157
+364,Big Brewsky,Bangalore,Finger Food,1800,Yes,3,4.5,5705
+365,Indo Traditional Kulfi,New Delhi,Ice Cream,100,No,1,3.1,5
+366,Cafe De Bienka,New Delhi,Fast Food,350,No,1,2.7,12
+367,Chicago Pizza,New Delhi,Pizza,600,Yes,2,2.6,10
+368,Garota de Ipanema,Rio de Janeiro,Brazilian,120,No,4,4.9,49
+369,Keventers,Noida,Beverages,400,No,1,2.9,4
+370,Mr. Momo,New Delhi,Fast Food,350,No,1,0.0,1
+371,Lets Bake Love,New Delhi,Bakery,600,No,2,3.0,4
+372,Al Naseem Foods Shawarma,New Delhi,Fast Food,200,No,1,0.0,0
+373,Patiala Shahi,Gurgaon,North Indian,800,Yes,2,3.5,118
+374,Seasons 52 Fresh Grill,Orlando,American,60,No,4,4.4,1685
+375,Wildfire - Crowne Plaza,Gurgaon,South American,5000,No,4,3.7,131
+376,Negi Restaurant,New Delhi,North Indian,150,No,1,0.0,0
+377,Mutfi,Noida,North Indian,600,Yes,2,3.3,15
+378,Raj Bakers And Confectioners,New Delhi,Fast Food,100,No,1,3.0,6
+379,Sea Lord,New Delhi,North Indian,250,No,1,0.0,3
+380,Baking Bad,New Delhi,Pizza,1000,Yes,3,3.8,697
+381,Aggarwal Confectionary,New Delhi,Street Food,50,No,1,2.8,7
+382,The Cake Xpress,Noida,Bakery,250,Yes,1,3.0,43
+383,Kolkata Biryani House,Noida,North Indian,500,Yes,2,2.8,109
+384,Au Bon Pain,Gurgaon,Cafe,600,Yes,2,3.7,503
+385,Piper's & Grill - The Night Chef,New Delhi,North Indian,500,No,2,0.0,0
+386,Keventers,Gurgaon,Beverages,400,No,1,3.6,27
+387,Cafemiz,Ankara,World Cuisine,150,No,4,4.4,115
+388,Hot 'N' Cool,New Delhi,Fast Food,200,No,1,0.0,0
+389,Garam Masala Food Corner,New Delhi,North Indian,450,Yes,1,3.3,114
+390,Purple Haze,Mysore,Finger Food,1200,No,3,3.7,183
+391,Speedy Chow,Noida,Chinese,850,Yes,2,3.6,114
+392,Jahanpanah,Agra,North Indian,850,No,3,3.9,140
+393,Pizza Hut Delivery,New Delhi,Italian,800,Yes,2,3.6,103
+394,Colonel's Kababz,New Delhi,North Indian,600,Yes,2,3.4,38
+395,Civerinos,Edinburgh,Pizza,35,No,3,3.7,27
+396,Kolkata Roll Point,Noida,Fast Food,100,No,1,2.8,9
+397,Javed Chicken Corner,New Delhi,Mughlai,400,No,1,0.0,0
+398,QD's Restaurant,New Delhi,Chinese,800,Yes,2,3.9,2724
+399,Bon Appí©tit,New Delhi,Fast Food,350,Yes,1,3.8,212
+400,Overdose,New Delhi,North Indian,600,Yes,2,2.7,10
+401,Hunger Tales,Noida,Lucknowi,500,No,2,0.0,0
+402,Bhatia Chinese Food,New Delhi,Chinese,200,No,1,0.0,0
+403,Cafe 6,New Delhi,Cafe,500,Yes,2,3.9,406
+404,Rajinder Xpress,New Delhi,North Indian,800,No,2,3.8,310
+405,Lovecrumbs Bakery,Gurgaon,Bakery,1000,No,3,3.4,16
+406,Dujal Cafe,Gurgaon,Chinese,250,No,1,0.0,0
+407,TT Burger,Rio de Janeiro,Burger,60,No,3,4.8,19
+408,Four Queens Dairy Cream,Waterloo,Desserts,10,No,1,3.9,190
+409,First Gear Cafe,Dehradun,Cafe,700,No,3,3.9,131
+410,Funkey Monkey,Lakes Entrance,Breakfast,7,No,1,3.8,97
+411,Sudarshan,New Delhi,Street Food,150,No,1,3.7,54
+412,Shahenshah,Noida,North Indian,500,Yes,2,3.5,61
+413,Fresh Food,Gurgaon,North Indian,200,No,1,0.0,0
+414,Chimney - The Takeaway,Gurgaon,North Indian,500,No,2,0.0,1
+415,Dewsis,Allahabad,North Indian,600,No,3,3.4,99
+416,Tandoori Mystery,Noida,North Indian,400,No,1,0.0,3
+417,Yes Minister - Pub & Kitchen,New Delhi,Mediterranean,1800,No,3,3.7,234
+418,Bats On Delivery,New Delhi,North Indian,700,No,2,3.1,17
+419,SGF - Spice Grill Flame,New Delhi,North Indian,500,No,2,3.1,8
+420,The Pack King,Gurgaon,North Indian,400,No,1,0.0,3
+421,Pappi Machhi Wala,New Delhi,North Indian,450,No,1,3.2,9
+422,For God's Cake,New Delhi,Bakery,250,Yes,1,3.9,533
+423,Asia Kitchen,New Delhi,Chinese,1300,Yes,3,3.7,137
+424,First Treat Bakers,New Delhi,Bakery,300,No,1,0.0,2
+425,Sheroes Hangout,Agra,Cafe,0,No,1,4.9,77
+426,Gujarat Bhawan Restaurant,New Delhi,Gujarati,400,No,1,3.7,203
+427,Panjabi Chic-Shoppe,New Delhi,Raw Meats,300,No,1,0.0,0
+428,McDonald's,Noida,Fast Food,500,No,2,3.4,70
+429,The Cafe,New Delhi,Cafe,1000,Yes,3,3.8,20
+430,Zaaika Junction,New Delhi,Chinese,500,Yes,2,3.1,25
+431,The Bunk House,New Delhi,Italian,1500,No,3,3.9,96
+432,Cafí© Healthilicious,New Delhi,Healthy Food,400,Yes,1,3.5,24
+433,Indian Summer,Ludhiana,North Indian,1400,No,3,4.1,191
+434,Friends N Foods,New Delhi,Chinese,300,No,1,0.0,0
+435,Moti Mahal Delux Tandoori Trail,Noida,North Indian,1200,Yes,3,2.0,108
+436,The Tasty Corner,Noida,North Indian,300,No,1,0.0,0
+437,Eleven to Eleven,New Delhi,North Indian,800,Yes,2,3.1,106
+438,Pacific Asia,New Delhi,North Indian,1200,Yes,3,3.7,151
+439,Zaika Kathi Rolls,Noida,Fast Food,100,No,1,0.0,3
+440,The Bakery Mart,Noida,Bakery,800,No,2,0.0,1
+441,The Royal Peasant,Athens,Bar Food,10,No,1,4.4,546
+442,Kaushal Dhaba,New Delhi,North Indian,150,No,1,0.0,0
+443,Fresh and Fit Ghar Ka Khana,Noida,North Indian,400,No,1,3.1,10
+444,Tandoori Kebab,New Delhi,North Indian,400,No,1,0.0,0
+445,Alpha Hotel,Vizag,North Indian,300,No,1,3.7,240
+446,Cut By Wolfgang Puck,Singapore,American,270,No,4,4.0,33
+447,Biryani Point,New Delhi,South Indian,150,No,1,0.0,1
+448,Attitude Kitchen & Bar,New Delhi,North Indian,1300,No,3,2.9,140
+449,Hurry's Paratha,Noida,Pizza,200,Yes,1,3.5,47
+450,Cafe Coffee Day,New Delhi,Cafe,450,No,1,2.6,33
+451,Cherry Berry,New Delhi,Bakery,200,No,1,0.0,0
+452,AOWLS,New Delhi,Chinese,300,Yes,1,3.5,37
+453,Karari Kurry,Gurgaon,North Indian,600,Yes,2,3.4,51
+454,Cake Walkers,New Delhi,Bakery,200,No,1,0.0,2
+455,Chick-fil-A,Albany,Fast Food,10,No,1,3.5,67
+456,Southern Santushti Cafe,Noida,South Indian,400,No,1,0.0,2
+457,Giani,New Delhi,Ice Cream,400,Yes,1,2.7,39
+458,Maachh Bhaat,Gurgaon,Oriya,600,Yes,2,3.4,256
+459,Madras Cafe,Gurgaon,South Indian,300,No,1,3.3,69
+460,The Tandoori Times,Faridabad,North Indian,500,No,2,2.7,48
+461,Mummy's Kitchen,Gurgaon,North Indian,150,No,1,3.5,26
+462,Laxmi Ice Cream,New Delhi,Ice Cream,200,No,1,3.4,25
+463,Cake And Bakes,New Delhi,Bakery,200,No,1,0.0,0
+464,L'amore,Noida,Bakery,200,No,1,0.0,2
+465,Muradabadi Shahi Biryani & Chicken Corner,New Delhi,Mughlai,400,No,1,0.0,0
+466,Cafe Tandoor,New Delhi,Fast Food,250,No,1,0.0,2
+467,Britto's Bar & Restaurant,Goa,North Indian,1400,No,4,4.3,2191
+468,Cafí© Bogchi,Faridabad,Cafe,650,Yes,2,4.1,153
+469,Aadhya Bakery & Foods,Noida,Bakery,250,No,1,0.0,0
+470,Wagh Bakri Tea Lounge,New Delhi,Cafe,400,No,1,3.7,48
+471,Grill Zone,New Delhi,Fast Food,300,Yes,1,3.4,23
+472,Keventers,New Delhi,Beverages,400,No,1,3.8,43
+473,Lounge & Bar - Eros Hotel,New Delhi,Finger Food,3650,No,4,3.5,18
+474,Ziya,Guwahati,Continental,700,No,2,4.3,96
+475,Shot Tower Inn,Dubuque,Italian,25,No,2,3.6,131
+476,Ramlal Sweets,New Delhi,Mithai,100,No,1,0.0,0
+477,Mahesh Shudh Vaishno Bhojanalya,New Delhi,North Indian,100,No,1,0.0,0
+478,Cafe Coffee Day,Gurgaon,Cafe,450,No,1,2.8,34
+479,Rupa Bangali Dhaba,New Delhi,North Indian,300,No,1,0.0,0
+480,Jerry's Pizza,Sioux City,Pizza,25,No,2,3.8,178
+481,The Urban Brava,Ranchi,Cafe,1000,No,3,3.6,95
+482,Fresh Food Factory,Noida,North Indian,300,No,1,3.9,140
+483,Domino's Pizza,Noida,Pizza,700,No,2,0.0,2
+484,Bobby Tikki Wala,New Delhi,Street Food,250,No,1,3.0,74
+485,Maddi Sweet Centre,New Delhi,Mithai,150,No,1,3.2,22
+486,Barbeque Nation,Mangalore,North Indian,1600,No,4,3.7,193
+487,Rajshree,New Delhi,North Indian,550,No,2,3.3,16
+488,Maharani Rasoi,New Delhi,North Indian,150,No,1,3.0,5
+489,Tawa N Tandoor,Gurgaon,North Indian,600,Yes,2,2.7,51
+490,Mishti's Kitchen,Noida,Chinese,550,Yes,2,3.6,49
+491,The Kitchin,Edinburgh,British,90,No,4,4.4,275
+492,Sindhi Chicken,New Delhi,North Indian,400,No,1,2.9,7
+493,Ravi Ke Parathe,New Delhi,North Indian,100,No,1,0.0,2
+494,My Country Platter,Gurgaon,Asian,600,Yes,2,3.8,61
+495,Giani,Noida,Ice Cream,400,Yes,1,0.0,0
+496,The Headquarter,New Delhi,Continental,1200,Yes,3,4.1,153
+497,Punjabi Tadka,New Delhi,North Indian,500,Yes,2,3.1,21
+498,Hash Stix,Faridabad,Fast Food,250,No,1,3.6,25
+499,Tea Villa Cafe,Mumbai,Cafe,1000,Yes,3,4.1,2040
+500,Cafe Rendezvous,New Delhi,Mexican,1550,Yes,3,3.3,191
+501,Burgzz Bee,Gurgaon,Burger,250,Yes,1,3.6,60
+502,Bake Walkers,Noida,Bakery,300,No,1,0.0,0
+503,Bhane,New Delhi,Ice Cream,300,No,1,3.6,26
+504,The Midnight Heroes,New Delhi,North Indian,950,Yes,2,3.6,447
+505,LPK Waterfront,Goa,Finger Food,1500,No,4,3.7,516
+506,Bake Town,New Delhi,Bakery,200,No,1,0.0,0
+507,Vinny Vanucchi's,Dubuque,Italian,25,No,2,3.4,58
+508,Kapil Dev's Eleven,Patna,North Indian,1000,No,3,3.6,107
+509,Baskin Robbins,New Delhi,Ice Cream,300,No,1,0.0,1
+510,New Bakers Shoppee,New Delhi,Bakery,200,No,1,3.2,21
+511,Olive Kitchen,Noida,North Indian,500,Yes,2,2.6,17
+512,Blue Water Grille,New Delhi,North Indian,700,Yes,2,3.5,180
+513,Old Moradabadi Chicken Corner,New Delhi,North Indian,400,No,1,0.0,0
+514,Themis Barbecue House,New Delhi,North Indian,1400,No,3,3.8,457
+515,Janta Canteen,New Delhi,North Indian,150,No,1,0.0,0
+516,Juste Miam,Gurgaon,Bakery,300,Yes,1,3.9,94
+517,Terraí_o Itíçlia,Sí£o Paulo,Italian,400,No,4,4.4,37
+518,Chicken Kraft,Noida,North Indian,400,No,1,2.9,4
+519,Hotel DDR,Gurgaon,North Indian,500,No,2,2.8,10
+520,Giani's di Hatti,New Delhi,Ice Cream,150,No,1,4.3,521
+521,Restaurant De Seoul,New Delhi,Japanese,2500,No,4,3.6,59
+522,Burger Lust,New Delhi,Fast Food,100,Yes,1,2.9,13
+523,Chennai Express Greens,New Delhi,South Indian,250,No,1,0.0,0
+524,Happy Hakka,New Delhi,Chinese,650,Yes,2,4.1,173
+525,The Frozen Factory,Noida,Ice Cream,350,No,1,3.7,22
+526,Captain Grub,New Delhi,American,1000,Yes,3,3.1,18
+527,Sher E Punjab,New Delhi,North Indian,450,No,1,0.0,1
+528,Onesta,Bangalore,Pizza,600,No,2,4.6,781
+529,New Eleven to Eleven,New Delhi,North Indian,1000,Yes,3,3.0,126
+530,Dilli Darbar,New Delhi,North Indian,400,No,1,3.3,34
+531,Raja Chat Corner,New Delhi,Street Food,100,No,1,3.3,20
+532,Barista,Ghaziabad,Cafe,650,Yes,2,3.4,33
+533,Ritz Classic,Goa,Goan,600,No,3,4.5,840
+534,New Punjabi Chaap Corner,New Delhi,Chinese,300,No,1,0.0,0
+535,Kalka's Food Centre,New Delhi,North Indian,200,No,1,0.0,0
+536,Himalaya Momos & Roll,Noida,Chinese,200,No,1,2.7,15
+537,Moti Mahal Delux,New Delhi,North Indian,1000,Yes,3,2.6,105
+538,Muradabadi Shahi Biryani & Chicken Corner,New Delhi,North Indian,450,Yes,1,2.6,24
+539,Chokhi Dhani,Jaipur,Rajasthani,1600,No,3,4.3,1478
+540,Satkar Fast Food,New Delhi,North Indian,200,No,1,2.8,20
+541,Kaka De Dhaba,New Delhi,North Indian,350,No,1,0.0,0
+542,KB's Kulfi & Icecream,Gurgaon,Ice Cream,200,Yes,1,3.3,19
+543,hug!,New Delhi,Desserts,300,Yes,1,3.5,19
+544,House of China Restaurant II,Albany,Chinese,10,No,1,3.8,153
+545,Kake Da Hotel,Gurgaon,North Indian,700,Yes,2,3.1,35
+546,Aapki Rasoi,New Delhi,North Indian,250,No,1,3.0,15
+547,Pandit Ji Paranthe Wale,New Delhi,North Indian,200,No,1,3.7,131
+548,The Bento Cafe,Noida,Asian,750,Yes,2,4.2,316
+549,La Favorita,Edinburgh,Italian,30,No,3,4.5,329
+550,Foodhall,New Delhi,Bakery,700,No,2,3.7,69
+551,Sufiya Hotel,Gurgaon,Mughlai,250,No,1,0.0,0
+552,Brij Palace Restaurant,New Delhi,North Indian,250,No,1,0.0,2
+553,Saturn,New Delhi,Fast Food,600,Yes,2,2.8,9
+554,Uttrakhand Dhaba,Gurgaon,North Indian,200,No,1,0.0,0
+555,Infinity - Crowne Plaza,New Delhi,Italian,3000,No,4,3.5,115
+556,New Bikaner Sweets,New Delhi,Street Food,200,No,1,3.0,10
+557,CafíÂ Befikre,New Delhi,Chinese,600,Yes,2,3.8,80
+558,Go Kylin,New Delhi,Japanese,1500,Yes,3,2.8,9
+559,Pizza Hut Delivery,Noida,Italian,800,Yes,2,2.3,62
+560,Sagar Ratna,New Delhi,South Indian,600,No,2,3.3,87
+561,Cake Express,New Delhi,Bakery,350,No,1,0.0,1
+562,Mister Mughal,Faridabad,Mughlai,600,Yes,2,3.5,33
+563,Crossroad Bar and Restaurant,New Delhi,North Indian,700,No,2,3.0,39
+564,Baskin Robbins,Gurgaon,Ice Cream,300,No,1,0.0,3
+565,Rolling Beans,Noida,North Indian,200,Yes,1,2.8,9
+566,Lady Baga,New Delhi,Goan,1200,Yes,3,3.7,277
+567,Jaak Foods,Noida,North Indian,400,No,1,0.0,1
+568,Kebab Xpress,New Delhi,North Indian,600,Yes,2,2.4,117
+569,Donald's Pastry Shop,Noida,Bakery,300,Yes,1,3.8,402
+570,Cafe Coffee Day,New Delhi,Cafe,450,No,1,3.3,78
+571,The Cake Basket,New Delhi,Bakery,100,No,1,0.0,1
+572,Gokul Gujarati Restaurant,Doha,Indian,50,No,2,4.3,211
+573,The Wine Company,Gurgaon,Italian,2000,No,4,2.4,2412
+574,Tsui Wong,New Delhi,Chinese,800,Yes,2,3.8,145
+575,Riyaz Biryani Corner,New Delhi,North Indian,300,No,1,0.0,2
+576,Late Lateefe,New Delhi,North Indian,600,Yes,2,3.5,44
+577,Chanda Food,Noida,Chinese,350,No,1,3.6,97
+578,The Paradise Biryani,Gurgaon,Biryani,700,Yes,2,2.9,22
+579,The Grill,Athens,Breakfast,10,No,1,3.7,289
+580,Janta Eating House,New Delhi,North Indian,150,No,1,3.3,40
+581,Panj Tara,New Delhi,North Indian,500,No,2,0.0,0
+582,Purani Dilli Foods,New Delhi,Mughlai,600,No,2,0.0,1
+583,Coffee to Cocktail Bar - Hyatt Place,Gurgaon,Drinks Only,2100,No,4,0.0,0
+584,Singh's Kitchen,New Delhi,Chinese,400,Yes,1,2.7,84
+585,Old Town Italy,Pretoria,Cafe,400,No,4,3.9,153
+586,Hard Rock Cafe,Dubai,American,300,No,4,4.5,1388
+587,Motu N Patlu,New Delhi,Lebanese,250,No,1,0.0,0
+588,Handi,Noida,North Indian,850,No,2,2.9,8
+589,Baobab Cafe & Grill,Pretoria,Cafe,410,No,4,4.0,235
+590,Costa Coffee,New Delhi,Cafe,600,No,2,3.6,80
+591,Bruncheez,New Delhi,Fast Food,150,No,1,0.0,2
+592,Taste of India,New Delhi,North Indian,1000,No,3,0.0,0
+593,3H Kitchen,Gurgaon,North Indian,600,No,2,2.9,15
+594,Shri Balaji Bhojnalaya,New Delhi,North Indian,250,No,1,0.0,1
+595,Buena Carne,Brasí_lia,Bar Food,60,No,3,3.6,9
+596,Anand Ji,New Delhi,North Indian,200,No,1,3.8,183
+597,The Creamery,Cape Town,Desserts,110,No,2,4.5,328
+598,Chandni Chowk 2 China,Noida,North Indian,400,No,1,0.0,0
+599,Downtown Grill,Macon,Steak,70,No,4,4.0,195
+600,Malik Vegetarian Rasoi,New Delhi,North Indian,250,No,1,2.9,9
+601,Dhaba - The Claridges,New Delhi,North Indian,4300,No,4,3.9,548
+602,Om Sweets & Snacks,Gurgaon,North Indian,500,Yes,2,3.1,138
+603,Papouli's Mediterranean Cafe & Market,Macon,Greek,10,No,1,4.2,223
+604,Mandeep Punjabi Rasoi,New Delhi,North Indian,200,No,1,3.0,10
+605,Go Krazy,Noida,Italian,400,No,1,3.5,27
+606,Granma's Homemade,New Delhi,Bakery,200,No,1,3.6,25
+607,Tea Lounge - Jaypee Greens,Noida,Cafe,900,No,2,2.9,14
+608,Pick Fresh Fish,New Delhi,Raw Meats,400,No,1,3.2,17
+609,Radhe Shyam Chole Bhature,New Delhi,Street Food,100,No,1,0.0,0
+610,R.S. Chinese Food,New Delhi,Fast Food,250,No,1,0.0,0
+611,Biryani By Kilo,Gurgaon,Biryani,700,Yes,2,3.9,403
+612,Sona Pure Veg Paradise,New Delhi,North Indian,500,No,2,3.8,158
+613,Grub Shack,Dubai,Goan,130,Yes,3,4.3,544
+614,The Moon Under Water,Tampa Bay,British,25,No,2,4.1,1020
+615,All Day 99,New Delhi,North Indian,250,Yes,1,0.0,3
+616,Baba Nagpal Corner,New Delhi,North Indian,150,No,1,4.1,577
+617,Red Chilli,Noida,North Indian,500,No,2,0.0,1
+618,Locos Grill & Pub,Albany,American,25,No,2,3.5,57
+619,Sadda Taste,Noida,North Indian,450,No,1,3.1,12
+620,Aap Ki Khatir,New Delhi,Mughlai,400,No,1,0.0,0
+621,Freshnfit.in,Gurgaon,Juices,250,No,1,0.0,1
+622,Texas Roadhouse,Davenport,American,25,No,2,4.2,197
+623,Food Ka Mood,Gurgaon,North Indian,500,Yes,2,3.1,34
+624,Karim's,New Delhi,Mughlai,700,Yes,2,3.1,185
+625,Mr. Crust Bakers,New Delhi,Bakery,400,No,1,4.2,741
+626,Rang De Basanti Urban Dhaba,New Delhi,North Indian,1300,Yes,3,4.4,541
+627,Cafe Coffee Day,New Delhi,Cafe,450,No,1,3.2,23
+628,The National,Johannesburg,American,515,No,4,4.2,212
+629,R S Foods,Gurgaon,Mughlai,450,No,1,0.0,0
+630,Shake Square,New Delhi,Beverages,400,No,1,3.7,1333
+631,Roti Aur Boti,New Delhi,Fast Food,100,No,1,3.2,38
+632,Yum Yum,New Delhi,Pizza,250,No,1,0.0,2
+633,Starbucks,Noida,Cafe,700,No,2,4.0,59
+634,Firenze,New Delhi,Cafe,500,No,2,2.8,25
+635,Nathu's Sweets,Noida,North Indian,500,No,2,2.4,77
+636,The Big Buddha Grill,Noida,Cafe,550,Yes,2,0.0,2
+637,Cafe Coffee Day,New Delhi,Cafe,450,No,1,3.0,4
+638,Pind Balluchi,New Delhi,North Indian,800,No,2,3.6,622
+639,New Chow Maun,New Delhi,Chinese,500,No,2,0.0,0
+640,Hira Sweets,New Delhi,North Indian,600,No,2,2.5,85
+641,Biryani House,Noida,Biryani,300,Yes,1,3.1,9
+642,Moon Light Sweets,New Delhi,Mithai,200,No,1,3.3,16
+643,Cafe Coffee Day,New Delhi,Cafe,450,No,1,2.9,9
+644,Pind Balluchi,New Delhi,North Indian,1000,Yes,3,2.4,184
+645,Fudged,New Delhi,Desserts,400,No,1,3.0,17
+646,Dosa Junction,New Delhi,South Indian,300,No,1,0.0,3
+647,Cookfresh,New Delhi,Asian,800,No,2,0.0,2
+648,Nagpal's,New Delhi,Street Food,200,Yes,1,3.4,135
+649,Tikka Express meets Chennai Express,Noida,Fast Food,400,No,1,0.0,1
+650,Pt. Babu Ram Devi Dayal Paranthe Wale,New Delhi,North Indian,150,No,1,3.0,53
+651,Bridge Road Brewers,Beechworth,Pizza,20,No,2,4.6,237
+652,China Town,Noida,Chinese,300,No,1,0.0,0
+653,Wildflour Cafe + Bakery,Taguig City,Cafe,1500,No,4,4.4,392
+654,56 Ristorante Italiano,Gurgaon,Italian,2200,Yes,4,3.7,416
+655,Da Pizza Zone,New Delhi,Pizza,600,Yes,2,0.0,2
+656,Shakun Cook-Du-Ku,New Delhi,Chinese,300,No,1,0.0,0
+657,Sultan Food,New Delhi,Mughlai,300,Yes,1,3.1,14
+658,Momozone,New Delhi,Fast Food,150,No,1,0.0,0
+659,Vibes of Punjab,New Delhi,North Indian,700,No,2,3.2,21
+660,McDonald's,Gurgaon,Fast Food,500,No,2,3.2,68
+661,Bikaner Sweets & Restaurant,New Delhi,North Indian,300,No,1,0.0,1
+662,Subway,New Delhi,American,500,Yes,2,2.4,65
+663,Boxmeal,Noida,North Indian,400,No,1,3.0,4
+664,Chit Chat,New Delhi,North Indian,700,Yes,2,3.1,68
+665,Craving Cure,New Delhi,Chinese,300,No,1,0.0,2
+666,Starbucks,New Delhi,Cafe,700,No,2,3.5,187
+667,Tandoori Zaaika,New Delhi,North Indian,500,No,2,3.0,4
+668,Chacha Shankar,New Delhi,North Indian,650,No,2,3.2,29
+669,Chicago Pizza,New Delhi,Pizza,800,No,2,2.9,48
+670,Shree Balaji Chaat Bhandar,New Delhi,Street Food,100,No,1,3.2,16
+671,The Urban Socialite,Bhopal,Italian,900,No,3,3.8,79
+672,Dharma Blue,Pensacola,Seafood,40,No,3,4.1,669
+673,Mughal E Azam,Birmingham,Pakistani,45,No,3,3.7,32
+674,Green Chick Chop,New Delhi,Raw Meats,350,No,1,0.0,3
+675,Aggarwal Sweets,New Delhi,North Indian,300,No,1,0.0,0
+676,Big City Bread Cafe,Athens,Breakfast,10,No,1,4.3,558
+677,Captain Bill$ Deliverz,Gurgaon,North Indian,1000,Yes,3,2.7,185
+678,The Grand Trunk Road,Hyderabad,North Indian,1100,Yes,3,3.9,616
+679,Samridhi,New Delhi,Kerala,350,No,1,3.2,85
+680,Veg Food Express,New Delhi,North Indian,400,No,1,0.0,0
+681,Fidel's,Wellington City,Cafe,50,No,3,4.4,242
+682,La Americana,New Delhi,Fast Food,450,Yes,1,3.6,139
+683,Bocca Di Lupo,London,Italian,45,No,3,4.5,571
+684,Georgia Dakota,New Delhi,Bakery,450,No,1,3.6,34
+685,The French by Simon Rogan - The Midland,Manchester,French,160,No,4,4.3,114
+686,Westí©ross,Gurgaon,Italian,400,Yes,1,3.5,40
+687,Native Cafe,Pensacola,Breakfast,25,No,2,4.2,591
+688,Paapi Paet,New Delhi,Fast Food,550,Yes,2,3.3,250
+689,Hunger's Hut,Noida,North Indian,350,Yes,1,0.0,3
+690,Ashok Meat Wala,New Delhi,Mughlai,500,No,2,3.5,106
+691,Applebee's,Sharjah,American,250,Yes,4,4.1,197
+692,ATM Bistro,New Delhi,European,1000,No,3,0.0,3
+693,Shri Bankey Bihari Brajwasi Rasgulle Wala,New Delhi,Mithai,150,No,1,3.5,36
+694,M.P. Canteen,New Delhi,South Indian,350,No,1,3.1,13
+695,Sanjay Chicken Shop,New Delhi,Raw Meats,350,No,1,0.0,0
+696,Nathu's Sweets,Noida,North Indian,600,Yes,2,2.5,211
+697,Hangout Cafe,Gurgaon,Fast Food,200,Yes,1,3.4,27
+698,Hot Curries,New Delhi,North Indian,700,Yes,2,3.4,60
+699,Sugar Rush,New Delhi,Bakery,200,No,1,0.0,2
+700,Ristorante Prego,Noida,Italian,1200,No,3,3.1,372
+701,Pho King Awesome,New Delhi,Asian,850,No,2,0.0,1
+702,The Street- Curries & Grills,Faridabad,North Indian,600,No,2,0.0,1
+703,Soho Hibachi,Dalton,Japanese,10,No,1,4.3,116
+704,The Hubbub Cafe and Restaurant,New Delhi,North Indian,500,No,2,0.0,0
+705,Bengali By Nature,Gurgaon,Fast Food,400,Yes,1,3.3,38
+706,Gallery Cafí© - Hyatt Place,Gurgaon,Cafe,1500,No,3,3.8,73
+707,Mini's Royal Cafe,Gurgaon,North Indian,500,No,2,3.3,21
+708,Aggarwal's Bikaner Mishthan Bhandar,Faridabad,Mithai,100,No,1,0.0,0
+709,Karim's,New Delhi,Mughlai,800,Yes,2,3.0,183
+710,Hooters,New Delhi,Continental,500,No,2,3.1,6
+711,First Eat,Gurgaon,Healthy Food,300,No,1,3.6,57
+712,Burger's King,Colombo,Fast Food,1000,No,2,4.1,199
+713,The Bake Studio,New Delhi,Bakery,450,No,1,3.1,12
+714,Prince Chicken & Mutton Shop,New Delhi,Raw Meats,600,No,2,2.6,22
+715,Foodaholic,New Delhi,Chinese,400,No,1,0.0,1
+716,Copper Restro Bar,New Delhi,North Indian,1200,No,3,2.8,15
+717,Cafe Corner,New Delhi,Fast Food,250,No,1,0.0,3
+718,French Omelette,Gurgaon,Fast Food,100,No,1,3.2,7
+719,Dilkhush Punjabi Dhaba,New Delhi,North Indian,500,No,2,0.0,3
+720,Manohar Dairy And Restaurant,Bhopal,North Indian,400,No,2,4.1,238
+721,Hot Stuff,New Delhi,Chinese,450,No,1,3.3,14
+722,Kitchen At 95 - Hyatt Regency,Ludhiana,Mediterranean,2000,No,4,4.3,87
+723,Queen's Cafe,Colombo,American,2000,No,3,2.5,93
+724,Dosa Corner,New Delhi,South Indian,300,No,1,3.6,93
+725,Pizza Hut,New Delhi,Italian,1000,Yes,3,3.3,276
+726,Zayka Delhi-6,New Delhi,North Indian,600,No,2,3.1,11
+727,Pastry Point,New Delhi,Bakery,200,No,1,0.0,3
+728,Twomato Foods,Noida,North Indian,400,Yes,1,3.2,11
+729,TCD Cake & Bake,Faridabad,Bakery,300,No,1,3.1,10
+730,Mother India,New Delhi,Bengali,1400,No,3,3.9,66
+731,Gupta's Restaurant,New Delhi,North Indian,450,Yes,1,3.5,104
+732,The Golden Leaf,New Delhi,North Indian,700,No,2,3.0,6
+733,Hong Kong Cafe,Albany,Chinese,25,No,2,3.6,88
+734,Twenty Four Seven,Noida,Fast Food,300,No,1,0.0,0
+735,Pappu Chat Bhandar,New Delhi,Street Food,150,No,1,3.5,19
+736,Govinda,New Delhi,Street Food,100,No,1,0.0,1
+737,Kake Da Hotel,New Delhi,North Indian,600,Yes,2,3.6,29
+738,Oh My !,Faridabad,North Indian,300,No,1,0.0,1
+739,Starve Stalkers,New Delhi,Italian,300,No,1,0.0,1
+740,Food Daddy,New Delhi,North Indian,300,No,1,0.0,1
+741,The Delhi Heights,New Delhi,North Indian,800,Yes,2,2.8,198
+742,Punjabi Parantha Station and Punjabi Thali,New Delhi,North Indian,150,No,1,0.0,2
+743,Hari Om Restaurant,Noida,North Indian,250,No,1,3.0,10
+744,The Elephant House,Edinburgh,Cafe,30,No,3,3.9,81
+745,Annapurna Bhojnalaya,New Delhi,North Indian,200,No,1,0.0,2
+746,FreshMenu,New Delhi,Italian,600,Yes,2,3.7,132
+747,Tiwari Hot Pot,Noida,North Indian,450,Yes,1,2.6,11
+748,Fresh n Refresh,New Delhi,Fast Food,500,No,2,2.8,22
+749,Gola Sizzlers,New Delhi,Chinese,1600,Yes,3,3.0,671
+750,Domino's Pizza,New Delhi,Pizza,700,No,2,3.0,71
+751,Cafe Coffee Day,New Delhi,Cafe,450,No,1,3.0,16
+752,Satguru Tiffin Service,New Delhi,North Indian,200,Yes,1,0.0,1
+753,Shivam Fast Food,Noida,North Indian,350,No,1,2.9,12
+754,Chowringhee,New Delhi,Fast Food,250,Yes,1,3.5,65
+755,Karol Bagh Ke Chhole Bhature,New Delhi,North Indian,150,No,1,0.0,0
+756,Silantro Fil-Mex,Pasig City,Filipino,800,No,3,4.9,1070
+757,Barbeque Nation,New Delhi,North Indian,1600,No,3,4.1,3164
+758,Rock n Wood Cafe,New Delhi,North Indian,500,Yes,2,3.4,168
+759,New South Indian & Chinese Foods,New Delhi,South Indian,200,No,1,0.0,2
+760,Finger Licious,New Delhi,Bakery,200,Yes,1,3.4,188
+761,Hotel Aditi,New Delhi,North Indian,200,No,1,0.0,1
+762,Bro's Kitchenette,Gurgaon,Fast Food,350,No,1,3.3,11
+763,Muskan Chicken Biryani,Gurgaon,Biryani,200,No,1,0.0,0
+764,Thalaivar,New Delhi,South Indian,800,Yes,2,3.8,49
+765,Mezzaluna,Mysore,Continental,650,No,2,3.8,249
+766,TGI Friday's,Chandigarh,American,1800,No,3,4.3,228
+767,T-2 Di Hatti,New Delhi,Street Food,100,No,1,0.0,2
+768,Sanjha Chula,Gurgaon,North Indian,700,No,2,3.0,6
+769,Samarpan Fast Food,New Delhi,Chinese,300,No,1,2.9,9
+770,Taksim,New Delhi,Continental,1500,No,3,3.9,188
+771,Chilli Indiana,Gurgaon,Italian,500,No,2,3.8,74
+772,Bharat Chicken Inn Foods,New Delhi,Mughlai,400,No,1,2.9,9
+773,Desi Thaat Amritsari Naan,New Delhi,North Indian,300,No,1,0.0,0
+774,Baba Ka Dhaba,New Delhi,North Indian,200,No,1,0.0,0
+775,Delhi Cafe Restaurant,New Delhi,North Indian,150,No,1,0.0,3
+776,Steak,Edinburgh,Steak,55,No,4,4.2,64
+777,Sindhi Dhaba,New Delhi,North Indian,200,No,1,2.9,19
+778,Kerala Cafe,New Delhi,Kerala,300,No,1,3.3,45
+779,Bhukkad,New Delhi,North Indian,500,Yes,2,3.2,8
+780,Night Food Delivery,New Delhi,North Indian,500,Yes,2,2.7,5
+781,New Shere Punjab Dhaba,New Delhi,North Indian,600,No,2,3.6,91
+782,Momo Mia,New Delhi,Chinese,400,No,1,3.8,152
+783,Muradabadi,New Delhi,Mughlai,400,No,1,3.0,5
+784,Parashar's,New Delhi,Chinese,250,No,1,2.9,4
+785,The Old Baker - Jaypee Vasant Continental,New Delhi,Bakery,500,No,2,3.3,17
+786,Mahi Rasoi,Noida,North Indian,500,Yes,2,2.6,34
+787,Maybe There,Bhopal,Cafe,600,No,2,3.4,63
+788,Shakti Food & Restaurant,Noida,North Indian,300,No,1,0.0,0
+789,Chao Cart,New Delhi,Chinese,400,No,1,3.1,4
+790,Big Bone - The Meat Shop,Noida,Raw Meats,350,No,1,3.1,16
+791,Sushil Punjabi Vaishno Dhaba,New Delhi,North Indian,150,No,1,0.0,0
+792,Parrot's,Pretoria,Contemporary,200,No,3,3.4,111
+793,Takosushi,Augusta,Mexican,40,No,3,4.2,647
+794,China Hut,Gurgaon,Chinese,300,No,1,2.4,18
+795,Punjabi Chicken,New Delhi,North Indian,400,No,1,0.0,3
+796,Street Foods by Punjab Grill,Gurgaon,Street Food,700,Yes,2,2.6,61
+797,Ramji Di Hatti & Caterers,New Delhi,North Indian,350,No,1,3.5,25
+798,Connexions Bar - Crowne Plaza,New Delhi,Finger Food,2500,No,4,3.5,59
+799,Adyar Ananda Bhavan,New Delhi,South Indian,500,Yes,2,3.5,368
+800,The California Boulevard,New Delhi,American,2000,No,4,4.6,1691
+801,Asian Haus,Gurgaon,Chinese,1500,Yes,3,3.9,360
+802,Cafe Gatherings,Gurgaon,Cafe,750,Yes,2,4.4,161
+803,Power Play Resto Bar,Gurgaon,North Indian,1850,No,3,2.8,91
+804,Bhardwaj Bakery,New Delhi,Bakery,100,No,1,0.0,0
+805,Raj Xpresso,Gurgaon,North Indian,650,No,2,2.9,13
+806,Indian Coffee House,Bhopal,South Indian,500,No,2,3.9,161
+807,Tiwari Ji Confectioner,New Delhi,Street Food,100,No,1,3.1,5
+808,Chinese Corner,New Delhi,Chinese,300,No,1,0.0,0
+809,Faaso's,Gurgaon,North Indian,600,Yes,2,3.6,33
+810,Aggarwal Sweets,New Delhi,Street Food,250,No,1,2.7,11
+811,Needs Gourmet,Gurgaon,North Indian,750,No,2,3.1,57
+812,Mutton Mewar,Gurgaon,Rajasthani,800,No,2,0.0,1
+813,Bake My Day,New Delhi,Bakery,250,No,1,0.0,2
+814,Pizza Castle,New Delhi,Pizza,500,Yes,2,2.7,29
+815,Cafe Coffee Day,Faridabad,Cafe,450,No,1,3.3,67
+816,Sandburg Shakes,Gurgaon,Cafe,750,Yes,2,4.0,34
+817,Sweet Nothings By Avanti Mathur,New Delhi,Desserts,600,No,2,3.7,40
+818,Chilli Singh,New Delhi,Chinese,800,Yes,2,3.1,7
+819,Green Chilly Chinese Food,Faridabad,Chinese,300,No,1,0.0,2
+820,Curries,New Delhi,Chinese,600,Yes,2,2.7,6
+821,Talaga Sampireun,Tangerang,Sunda,200000,No,3,4.9,2212
+822,Southy,New Delhi,South Indian,450,Yes,1,3.1,175
+823,Cafe Diva,New Delhi,European,2200,Yes,4,3.9,347
+824,Sid's Kitchen,New Delhi,North Indian,500,Yes,2,3.8,115
+825,Angeethi Restaurant,Aurangabad,North Indian,600,No,2,3.3,63
+826,Shadev Saini Dhaba,Noida,North Indian,200,No,1,3.0,7
+827,Side Wok,Gurgaon,Burmese,2000,Yes,4,3.9,280
+828,Mr. Dunderbak's Biergarten and Marketplatz,Tampa Bay,European,40,No,3,4.9,1413
+829,Mohanty Bakery & Confectionery,New Delhi,Bakery,200,No,1,0.0,0
+830,Subway,New Delhi,American,500,Yes,2,2.9,188
+831,Classic Chef Corner,New Delhi,Chinese,400,No,1,0.0,0
+832,Stabbers,New Delhi,Fast Food,400,Yes,1,2.4,101
+833,Barbeque Nation,Lucknow,North Indian,1600,No,4,4.7,1069
+834,Wood Box Cafe,New Delhi,Cafe,650,Yes,2,3.8,1970
+835,Hot & Spicy,Gurgaon,North Indian,450,No,1,0.0,0
+836,Last Resort Grill,Athens,American,40,No,3,4.5,1821
+837,Punjabi Tadka,New Delhi,North Indian,250,No,1,0.0,0
+838,Club BW - The Suryaa New Delhi,New Delhi,Finger Food,4400,No,4,3.6,90
+839,Uncle's Corner,Noida,Fast Food,400,No,1,0.0,1
+840,Krispy Kreme,New Delhi,Desserts,350,Yes,1,3.9,98
+841,Spl. Flavour Sodas & Fruit shakes,New Delhi,Juices,100,No,1,0.0,0
+842,Angeethi Express,New Delhi,North Indian,400,No,1,3.2,11
+843,Indiana Veg Restaurant,Aurangabad,South Indian,450,No,2,3.4,75
+844,Flashback Midnight Hunger,New Delhi,Italian,600,Yes,2,3.4,50
+845,Mogambo Kitchen,Gurgaon,North Indian,350,No,1,3.1,9
+846,Krunchies,Noida,Fast Food,200,Yes,1,2.5,19
+847,Wendy's,Noida,Burger,400,Yes,1,3.7,518
+848,Pahariya Chicken Corner,New Delhi,Raw Meats,400,No,1,3.1,7
+849,Aroma,Noida,South Indian,300,No,1,3.0,4
+850,Mocha,Lucknow,Cafe,800,No,3,4.6,567
+851,Zouk Tea Bar & Grill,Manchester,Indian,50,No,3,3.6,101
+852,Madhuban Restaurant - Welcome Hotel Rama International,Aurangabad,North Indian,1800,No,4,3.4,94
+853,"34, Chowringhee Lane",New Delhi,Fast Food,300,No,1,3.3,85
+854,Wrap N Roll,New Delhi,Chinese,300,No,1,0.0,1
+855,Apna Restaurant,Faridabad,North Indian,400,No,1,0.0,0
+856,Spezia Deliveries,New Delhi,North Indian,900,No,2,0.0,2
+857,Peshawari Restaurant,New Delhi,North Indian,700,No,2,3.1,55
+858,Urban Patty House,New Delhi,Fast Food,200,No,1,0.0,0
+859,Himalya Chinese,New Delhi,Chinese,300,No,1,0.0,1
+860,Sage,Gurgaon,Pizza,900,No,2,3.5,205
+861,IZU,Gurgaon,Japanese,1100,Yes,3,3.4,129
+862,Pind Balluchi,New Delhi,North Indian,1000,No,3,0.0,3
+863,From The Kitchen of Mala Bindra,New Delhi,Bakery,250,No,1,3.1,9
+864,Shudh,New Delhi,North Indian,600,Yes,2,3.1,247
+865,Satoo - Hotel Shangri-La,Jakarta,Asian,800000,No,3,4.6,873
+866,Chef Joint,New Delhi,North Indian,400,Yes,1,3.2,45
+867,Pizza Hut,New Delhi,Italian,1000,No,3,2.8,83
+868,Gemelli Cucina Bar,Sandton,Contemporary,450,No,4,4.8,542
+869,Roti Chai,London,Indian,45,No,3,4.5,367
+870,Cafe-18,Noida,Fast Food,250,No,1,2.5,103
+871,Crazzy Bite,New Delhi,Chinese,400,No,1,0.0,0
+872,Pudding & Pie,New Delhi,Bakery,450,No,1,3.4,66
+873,Pinkom's Bar-Be-Que,New Delhi,North Indian,350,No,1,3.2,12
+874,Shanu's Chicken Planet,New Delhi,North Indian,450,No,1,3.2,11
+875,Sierra's Mexican Restaurant,Dalton,Mexican,10,No,1,3.9,66
+876,Monarch Restaurant - Holiday Inn Jaipur City Centre,Jaipur,North Indian,2300,No,4,4.5,420
+877,Cafe Rock 'n' Rolla,New Delhi,Fast Food,600,Yes,2,3.6,103
+878,Bangla Sweet Corner,New Delhi,Chinese,400,No,1,2.6,32
+879,Emilio's Cuban Cafe,Macon,Coffee and Tea,25,No,2,3.9,146
+880,Indian Grill Company,New Delhi,North Indian,1300,Yes,3,3.7,626
+881,De Bone Chicken,New Delhi,Raw Meats,400,No,1,0.0,0
+882,Ovenstory Pizza,Noida,Pizza,500,Yes,2,3.3,26
+883,Rawleaf,Gurgaon,Healthy Food,700,Yes,2,3.6,38
+884,New Zaika Kathi Rolls,New Delhi,Fast Food,300,No,1,3.1,8
+885,Vaishno Punjabi Dhaba,New Delhi,North Indian,400,No,1,3.0,12
+886,Boozer's,Gurgaon,Finger Food,800,No,2,0.0,0
+887,52 Food Express,Noida,North Indian,300,No,1,0.0,2
+888,Berco's,New Delhi,Chinese,1100,No,3,3.1,5
+889,Wai Yu Mun Ching,Gurgaon,Chinese,800,Yes,2,3.6,321
+890,The Great Kabab Factory - Radisson Hotel,Varanasi,North Indian,1100,No,4,3.3,67
+891,Svasti Cafe,New Delhi,North Indian,800,No,2,3.1,6
+892,Cafe Coffee Day,New Delhi,Cafe,450,No,1,3.4,31
+893,The Breakfast Club,Gurgaon,Continental,500,Yes,2,3.5,189
+894,Night Food Delivery,Noida,North Indian,500,Yes,2,0.0,2
+895,Taj Mahal Dhaba,New Delhi,North Indian,400,No,1,0.0,2
+896,Joshi Eating House,New Delhi,North Indian,250,No,1,0.0,1
+897,Yo! China,Noida,Chinese,1300,Yes,3,2.5,252
+898,Student Corner,New Delhi,Fast Food,50,No,1,0.0,0
+899,Punjabi's Veg Grill,New Delhi,North Indian,350,No,1,3.2,8
+900,Aggarwal Sweets India,Noida,Mithai,150,No,1,0.0,0
+901,Domino's Pizza,Gurgaon,Pizza,700,No,2,2.4,125
+902,Chef's Paradise,New Delhi,North Indian,400,Yes,1,3.1,36
+903,Rain Tree Grill,New Delhi,North Indian,1200,Yes,3,3.2,74
+904,Thugs - Hotel Broadway,New Delhi,Finger Food,1100,No,3,3.4,72
+905,Dragon Hut,New Delhi,Chinese,400,Yes,1,3.3,72
+906,"34, Chowringhee Lane",New Delhi,Fast Food,350,Yes,1,2.8,7
+907,Pizza Hut Delivery,New Delhi,Italian,800,Yes,2,3.2,51
+908,Brothers' Amritsari Dhaba,Amritsar,North Indian,400,No,2,3.8,71
+909,99 North Restaurant,Bhubaneshwar,North Indian,450,No,1,3.6,173
+910,Mehak Food Corner,New Delhi,North Indian,350,No,1,3.2,87
+911,Chimney,Faridabad,North Indian,800,Yes,2,3.3,25
+912,Aggarwal Sweet Corner,Faridabad,Mithai,100,No,1,0.0,1
+913,Odeon Social,New Delhi,Continental,1600,No,3,4.1,1959
+914,Big Wong,New Delhi,Chinese,900,Yes,2,4.3,108
+915,Los Agaves,Davenport,Mexican,25,No,2,0.0,3
+916,Bikaner Sweets & Restaurant,Gurgaon,Street Food,350,No,1,3.1,9
+917,The Tuck Shop,New Delhi,Fast Food,700,No,2,3.3,17
+918,Hong Kong Express,New Delhi,Chinese,700,Yes,2,3.2,50
+919,The Kitchen Factory,Noida,North Indian,300,No,1,0.0,3
+920,Bhimsain's Bengali Sweet House,New Delhi,North Indian,400,Yes,1,3.4,560
+921,Maharaja Food Club,New Delhi,North Indian,300,No,1,0.0,1
+922,Chawla's_,Gurgaon,North Indian,800,No,2,2.2,66
+923,The Backyard Chef,Noida,North Indian,300,No,1,0.0,0
+924,Alam Biryani Center,New Delhi,Biryani,200,No,1,0.0,0
+925,Green Chick Chop,New Delhi,Raw Meats,350,No,1,3.2,17
+926,Checker's,Nagpur,Fast Food,550,Yes,2,4.0,185
+927,Sushi Family,Pocatello,Asian,25,No,2,3.6,132
+928,Dimsum Vs Sushi,New Delhi,Japanese,800,Yes,2,3.4,24
+929,Hungro,Noida,North Indian,150,No,1,0.0,1
+930,Little Cup Cake,New Delhi,Bakery,350,No,1,0.0,0
+931,Chinese Corner,New Delhi,Fast Food,350,No,1,0.0,0
+932,Sun Sweets Restaurant,Gurgaon,Street Food,400,No,1,0.0,3
+933,Airborne,Noida,North Indian,2000,No,4,0.0,0
+934,DEL - Roseate House,New Delhi,Continental,3000,No,4,3.6,30
+935,Flavours of Punjab,New Delhi,North Indian,750,Yes,2,2.5,165
+936,Wenger's Deli,New Delhi,Bakery,400,No,1,4.3,1457
+937,HotPlate,New Delhi,Fast Food,150,No,1,3.1,8
+938,PappaRich,Auckland,Malaysian,60,No,3,4.0,414
+939,Ovenstory Pizza,New Delhi,Pizza,500,Yes,2,0.0,1
+940,Raj Bhature wala,New Delhi,North Indian,350,Yes,1,3.4,84
+941,Department of Food and Social Affair,Gurgaon,Fast Food,300,No,1,0.0,0
+942,Vintro,New Delhi,Cafe,350,Yes,1,3.9,96
+943,BiBo's Kitchen,Gurgaon,Bengali,350,No,1,0.0,3
+944,Makers & Bakers,New Delhi,Bakery,350,No,1,0.0,0
+945,Healthy Nutrienty,New Delhi,Beverages,250,No,1,0.0,0
+946,Flaxton Gardens,Flaxton,Tea,30,No,3,3.5,37
+947,Kaveri Restaurant And Caterers,Ranchi,North Indian,450,No,1,3.4,102
+948,Mitthu Tikki Wala,New Delhi,North Indian,300,No,1,3.2,21
+949,Prince Chaat Corner,New Delhi,Street Food,150,No,1,3.2,12
+950,Jain Sweets & Bakers,New Delhi,North Indian,300,No,1,0.0,1
+951,Special Moradabadi Chicken Corner,New Delhi,Biryani,200,No,1,0.0,0
+952,Dunkin' Donuts,Gurgaon,Burger,600,No,2,3.4,87
+953,Burger King,New Delhi,Burger,500,No,2,3.2,10
+954,Raglan Road Irish Pub and Restaurant,Orlando,Irish,50,No,4,4.3,782
+955,Atlanta Highway Seafood Market,Gainesville,Sandwich,25,No,2,4.9,681
+956,Ankur Family Restaurant,New Delhi,North Indian,500,No,2,2.8,7
+957,Caramel,Faridabad,North Indian,600,No,2,2.9,9
+958,Bitters & Love,Singapore,Finger Food,40,No,3,3.9,35
+959,Anaicha's Food Joint,Kanpur,Chinese,850,No,3,3.6,106
+960,Subway,New Delhi,American,500,Yes,2,2.3,31
+961,Wonder Taste of Spices,New Delhi,North Indian,600,Yes,2,3.6,75
+962,Aggarwal Sweets,New Delhi,South Indian,200,No,1,0.0,0
+963,Wow! Momo,New Delhi,Tibetan,350,No,1,3.5,54
+964,Truffle Tangles,Gurgaon,Bakery,300,No,1,3.5,37
+965,@Mango,Ahmedabad,North Indian,800,No,3,4.1,769
+966,Super Bakery,Gurgaon,Bakery,250,No,1,3.3,26
+967,Nehra's Food Point,Gurgaon,Chinese,350,No,1,0.0,0
+968,Martin's Corner,Goa,Goan,1600,No,4,4.4,1115
+969,Dilli Zaika,New Delhi,Fast Food,300,No,1,3.2,23
+970,Fit Bites,Noida,Healthy Food,800,Yes,2,3.7,26
+971,Chaayos,Gurgaon,Cafe,400,Yes,1,3.8,393
+972,Pal Dhaba,Chandigarh,North Indian,700,No,2,3.8,982
+973,The Kav's,Ranchi,North Indian,400,No,1,3.2,51
+974,Piyu Fast Food,New Delhi,Chinese,300,No,1,0.0,0
+975,Delicacy Foods,New Delhi,North Indian,650,No,2,3.2,86
+976,Pizza Day,New Delhi,Pizza,500,Yes,2,0.0,2
+977,Farzi Cafe,Bangalore,Modern Indian,1500,No,3,4.4,754
+978,Soni Bhojnalaya,New Delhi,North Indian,300,No,1,3.0,4
+979,Uptown Cafe,New Delhi,Cafe,1000,Yes,3,3.6,244
+980,Cakes & Bakes,New Delhi,Bakery,250,No,1,3.2,11
+981,Million Kitchen,New Delhi,North Indian,350,No,1,0.0,1
+982,Chili's,Hyderabad,Mexican,1800,Yes,3,4.7,1932
+983,Chinese Bite,New Delhi,Chinese,700,No,2,2.8,31
+984,The Tin Cow,Pensacola,Burger,25,No,2,3.7,559
+985,Mexican Pizza,Noida,Pizza,500,No,2,3.4,15
+986,Moti Mahal Delux- Legendary Culinary,Noida,North Indian,900,Yes,2,3.6,72
+987,The Munchbox,New Delhi,North Indian,850,Yes,2,3.4,199
+988,Sat Guru Dhaba,New Delhi,North Indian,350,No,1,2.6,43
+989,Santushti,Noida,South Indian,300,Yes,1,2.6,70
+990,Aka Saka,New Delhi,Chinese,1200,No,3,3.3,176
+991,Cafe Coffee Day,New Delhi,Cafe,450,No,1,3.5,35
+992,Cafí© Daniel Briand,Brasí_lia,Cafe,30,No,1,3.8,9
+993,Shakahari Restaurant,New Delhi,North Indian,300,No,1,3.6,185
+994,"34, Chowringhee Lane",New Delhi,Fast Food,250,No,1,3.2,62
+995,Aggarwal Sweet Fresh,New Delhi,Mithai,100,No,1,0.0,2
+996,OMG Cafe,Ranchi,Cafe,500,No,2,3.3,19
+997,Bansiwala Restaurant,Noida,North Indian,200,Yes,1,2.5,4
+998,Foody Box,New Delhi,North Indian,300,No,1,3.1,8
+999,Swadist Bhojnalaya,New Delhi,Chinese,200,No,1,0.0,2
+1000,The Curzon Room - Maidens Hotel,New Delhi,European,3200,No,4,3.4,39
